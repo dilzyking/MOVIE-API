@@ -181,7 +181,7 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 511,
+        "votes": 534,
         "popularity": 1812.7019,
         "genreIds": [
           878,
@@ -190,48 +190,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 1982,
-        "popularity": 1162.6957,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1081003,
-        "type": "movie",
-        "title": "Supergirl",
-        "originalTitle": "Supergirl",
-        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 1269,
-        "popularity": 602.008,
-        "genreIds": [
-          28,
-          12,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1339713,
@@ -244,7 +202,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.3,
-        "votes": 4033,
+        "votes": 4043,
         "popularity": 357.8226,
         "genreIds": [
           27,
@@ -252,6 +210,69 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1081003,
+        "type": "movie",
+        "title": "Supergirl",
+        "originalTitle": "Supergirl",
+        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 6.7,
+        "votes": 1282,
+        "popularity": 602.008,
+        "genreIds": [
+          28,
+          12,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 1988,
+        "popularity": 1162.6957,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1307118,
+        "type": "movie",
+        "title": "Soulm8te",
+        "originalTitle": "Soulm8te",
+        "overview": "After a ruthless tech giant acquires his company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to program her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+        "poster": "/9ma5UG4RwHgzpZEhpbXTNQ51Tx9.jpg",
+        "backdrop": "/wpcH4b55vjkGOFCtydwIRC68nUN.jpg",
+        "date": "2026-07-31",
+        "year": "2026",
+        "rating": 5.8,
+        "votes": 12,
+        "popularity": 4.6332,
+        "genreIds": [
+          53,
+          878,
+          27
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1307118?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1481343,
@@ -264,7 +285,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 6.8,
-        "votes": 259,
+        "votes": 268,
         "popularity": 214.2698,
         "genreIds": [
           27,
@@ -272,27 +293,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1481343?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1307118,
-        "type": "movie",
-        "title": "Soulm8te",
-        "originalTitle": "Soulm8te",
-        "overview": "After a ruthless tech giant acquires his company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to program her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-        "poster": "/9ma5UG4RwHgzpZEhpbXTNQ51Tx9.jpg",
-        "backdrop": "/wpcH4b55vjkGOFCtydwIRC68nUN.jpg",
-        "date": "2026-07-31",
-        "year": "2026",
-        "rating": 6.1,
-        "votes": 10,
-        "popularity": 4.6332,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1307118?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1275779,
@@ -305,7 +305,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2122,
+        "votes": 2131,
         "popularity": 388.3201,
         "genreIds": [
           878,
@@ -325,7 +325,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2352,
+        "votes": 2353,
         "popularity": 220.5691,
         "genreIds": [
           10765,
@@ -355,6 +355,28 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/125909?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 980431,
+        "type": "movie",
+        "title": "Avatar Aang: The Last Airbender",
+        "originalTitle": "Avatar Aang: The Last Airbender",
+        "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+        "poster": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+        "backdrop": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg",
+        "date": "2026-07-24",
+        "year": "2026",
+        "rating": 9.4,
+        "votes": 541,
+        "popularity": 296.5453,
+        "genreIds": [
+          16,
+          28,
+          12,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/980431?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 30984,
@@ -388,7 +410,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2374,
+        "votes": 2378,
         "popularity": 262.9541,
         "genreIds": [
           27,
@@ -397,48 +419,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 980431,
-        "type": "movie",
-        "title": "Avatar Aang: The Last Airbender",
-        "originalTitle": "Avatar Aang: The Last Airbender",
-        "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-        "poster": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-        "backdrop": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg",
-        "date": "2026-07-24",
-        "year": "2026",
-        "rating": 9.4,
-        "votes": 539,
-        "popularity": 296.5453,
-        "genreIds": [
-          16,
-          28,
-          12,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/980431?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 277439,
-        "type": "tv",
-        "title": "Cape Fear",
-        "originalTitle": "Cape Fear",
-        "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-        "poster": "/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-        "backdrop": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
-        "date": "2026-06-04",
-        "year": "2026",
-        "rating": 7.2,
-        "votes": 100,
-        "popularity": 77.7846,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/277439?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 454639,
@@ -451,7 +431,7 @@
         "date": "2026-06-03",
         "year": "2026",
         "rating": 7.3,
-        "votes": 1422,
+        "votes": 1427,
         "popularity": 456.0985,
         "genreIds": [
           28,
@@ -460,6 +440,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/454639?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 277439,
+        "type": "tv",
+        "title": "Cape Fear",
+        "originalTitle": "Cape Fear",
+        "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+        "poster": "/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+        "backdrop": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
+        "date": "2026-06-04",
+        "year": "2026",
+        "rating": 7.2,
+        "votes": 101,
+        "popularity": 77.7846,
+        "genreIds": [
+          80,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/277439?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1228710,
@@ -472,7 +472,7 @@
         "date": "2026-05-20",
         "year": "2026",
         "rating": 7.4,
-        "votes": 1056,
+        "votes": 1057,
         "popularity": 128.2644,
         "genreIds": [
           28,
@@ -481,46 +481,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1228710?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1396749,
-        "type": "movie",
-        "title": "Wild Sing",
-        "originalTitle": "와일드 씽",
-        "overview": "Twenty years after a scandal tears apart a popular 2000s K‑pop trio, the three reunite for a one-off gig — if they can overcome one snag after another.",
-        "poster": "/7lIdil3vd2tu5NmKspGkJ2ny0oS.jpg",
-        "backdrop": "/wuqlB1rgHlGKf33rMu3QpRzb15o.jpg",
-        "date": "2026-06-03",
-        "year": "2026",
-        "rating": 6,
-        "votes": 5,
-        "popularity": 5.3662,
-        "genreIds": [
-          35,
-          10402
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/movie/1396749?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 271016,
-        "type": "tv",
-        "title": "Mystic Nine",
-        "originalTitle": "九门",
-        "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
-        "poster": "/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
-        "backdrop": "/snExrS3rICUXDsiG7jUV7K6Q0wj.jpg",
-        "date": "2026-07-30",
-        "year": "2026",
-        "rating": 9,
-        "votes": 1,
-        "popularity": 48.7924,
-        "genreIds": [
-          18,
-          10759
-        ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/tv/271016?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -544,46 +504,84 @@
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 294095,
+        "id": 287620,
         "type": "tv",
-        "title": "A Bona Fide Killer",
-        "originalTitle": "유부녀 킬러",
-        "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
-        "poster": "/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
-        "backdrop": "/22xRAaDSNIwOqFhFDXWp5IMnQPT.jpg",
-        "date": "2026-07-31",
+        "title": "Stuart Fails to Save the Universe",
+        "originalTitle": "Stuart Fails to Save the Universe",
+        "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+        "poster": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+        "backdrop": "/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
+        "date": "2026-07-23",
         "year": "2026",
-        "rating": 10,
-        "votes": 2,
-        "popularity": 12.4853,
-        "genreIds": [
-          18,
-          10759,
-          9648,
-          80
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/294095?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1314481,
-        "type": "movie",
-        "title": "The Devil Wears Prada 2",
-        "originalTitle": "The Devil Wears Prada 2",
-        "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-        "poster": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-        "backdrop": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
-        "date": "2026-04-29",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 1809,
-        "popularity": 152.5085,
+        "rating": 9.3,
+        "votes": 60,
+        "popularity": 87.5655,
         "genreIds": [
           35,
-          18
+          10765
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1314481?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/287620?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1396749,
+        "type": "movie",
+        "title": "Wild Sing",
+        "originalTitle": "와일드 씽",
+        "overview": "Twenty years after a scandal tears apart a popular 2000s K‑pop trio, the three reunite for a one-off gig — if they can overcome one snag after another.",
+        "poster": "/7lIdil3vd2tu5NmKspGkJ2ny0oS.jpg",
+        "backdrop": "/wuqlB1rgHlGKf33rMu3QpRzb15o.jpg",
+        "date": "2026-06-03",
+        "year": "2026",
+        "rating": 6,
+        "votes": 5,
+        "popularity": 5.3662,
+        "genreIds": [
+          35,
+          10402
+        ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/movie/1396749?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 687163,
+        "type": "movie",
+        "title": "Project Hail Mary",
+        "originalTitle": "Project Hail Mary",
+        "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+        "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "backdrop": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+        "date": "2026-03-15",
+        "year": "2026",
+        "rating": 8.7,
+        "votes": 6659,
+        "popularity": 171.7939,
+        "genreIds": [
+          878,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1122573,
+        "type": "movie",
+        "title": "In the Grey",
+        "originalTitle": "In the Grey",
+        "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+        "poster": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+        "backdrop": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 7.6,
+        "votes": 614,
+        "popularity": 51.4209,
+        "genreIds": [
+          28,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1122573?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -1791,8 +1789,8 @@
         "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "date": "2026-07-28",
         "year": "2026",
-        "rating": 8.1,
-        "votes": 431,
+        "rating": 8,
+        "votes": 517,
         "popularity": 1812.7019,
         "genreIds": [
           878,
@@ -1811,8 +1809,8 @@
         "backdrop": "/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
         "date": "2026-07-15",
         "year": "2026",
-        "rating": 7.9,
-        "votes": 1926,
+        "rating": 8,
+        "votes": 1986,
         "popularity": 1162.6957,
         "genreIds": [
           12,
@@ -1832,7 +1830,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.3,
-        "votes": 4004,
+        "votes": 4036,
         "popularity": 357.8226,
         "genreIds": [
           27,
@@ -1851,7 +1849,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 5.9,
-        "votes": 158,
+        "votes": 159,
         "popularity": 338.5766,
         "genreIds": [
           10751,
@@ -1872,7 +1870,7 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.6,
-        "votes": 139,
+        "votes": 141,
         "popularity": 313.5192,
         "genreIds": [
           12,
@@ -1932,7 +1930,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 6.3,
-        "votes": 76,
+        "votes": 80,
         "popularity": 155.0313,
         "genreIds": [
           27,
@@ -1951,7 +1949,7 @@
         "date": "2026-04-30",
         "year": "2026",
         "rating": 7.2,
-        "votes": 325,
+        "votes": 327,
         "popularity": 126.9356,
         "genreIds": [
           27,
@@ -1969,8 +1967,8 @@
         "backdrop": "/x9sVh1AVFF5GLs7huOoZdVga07.jpg",
         "date": "2026-07-23",
         "year": "2026",
-        "rating": 5.1,
-        "votes": 22,
+        "rating": 5.2,
+        "votes": 23,
         "popularity": 89.157,
         "genreIds": [
           878,
@@ -2018,6 +2016,25 @@
         "lang": "ko"
       },
       {
+        "id": 1122573,
+        "type": "movie",
+        "title": "In the Grey",
+        "originalTitle": "In the Grey",
+        "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+        "poster": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+        "backdrop": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 7.6,
+        "votes": 613,
+        "popularity": 51.4209,
+        "genreIds": [
+          28,
+          53
+        ],
+        "lang": "en"
+      },
+      {
         "id": 1491920,
         "type": "movie",
         "title": "Kung Fu Soccer",
@@ -2038,25 +2055,6 @@
         "lang": "zh"
       },
       {
-        "id": 1122573,
-        "type": "movie",
-        "title": "In the Grey",
-        "originalTitle": "In the Grey",
-        "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
-        "poster": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
-        "backdrop": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 7.6,
-        "votes": 607,
-        "popularity": 51.4209,
-        "genreIds": [
-          28,
-          53
-        ],
-        "lang": "en"
-      },
-      {
         "id": 1325734,
         "type": "movie",
         "title": "The Drama",
@@ -2067,7 +2065,7 @@
         "date": "2026-04-01",
         "year": "2026",
         "rating": 6.9,
-        "votes": 1401,
+        "votes": 1408,
         "popularity": 38.7545,
         "genreIds": [
           10749,
@@ -2087,7 +2085,7 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18608,
+        "votes": 18611,
         "popularity": 32.469,
         "genreIds": [
           16,
@@ -2095,24 +2093,6 @@
           14
         ],
         "lang": "ja"
-      },
-      {
-        "id": 1430077,
-        "type": "movie",
-        "title": "Hokum",
-        "originalTitle": "Hokum",
-        "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-        "poster": "/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
-        "backdrop": "/asD57THSyXt4SC7SwVpe4R0xjRC.jpg",
-        "date": "2026-04-29",
-        "year": "2026",
-        "rating": 7,
-        "votes": 621,
-        "popularity": 31.2753,
-        "genreIds": [
-          27
-        ],
-        "lang": "en"
       },
       {
         "id": 1101383,
@@ -2135,6 +2115,24 @@
         "lang": "en"
       },
       {
+        "id": 1430077,
+        "type": "movie",
+        "title": "Hokum",
+        "originalTitle": "Hokum",
+        "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+        "poster": "/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
+        "backdrop": "/asD57THSyXt4SC7SwVpe4R0xjRC.jpg",
+        "date": "2026-04-29",
+        "year": "2026",
+        "rating": 7,
+        "votes": 623,
+        "popularity": 31.2753,
+        "genreIds": [
+          27
+        ],
+        "lang": "en"
+      },
+      {
         "id": 1279493,
         "type": "movie",
         "title": "The Get Out",
@@ -2145,7 +2143,7 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.4,
-        "votes": 47,
+        "votes": 49,
         "popularity": 30.5852,
         "genreIds": [
           28,
