@@ -13,7 +13,7 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 517,
+        "votes": 560,
         "popularity": 1812.7019,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1273,
+        "votes": 1297,
         "popularity": 602.008,
         "genreIds": [
           28,
@@ -55,7 +55,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 1985,
+        "votes": 1997,
         "popularity": 1162.6957,
         "genreIds": [
           12,
@@ -76,7 +76,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.3,
-        "votes": 4034,
+        "votes": 4047,
         "popularity": 357.8226,
         "genreIds": [
           27,
@@ -84,6 +84,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1481343,
+        "type": "movie",
+        "title": "The Devil's Mouth",
+        "originalTitle": "The Devil's Mouth",
+        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+        "backdrop": "/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 6.7,
+        "votes": 272,
+        "popularity": 214.2698,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1481343?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1275779,
@@ -96,7 +116,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2125,
+        "votes": 2141,
         "popularity": 388.3201,
         "genreIds": [
           878,
@@ -116,7 +136,7 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.4,
-        "votes": 541,
+        "votes": 544,
         "popularity": 296.5453,
         "genreIds": [
           16,
@@ -128,45 +148,25 @@
         "iframe": "https://peachify.top/embed/movie/980431?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1481343,
-        "type": "movie",
-        "title": "The Devil's Mouth",
-        "originalTitle": "The Devil's Mouth",
-        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-        "backdrop": "/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 264,
-        "popularity": 214.2698,
+        "id": 94997,
+        "type": "tv",
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 6791,
+        "popularity": 327.6509,
         "genreIds": [
-          27,
-          53
+          10765,
+          18,
+          10759
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1481343?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1083381,
-        "type": "movie",
-        "title": "Backrooms",
-        "originalTitle": "Backrooms",
-        "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
-        "date": "2026-05-27",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 2375,
-        "popularity": 262.9541,
-        "genreIds": [
-          27,
-          9648,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -181,7 +181,7 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 534,
+        "votes": 557,
         "popularity": 1812.7019,
         "genreIds": [
           878,
@@ -190,26 +190,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 4043,
-        "popularity": 357.8226,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1081003,
@@ -222,7 +202,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1282,
+        "votes": 1295,
         "popularity": 602.008,
         "genreIds": [
           28,
@@ -231,6 +211,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 4047,
+        "popularity": 357.8226,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -243,7 +243,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 1988,
+        "votes": 1994,
         "popularity": 1162.6957,
         "genreIds": [
           12,
@@ -259,12 +259,12 @@
         "title": "Soulm8te",
         "originalTitle": "Soulm8te",
         "overview": "After a ruthless tech giant acquires his company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to program her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-        "poster": "/9ma5UG4RwHgzpZEhpbXTNQ51Tx9.jpg",
-        "backdrop": "/wpcH4b55vjkGOFCtydwIRC68nUN.jpg",
+        "poster": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+        "backdrop": "/pWokAXaDOg4Rc5YLE6oW60myIl7.jpg",
         "date": "2026-07-31",
         "year": "2026",
-        "rating": 5.8,
-        "votes": 12,
+        "rating": 5.7,
+        "votes": 13,
         "popularity": 4.6332,
         "genreIds": [
           53,
@@ -285,7 +285,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 6.8,
-        "votes": 268,
+        "votes": 271,
         "popularity": 214.2698,
         "genreIds": [
           27,
@@ -305,7 +305,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2131,
+        "votes": 2139,
         "popularity": 388.3201,
         "genreIds": [
           878,
@@ -325,7 +325,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2353,
+        "votes": 2354,
         "popularity": 220.5691,
         "genreIds": [
           10765,
@@ -357,6 +357,27 @@
         "iframe": "https://peachify.top/embed/tv/125909?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 30984,
+        "type": "tv",
+        "title": "Bleach",
+        "originalTitle": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "date": "2004-10-05",
+        "year": "2004",
+        "rating": 8.4,
+        "votes": 2197,
+        "popularity": 91.8622,
+        "genreIds": [
+          10759,
+          16,
+          10765
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 980431,
         "type": "movie",
         "title": "Avatar Aang: The Last Airbender",
@@ -379,27 +400,6 @@
         "iframe": "https://peachify.top/embed/movie/980431?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 30984,
-        "type": "tv",
-        "title": "Bleach",
-        "originalTitle": "BLEACH",
-        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-        "date": "2004-10-05",
-        "year": "2004",
-        "rating": 8.4,
-        "votes": 2197,
-        "popularity": 91.8622,
-        "genreIds": [
-          10759,
-          16,
-          10765
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1083381,
         "type": "movie",
         "title": "Backrooms",
@@ -410,7 +410,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2378,
+        "votes": 2380,
         "popularity": 262.9541,
         "genreIds": [
           27,
@@ -431,7 +431,7 @@
         "date": "2026-06-03",
         "year": "2026",
         "rating": 7.3,
-        "votes": 1427,
+        "votes": 1433,
         "popularity": 456.0985,
         "genreIds": [
           28,
@@ -440,47 +440,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/454639?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 277439,
-        "type": "tv",
-        "title": "Cape Fear",
-        "originalTitle": "Cape Fear",
-        "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-        "poster": "/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-        "backdrop": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
-        "date": "2026-06-04",
-        "year": "2026",
-        "rating": 7.2,
-        "votes": 101,
-        "popularity": 77.7846,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/277439?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1228710,
-        "type": "movie",
-        "title": "The Mandalorian and Grogu",
-        "originalTitle": "The Mandalorian and Grogu",
-        "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-        "poster": "/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-        "backdrop": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-        "date": "2026-05-20",
-        "year": "2026",
-        "rating": 7.4,
-        "votes": 1057,
-        "popularity": 128.2644,
-        "genreIds": [
-          28,
-          12,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1228710?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -504,6 +463,67 @@
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1228710,
+        "type": "movie",
+        "title": "The Mandalorian and Grogu",
+        "originalTitle": "The Mandalorian and Grogu",
+        "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+        "poster": "/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+        "backdrop": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+        "date": "2026-05-20",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 1059,
+        "popularity": 128.2644,
+        "genreIds": [
+          28,
+          12,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1228710?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 277439,
+        "type": "tv",
+        "title": "Cape Fear",
+        "originalTitle": "Cape Fear",
+        "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+        "poster": "/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+        "backdrop": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
+        "date": "2026-06-04",
+        "year": "2026",
+        "rating": 7.2,
+        "votes": 102,
+        "popularity": 77.7846,
+        "genreIds": [
+          80,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/277439?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1122573,
+        "type": "movie",
+        "title": "In the Grey",
+        "originalTitle": "In the Grey",
+        "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+        "poster": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+        "backdrop": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 7.6,
+        "votes": 615,
+        "popularity": 51.4209,
+        "genreIds": [
+          28,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1122573?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 287620,
         "type": "tv",
         "title": "Stuart Fails to Save the Universe",
@@ -524,26 +544,6 @@
         "iframe": "https://peachify.top/embed/tv/287620?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1396749,
-        "type": "movie",
-        "title": "Wild Sing",
-        "originalTitle": "와일드 씽",
-        "overview": "Twenty years after a scandal tears apart a popular 2000s K‑pop trio, the three reunite for a one-off gig — if they can overcome one snag after another.",
-        "poster": "/7lIdil3vd2tu5NmKspGkJ2ny0oS.jpg",
-        "backdrop": "/wuqlB1rgHlGKf33rMu3QpRzb15o.jpg",
-        "date": "2026-06-03",
-        "year": "2026",
-        "rating": 6,
-        "votes": 5,
-        "popularity": 5.3662,
-        "genreIds": [
-          35,
-          10402
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/movie/1396749?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 687163,
         "type": "movie",
         "title": "Project Hail Mary",
@@ -554,7 +554,7 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.7,
-        "votes": 6659,
+        "votes": 6661,
         "popularity": 171.7939,
         "genreIds": [
           878,
@@ -564,24 +564,25 @@
         "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1122573,
-        "type": "movie",
-        "title": "In the Grey",
-        "originalTitle": "In the Grey",
-        "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
-        "poster": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
-        "backdrop": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 7.6,
-        "votes": 614,
-        "popularity": 51.4209,
+        "id": 37854,
+        "type": "tv",
+        "title": "One Piece",
+        "originalTitle": "ワンピース",
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "date": "1999-10-20",
+        "year": "1999",
+        "rating": 8.7,
+        "votes": 5449,
+        "popularity": 48.6504,
         "genreIds": [
-          28,
-          53
+          10759,
+          35,
+          16
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1122573?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
