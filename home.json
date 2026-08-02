@@ -13,7 +13,7 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 671,
+        "votes": 683,
         "popularity": 2054.3173,
         "genreIds": [
           878,
@@ -33,8 +33,8 @@
         "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
         "date": "2026-06-24",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 1390,
+        "rating": 6.7,
+        "votes": 1396,
         "popularity": 623.9031,
         "genreIds": [
           28,
@@ -55,7 +55,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2070,
+        "votes": 2072,
         "popularity": 1177.1048,
         "genreIds": [
           12,
@@ -76,7 +76,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.3,
-        "votes": 4094,
+        "votes": 4102,
         "popularity": 393.0465,
         "genreIds": [
           27,
@@ -96,7 +96,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2214,
+        "votes": 2219,
         "popularity": 401.5466,
         "genreIds": [
           878,
@@ -115,8 +115,8 @@
         "backdrop": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg",
         "date": "2026-07-24",
         "year": "2026",
-        "rating": 9.4,
-        "votes": 582,
+        "rating": 9.3,
+        "votes": 588,
         "popularity": 288.9823,
         "genreIds": [
           16,
@@ -138,7 +138,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 6.7,
-        "votes": 329,
+        "votes": 332,
         "popularity": 246.3862,
         "genreIds": [
           27,
@@ -148,24 +148,24 @@
         "iframe": "https://peachify.top/embed/movie/1481343?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 125988,
+        "id": 113962,
         "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/3Udwq6W7y4AIsuJDXV2YwowZ1gQ.jpg",
+        "date": "2023-07-23",
         "year": "2023",
-        "rating": 8.2,
-        "votes": 2361,
-        "popularity": 238.6817,
+        "rating": 8,
+        "votes": 1268,
+        "popularity": 104.2129,
         "genreIds": [
-          10765,
-          18
+          18,
+          10768
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -180,7 +180,7 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 670,
+        "votes": 682,
         "popularity": 2054.3173,
         "genreIds": [
           878,
@@ -201,7 +201,7 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8,
-        "votes": 1266,
+        "votes": 1268,
         "popularity": 104.2129,
         "genreIds": [
           18,
@@ -221,7 +221,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2069,
+        "votes": 2072,
         "popularity": 1177.1048,
         "genreIds": [
           12,
@@ -242,7 +242,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.3,
-        "votes": 4093,
+        "votes": 4100,
         "popularity": 393.0465,
         "genreIds": [
           27,
@@ -282,8 +282,8 @@
         "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
         "date": "2026-06-24",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 1389,
+        "rating": 6.7,
+        "votes": 1396,
         "popularity": 623.9031,
         "genreIds": [
           28,
@@ -304,7 +304,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2214,
+        "votes": 2219,
         "popularity": 401.5466,
         "genreIds": [
           878,
@@ -375,45 +375,26 @@
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1481343,
+        "id": 980431,
         "type": "movie",
-        "title": "The Devil's Mouth",
-        "originalTitle": "The Devil's Mouth",
-        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-        "backdrop": "/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg",
-        "date": "2026-07-29",
+        "title": "Avatar Aang: The Last Airbender",
+        "originalTitle": "Avatar Aang: The Last Airbender",
+        "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+        "poster": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+        "backdrop": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg",
+        "date": "2026-07-24",
         "year": "2026",
-        "rating": 6.7,
-        "votes": 329,
-        "popularity": 246.3862,
+        "rating": 9.3,
+        "votes": 588,
+        "popularity": 288.9823,
         "genreIds": [
-          27,
-          53
+          16,
+          28,
+          12,
+          14
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1481343?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 37854,
-        "type": "tv",
-        "title": "One Piece",
-        "originalTitle": "ワンピース",
-        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-        "date": "1999-10-20",
-        "year": "1999",
-        "rating": 8.7,
-        "votes": 5450,
-        "popularity": 50.3101,
-        "genreIds": [
-          10759,
-          35,
-          16
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/980431?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1083381,
@@ -426,7 +407,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2418,
+        "votes": 2425,
         "popularity": 262.1679,
         "genreIds": [
           27,
@@ -458,26 +439,45 @@
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 980431,
+        "id": 1481343,
         "type": "movie",
-        "title": "Avatar Aang: The Last Airbender",
-        "originalTitle": "Avatar Aang: The Last Airbender",
-        "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-        "poster": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-        "backdrop": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg",
-        "date": "2026-07-24",
+        "title": "The Devil's Mouth",
+        "originalTitle": "The Devil's Mouth",
+        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+        "backdrop": "/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg",
+        "date": "2026-07-29",
         "year": "2026",
-        "rating": 9.4,
-        "votes": 580,
-        "popularity": 288.9823,
+        "rating": 6.7,
+        "votes": 331,
+        "popularity": 246.3862,
         "genreIds": [
-          16,
-          28,
-          12,
-          14
+          27,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/980431?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1481343?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 37854,
+        "type": "tv",
+        "title": "One Piece",
+        "originalTitle": "ワンピース",
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "date": "1999-10-20",
+        "year": "1999",
+        "rating": 8.7,
+        "votes": 5450,
+        "popularity": 50.3101,
+        "genreIds": [
+          10759,
+          35,
+          16
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1314481,
@@ -490,7 +490,7 @@
         "date": "2026-04-29",
         "year": "2026",
         "rating": 7.1,
-        "votes": 1850,
+        "votes": 1854,
         "popularity": 152.973,
         "genreIds": [
           35,
@@ -519,6 +519,26 @@
         "iframe": "https://peachify.top/embed/tv/289116?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 687163,
+        "type": "movie",
+        "title": "Project Hail Mary",
+        "originalTitle": "Project Hail Mary",
+        "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+        "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "backdrop": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+        "date": "2026-03-15",
+        "year": "2026",
+        "rating": 8.7,
+        "votes": 6705,
+        "popularity": 171.4296,
+        "genreIds": [
+          878,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 271016,
         "type": "tv",
         "title": "Mystic Nine",
@@ -539,46 +559,25 @@
         "iframe": "https://peachify.top/embed/tv/271016?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 687163,
+        "id": 454639,
         "type": "movie",
-        "title": "Project Hail Mary",
-        "originalTitle": "Project Hail Mary",
-        "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-        "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "backdrop": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-        "date": "2026-03-15",
+        "title": "Masters of the Universe",
+        "originalTitle": "Masters of the Universe",
+        "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+        "poster": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+        "backdrop": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+        "date": "2026-06-03",
         "year": "2026",
-        "rating": 8.7,
-        "votes": 6700,
-        "popularity": 171.4296,
-        "genreIds": [
-          878,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125909,
-        "type": "tv",
-        "title": "Batman: Caped Crusader",
-        "originalTitle": "Batman: Caped Crusader",
-        "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
-        "poster": "/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
-        "backdrop": "/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
-        "date": "2024-08-01",
-        "year": "2024",
         "rating": 7.3,
-        "votes": 265,
-        "popularity": 54.6937,
+        "votes": 1489,
+        "popularity": 436.827,
         "genreIds": [
-          16,
-          80,
-          10759,
-          9648
+          28,
+          14,
+          878
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125909?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/454639?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
