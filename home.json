@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1238,
+        "votes": 1242,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -30,11 +30,11 @@
         "originalTitle": "The Odyssey",
         "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
         "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2382,
+        "votes": 2385,
         "popularity": 886.9314,
         "genreIds": [
           12,
@@ -54,8 +54,8 @@
         "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
         "date": "2026-08-06",
         "year": "2026",
-        "rating": 5.8,
-        "votes": 71,
+        "rating": 5.9,
+        "votes": 75,
         "popularity": 143.8808,
         "genreIds": [
           27,
@@ -76,11 +76,10 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 720,
+        "votes": 721,
         "popularity": 203.6299,
         "genreIds": [
-          27,
-          53
+          27
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
@@ -96,7 +95,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4395,
+        "votes": 4397,
         "popularity": 314.1366,
         "genreIds": [
           27,
@@ -116,7 +115,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.8,
-        "votes": 1657,
+        "votes": 1659,
         "popularity": 469.1073,
         "genreIds": [
           28,
@@ -125,6 +124,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2386,
+        "popularity": 238.3357,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 97546,
@@ -145,27 +164,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 94997,
-        "type": "tv",
-        "title": "House of the Dragon",
-        "originalTitle": "House of the Dragon",
-        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "date": "2022-08-21",
-        "year": "2022",
-        "rating": 8.4,
-        "votes": 6864,
-        "popularity": 354.2155,
-        "genreIds": [
-          10765,
-          18,
-          10759
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -179,8 +177,8 @@
         "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
         "date": "2026-08-06",
         "year": "2026",
-        "rating": 5.8,
-        "votes": 71,
+        "rating": 5.9,
+        "votes": 75,
         "popularity": 143.8808,
         "genreIds": [
           27,
@@ -201,7 +199,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1238,
+        "votes": 1242,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -210,26 +208,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 291496,
-        "type": "tv",
-        "title": "Our Sticky Love",
-        "originalTitle": "이런 엿같은 사랑",
-        "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-        "poster": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-        "backdrop": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 4,
-        "popularity": 87.5065,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/291496?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1263532,
@@ -259,11 +237,11 @@
         "originalTitle": "The Odyssey",
         "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
         "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2380,
+        "votes": 2386,
         "popularity": 886.9314,
         "genreIds": [
           12,
@@ -272,6 +250,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 291496,
+        "type": "tv",
+        "title": "Our Sticky Love",
+        "originalTitle": "이런 엿같은 사랑",
+        "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+        "poster": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+        "backdrop": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+        "date": "2026-08-07",
+        "year": "2026",
+        "rating": 7,
+        "votes": 5,
+        "popularity": 87.5065,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/291496?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 300480,
@@ -324,7 +322,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4395,
+        "votes": 4397,
         "popularity": 314.1366,
         "genreIds": [
           27,
@@ -344,11 +342,10 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 720,
+        "votes": 721,
         "popularity": 203.6299,
         "genreIds": [
-          27,
-          53
+          27
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
@@ -364,7 +361,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.8,
-        "votes": 1657,
+        "votes": 1659,
         "popularity": 469.1073,
         "genreIds": [
           28,
@@ -392,26 +389,6 @@
         ],
         "lang": "hi",
         "iframe": "https://peachify.top/embed/tv/284753?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 298168,
-        "type": "tv",
-        "title": "The Shards",
-        "originalTitle": "The Shards",
-        "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-        "poster": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-        "backdrop": "/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
-        "date": "2026-08-05",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 12,
-        "popularity": 89.8383,
-        "genreIds": [
-          18,
-          9648
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/298168?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 220074,
@@ -456,6 +433,26 @@
         "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 298168,
+        "type": "tv",
+        "title": "The Shards",
+        "originalTitle": "The Shards",
+        "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+        "poster": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+        "backdrop": "/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
+        "date": "2026-08-05",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 12,
+        "popularity": 89.8383,
+        "genreIds": [
+          18,
+          9648
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/298168?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 203744,
         "type": "tv",
         "title": "Sugar",
@@ -474,27 +471,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/203744?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 289324,
-        "type": "tv",
-        "title": "Star Wars: Visions Presents - The Ninth Jedi",
-        "originalTitle": "スター・ウォーズ：ビジョンズ／九人目のジェダイ",
-        "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
-        "poster": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
-        "backdrop": "/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
-        "date": "2026-08-05",
-        "year": "2026",
-        "rating": 7,
-        "votes": 10,
-        "popularity": 49.3728,
-        "genreIds": [
-          16,
-          10765,
-          10759
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/289324?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 287620,
@@ -536,24 +512,25 @@
         "iframe": "https://peachify.top/embed/tv/237964?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 283297,
+        "id": 289324,
         "type": "tv",
-        "title": "Sterling Point",
-        "originalTitle": "Sterling Point",
-        "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
-        "poster": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-        "backdrop": "/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
+        "title": "Star Wars: Visions Presents - The Ninth Jedi",
+        "originalTitle": "スター・ウォーズ：ビジョンズ／九人目のジェダイ",
+        "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
+        "poster": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+        "backdrop": "/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
         "date": "2026-08-05",
         "year": "2026",
-        "rating": 7.4,
-        "votes": 14,
-        "popularity": 72.8018,
+        "rating": 6.6,
+        "votes": 11,
+        "popularity": 49.3728,
         "genreIds": [
-          9648,
-          18
+          16,
+          10765,
+          10759
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/283297?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/289324?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 271016,
@@ -574,6 +551,27 @@
         ],
         "lang": "zh",
         "iframe": "https://peachify.top/embed/tv/271016?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 94997,
+        "type": "tv",
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 6864,
+        "popularity": 354.2155,
+        "genreIds": [
+          10765,
+          18,
+          10759
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -2177,11 +2175,11 @@
         "originalTitle": "House of the Dragon",
         "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
         "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "backdrop": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6862,
+        "votes": 6864,
         "popularity": 354.2155,
         "genreIds": [
           10765,
@@ -2279,7 +2277,7 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8,
-        "votes": 1302,
+        "votes": 1303,
         "popularity": 300.8873,
         "genreIds": [
           18,
@@ -2306,24 +2304,23 @@
         "lang": "da"
       },
       {
-        "id": 65334,
+        "id": 125988,
         "type": "tv",
-        "title": "Miraculous: Tales of Ladybug & Cat Noir",
-        "originalTitle": "Miraculous, les aventures de Ladybug et Chat Noir",
-        "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
-        "poster": "/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "backdrop": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
-        "date": "2015-10-19",
-        "year": "2015",
-        "rating": 8.1,
-        "votes": 4635,
-        "popularity": 214.7732,
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2386,
+        "popularity": 238.3357,
         "genreIds": [
-          10759,
-          16,
-          10762
+          10765,
+          18
         ],
-        "lang": "fr"
+        "lang": "en"
       },
       {
         "id": 60625,
@@ -2336,7 +2333,7 @@
         "date": "2013-12-02",
         "year": "2013",
         "rating": 8.7,
-        "votes": 11241,
+        "votes": 11243,
         "popularity": 210.6103,
         "genreIds": [
           16,
@@ -2345,6 +2342,26 @@
           10759
         ],
         "lang": "en"
+      },
+      {
+        "id": 65334,
+        "type": "tv",
+        "title": "Miraculous: Tales of Ladybug & Cat Noir",
+        "originalTitle": "Miraculous, les aventures de Ladybug et Chat Noir",
+        "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+        "poster": "/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "backdrop": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+        "date": "2015-10-19",
+        "year": "2015",
+        "rating": 8.1,
+        "votes": 4636,
+        "popularity": 214.7732,
+        "genreIds": [
+          10759,
+          16,
+          10762
+        ],
+        "lang": "fr"
       },
       {
         "id": 1416,
@@ -2365,25 +2382,6 @@
         "lang": "en"
       },
       {
-        "id": 1396,
-        "type": "tv",
-        "title": "Breaking Bad",
-        "originalTitle": "Breaking Bad",
-        "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-        "poster": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-        "backdrop": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-        "date": "2008-01-20",
-        "year": "2008",
-        "rating": 8.9,
-        "votes": 18319,
-        "popularity": 173.2887,
-        "genreIds": [
-          18,
-          80
-        ],
-        "lang": "en"
-      },
-      {
         "id": 456,
         "type": "tv",
         "title": "The Simpsons",
@@ -2394,7 +2392,7 @@
         "date": "1989-12-17",
         "year": "1989",
         "rating": 8,
-        "votes": 10912,
+        "votes": 10914,
         "popularity": 199.8326,
         "genreIds": [
           16,
@@ -2417,25 +2415,6 @@
         "popularity": 213.5947,
         "genreIds": [
           80,
-          18
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2385,
-        "popularity": 238.3357,
-        "genreIds": [
-          10765,
           18
         ],
         "lang": "en"
@@ -2496,6 +2475,25 @@
           18,
           9648,
           10765
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1396,
+        "type": "tv",
+        "title": "Breaking Bad",
+        "originalTitle": "Breaking Bad",
+        "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+        "poster": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+        "backdrop": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+        "date": "2008-01-20",
+        "year": "2008",
+        "rating": 8.9,
+        "votes": 18321,
+        "popularity": 173.2887,
+        "genreIds": [
+          18,
+          80
         ],
         "lang": "en"
       },
