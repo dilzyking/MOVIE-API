@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1254,
+        "votes": 1261,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2397,
+        "votes": 2402,
         "popularity": 886.9314,
         "genreIds": [
           12,
@@ -54,8 +54,8 @@
         "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
         "date": "2026-08-06",
         "year": "2026",
-        "rating": 6,
-        "votes": 84,
+        "rating": 6.1,
+        "votes": 92,
         "popularity": 143.8808,
         "genreIds": [
           27,
@@ -76,7 +76,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 727,
+        "votes": 728,
         "popularity": 203.6299,
         "genreIds": [
           27
@@ -95,7 +95,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4401,
+        "votes": 4402,
         "popularity": 314.1366,
         "genreIds": [
           27,
@@ -115,7 +115,7 @@
         "date": "2020-08-14",
         "year": "2020",
         "rating": 8.3,
-        "votes": 2505,
+        "votes": 2506,
         "popularity": 140.322,
         "genreIds": [
           18,
@@ -135,7 +135,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1666,
+        "votes": 1667,
         "popularity": 469.1073,
         "genreIds": [
           28,
@@ -156,7 +156,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2386,
+        "votes": 2387,
         "popularity": 238.3357,
         "genreIds": [
           10765,
@@ -1385,7 +1385,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1237,
+        "votes": 1254,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -1401,11 +1401,11 @@
         "originalTitle": "The Odyssey",
         "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
         "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2379,
+        "votes": 2397,
         "popularity": 886.9314,
         "genreIds": [
           12,
@@ -1425,7 +1425,7 @@
         "date": "2021-12-15",
         "year": "2021",
         "rating": 7.9,
-        "votes": 22532,
+        "votes": 22536,
         "popularity": 565.3864,
         "genreIds": [
           28,
@@ -1444,8 +1444,8 @@
         "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
         "date": "2026-06-24",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 1657,
+        "rating": 6.7,
+        "votes": 1665,
         "popularity": 469.1073,
         "genreIds": [
           28,
@@ -1465,7 +1465,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4394,
+        "votes": 4400,
         "popularity": 314.1366,
         "genreIds": [
           27,
@@ -1484,7 +1484,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.4,
-        "votes": 781,
+        "votes": 783,
         "popularity": 303.9425,
         "genreIds": [
           16,
@@ -1525,7 +1525,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 6,
-        "votes": 175,
+        "votes": 176,
         "popularity": 257.9071,
         "genreIds": [
           10751,
@@ -1568,7 +1568,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 6.5,
-        "votes": 498,
+        "votes": 500,
         "popularity": 238.6089,
         "genreIds": [
           27,
@@ -1587,7 +1587,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2581,
+        "votes": 2584,
         "popularity": 202.8408,
         "genreIds": [
           27,
@@ -1607,7 +1607,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 431,
+        "votes": 432,
         "popularity": 227.8266,
         "genreIds": [
           28,
@@ -1615,6 +1615,24 @@
           878
         ],
         "lang": "ko"
+      },
+      {
+        "id": 1212763,
+        "type": "movie",
+        "title": "Evil Dead Burn",
+        "originalTitle": "Evil Dead Burn",
+        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "date": "2026-07-07",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 727,
+        "popularity": 203.6299,
+        "genreIds": [
+          27
+        ],
+        "lang": "en"
       },
       {
         "id": 1698863,
@@ -1647,32 +1665,13 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 722,
+        "votes": 724,
         "popularity": 182.6629,
         "genreIds": [
           16,
           28,
           12,
           14
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1212763,
-        "type": "movie",
-        "title": "Evil Dead Burn",
-        "originalTitle": "Evil Dead Burn",
-        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
-        "date": "2026-07-07",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 719,
-        "popularity": 203.6299,
-        "genreIds": [
-          27,
-          53
         ],
         "lang": "en"
       },
@@ -1687,7 +1686,7 @@
         "date": "2026-06-03",
         "year": "2026",
         "rating": 6.5,
-        "votes": 1505,
+        "votes": 1506,
         "popularity": 186.436,
         "genreIds": [
           35
@@ -1705,7 +1704,7 @@
         "date": "2026-07-31",
         "year": "2026",
         "rating": 6.5,
-        "votes": 72,
+        "votes": 73,
         "popularity": 165.2872,
         "genreIds": [
           27,
@@ -1725,7 +1724,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 6.4,
-        "votes": 176,
+        "votes": 181,
         "popularity": 159.2574,
         "genreIds": [
           27,
@@ -1743,8 +1742,8 @@
         "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
         "date": "2026-08-06",
         "year": "2026",
-        "rating": 5.8,
-        "votes": 71,
+        "rating": 6,
+        "votes": 82,
         "popularity": 143.8808,
         "genreIds": [
           27,
