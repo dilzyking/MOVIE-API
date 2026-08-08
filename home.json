@@ -178,8 +178,8 @@
         "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
         "date": "2026-08-06",
         "year": "2026",
-        "rating": 5.9,
-        "votes": 69,
+        "rating": 5.8,
+        "votes": 71,
         "popularity": 143.8808,
         "genreIds": [
           27,
@@ -200,7 +200,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1235,
+        "votes": 1238,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -240,8 +240,8 @@
         "backdrop": "/mGcCJvT8YYvf205kYvaTM3QzB8k.jpg",
         "date": "2026-03-17",
         "year": "2026",
-        "rating": 5.6,
-        "votes": 21,
+        "rating": 5.4,
+        "votes": 22,
         "popularity": 50.4589,
         "genreIds": [
           28,
@@ -262,7 +262,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2377,
+        "votes": 2380,
         "popularity": 886.9314,
         "genreIds": [
           12,
@@ -282,8 +282,8 @@
         "backdrop": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg",
         "date": "2026-08-07",
         "year": "2026",
-        "rating": 7.8,
-        "votes": 10,
+        "rating": 7.6,
+        "votes": 11,
         "popularity": 28.1016,
         "genreIds": [
           16,
@@ -303,7 +303,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2385,
+        "votes": 2386,
         "popularity": 238.3357,
         "genreIds": [
           10765,
@@ -311,6 +311,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4395,
+        "popularity": 314.1366,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1212763,
@@ -323,7 +343,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 719,
+        "votes": 720,
         "popularity": 203.6299,
         "genreIds": [
           27,
@@ -343,7 +363,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.8,
-        "votes": 1656,
+        "votes": 1657,
         "popularity": 469.1073,
         "genreIds": [
           28,
@@ -354,44 +374,23 @@
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4393,
-        "popularity": 314.1366,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 287620,
+        "id": 284753,
         "type": "tv",
-        "title": "Stuart Fails to Save the Universe",
-        "originalTitle": "Stuart Fails to Save the Universe",
-        "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-        "poster": "/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
-        "backdrop": "/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
-        "date": "2026-07-23",
+        "title": "Operation Safed Sagar: The Highest Air Force Mission",
+        "originalTitle": "ऑपरेशन सफ़ेद सागर",
+        "overview": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
+        "poster": "/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
+        "backdrop": "/bKvEIOHJ2UpK6NhF86n36dOmfBY.jpg",
+        "date": "2026-08-07",
         "year": "2026",
-        "rating": 9.2,
-        "votes": 79,
-        "popularity": 74.3027,
+        "rating": null,
+        "votes": 0,
+        "popularity": 48.3576,
         "genreIds": [
-          35,
-          10765
+          18
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/287620?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "hi",
+        "iframe": "https://peachify.top/embed/tv/284753?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 298168,
@@ -414,23 +413,26 @@
         "iframe": "https://peachify.top/embed/tv/298168?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 284753,
+        "id": 220074,
         "type": "tv",
-        "title": "Operation Safed Sagar: The Highest Air Force Mission",
-        "originalTitle": "ऑपरेशन सफ़ेद सागर",
-        "overview": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
-        "poster": "/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
-        "backdrop": "/bKvEIOHJ2UpK6NhF86n36dOmfBY.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 48.3576,
+        "title": "Flex X Cop",
+        "originalTitle": "재벌X형사",
+        "overview": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
+        "poster": "/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
+        "backdrop": "/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
+        "date": "2024-01-26",
+        "year": "2024",
+        "rating": 7.8,
+        "votes": 43,
+        "popularity": 26.0481,
         "genreIds": [
-          18
+          18,
+          80,
+          9648,
+          10759
         ],
-        "lang": "hi",
-        "iframe": "https://peachify.top/embed/tv/284753?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/220074?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 97546,
@@ -473,28 +475,6 @@
         "iframe": "https://peachify.top/embed/tv/203744?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 220074,
-        "type": "tv",
-        "title": "Flex X Cop",
-        "originalTitle": "재벌X형사",
-        "overview": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
-        "poster": "/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
-        "backdrop": "/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
-        "date": "2024-01-26",
-        "year": "2024",
-        "rating": 7.8,
-        "votes": 43,
-        "popularity": 26.0481,
-        "genreIds": [
-          18,
-          80,
-          9648,
-          10759
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/220074?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 289324,
         "type": "tv",
         "title": "Star Wars: Visions Presents - The Ninth Jedi",
@@ -516,24 +496,43 @@
         "iframe": "https://peachify.top/embed/tv/289324?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1275779,
-        "type": "movie",
-        "title": "Disclosure Day",
-        "originalTitle": "Disclosure Day",
-        "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-        "poster": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-        "backdrop": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-        "date": "2026-06-10",
+        "id": 287620,
+        "type": "tv",
+        "title": "Stuart Fails to Save the Universe",
+        "originalTitle": "Stuart Fails to Save the Universe",
+        "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+        "poster": "/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
+        "backdrop": "/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
+        "date": "2026-07-23",
         "year": "2026",
-        "rating": 7.4,
-        "votes": 2495,
-        "popularity": 316.3813,
+        "rating": 9.2,
+        "votes": 79,
+        "popularity": 74.3027,
         "genreIds": [
-          878,
-          53
+          35,
+          10765
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1275779?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/287620?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 237964,
+        "type": "tv",
+        "title": "Death Inc.",
+        "originalTitle": "Muertos S.L.",
+        "overview": "When the founder of Torregrosa Funeral Home dies, his scheming right-hand man is poised to take over the business. But the owner's widow has other plans.",
+        "poster": "/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
+        "backdrop": "/rNnTUZgVhzJc36FViudinVPBDSh.jpg",
+        "date": "2024-04-04",
+        "year": "2024",
+        "rating": 7.2,
+        "votes": 42,
+        "popularity": 22.5797,
+        "genreIds": [
+          35
+        ],
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/tv/237964?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 283297,
@@ -545,8 +544,8 @@
         "backdrop": "/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
         "date": "2026-08-05",
         "year": "2026",
-        "rating": 7.2,
-        "votes": 13,
+        "rating": 7.4,
+        "votes": 14,
         "popularity": 72.8018,
         "genreIds": [
           9648,
@@ -556,23 +555,24 @@
         "iframe": "https://peachify.top/embed/tv/283297?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 199001,
+        "id": 271016,
         "type": "tv",
-        "title": "My Life with the Walter Boys",
-        "originalTitle": "My Life with the Walter Boys",
-        "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-        "poster": "/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
-        "backdrop": "/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
-        "date": "2023-12-07",
-        "year": "2023",
-        "rating": 7.8,
-        "votes": 397,
-        "popularity": 95.0063,
+        "title": "Mystic Nine",
+        "originalTitle": "九门",
+        "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+        "poster": "/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
+        "backdrop": "/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
+        "date": "2026-07-30",
+        "year": "2026",
+        "rating": 6.2,
+        "votes": 4,
+        "popularity": 43.3334,
         "genreIds": [
-          18
+          18,
+          10759
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/199001?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "zh",
+        "iframe": "https://peachify.top/embed/tv/271016?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -1384,8 +1384,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1162,
-        "popularity": 1656.617,
+        "votes": 1237,
+        "popularity": 1550.8083,
         "genreIds": [
           878,
           28,
@@ -1404,8 +1404,8 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2340,
-        "popularity": 879.0771,
+        "votes": 2379,
+        "popularity": 886.9314,
         "genreIds": [
           12,
           28,
@@ -1424,8 +1424,8 @@
         "date": "2021-12-15",
         "year": "2021",
         "rating": 7.9,
-        "votes": 22520,
-        "popularity": 569.232,
+        "votes": 22532,
+        "popularity": 565.3864,
         "genreIds": [
           28,
           12,
@@ -1444,32 +1444,12 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.8,
-        "votes": 1628,
-        "popularity": 445.6703,
+        "votes": 1657,
+        "popularity": 469.1073,
         "genreIds": [
           28,
           12,
           878
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1698863,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
-        "poster": "/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
-        "backdrop": "/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg",
-        "date": "2026-07-03",
-        "year": "2026",
-        "rating": 6.2,
-        "votes": 9,
-        "popularity": 365.3617,
-        "genreIds": [
-          12,
-          14,
-          28
         ],
         "lang": "en"
       },
@@ -1484,8 +1464,8 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4363,
-        "popularity": 342.0336,
+        "votes": 4394,
+        "popularity": 314.1366,
         "genreIds": [
           27,
           53
@@ -1503,8 +1483,8 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.4,
-        "votes": 777,
-        "popularity": 310.9708,
+        "votes": 781,
+        "popularity": 303.9425,
         "genreIds": [
           16,
           10751,
@@ -1524,8 +1504,8 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.5,
-        "votes": 165,
-        "popularity": 310.7184,
+        "votes": 171,
+        "popularity": 295.4889,
         "genreIds": [
           12,
           18,
@@ -1543,9 +1523,9 @@
         "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
         "date": "2026-07-08",
         "year": "2026",
-        "rating": 5.9,
-        "votes": 173,
-        "popularity": 270.5382,
+        "rating": 6,
+        "votes": 175,
+        "popularity": 257.9071,
         "genreIds": [
           10751,
           14,
@@ -1565,8 +1545,8 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.4,
-        "votes": 263,
-        "popularity": 266.6965,
+        "votes": 264,
+        "popularity": 256.7713,
         "genreIds": [
           12,
           16,
@@ -1587,8 +1567,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 6.5,
-        "votes": 484,
-        "popularity": 261.8327,
+        "votes": 498,
+        "popularity": 238.6089,
         "genreIds": [
           27,
           53
@@ -1606,8 +1586,8 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2568,
-        "popularity": 219.8564,
+        "votes": 2581,
+        "popularity": 202.8408,
         "genreIds": [
           27,
           9648,
@@ -1626,14 +1606,34 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 423,
-        "popularity": 216.834,
+        "votes": 431,
+        "popularity": 227.8266,
         "genreIds": [
           28,
           27,
           878
         ],
         "lang": "ko"
+      },
+      {
+        "id": 1698863,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
+        "poster": "/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
+        "backdrop": "/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg",
+        "date": "2026-07-03",
+        "year": "2026",
+        "rating": 6.2,
+        "votes": 9,
+        "popularity": 202.5261,
+        "genreIds": [
+          12,
+          14,
+          28
+        ],
+        "lang": "en"
       },
       {
         "id": 980431,
@@ -1646,8 +1646,8 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 711,
-        "popularity": 194.6378,
+        "votes": 722,
+        "popularity": 182.6629,
         "genreIds": [
           16,
           28,
@@ -1667,8 +1667,8 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 653,
-        "popularity": 192.6336,
+        "votes": 719,
+        "popularity": 203.6299,
         "genreIds": [
           27,
           53
@@ -1686,29 +1686,10 @@
         "date": "2026-06-03",
         "year": "2026",
         "rating": 6.5,
-        "votes": 1492,
-        "popularity": 191.2966,
+        "votes": 1505,
+        "popularity": 186.436,
         "genreIds": [
           35
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1564614,
-        "type": "movie",
-        "title": "Leviticus",
-        "originalTitle": "Leviticus",
-        "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other.",
-        "poster": "/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
-        "backdrop": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
-        "date": "2026-06-17",
-        "year": "2026",
-        "rating": 6.5,
-        "votes": 132,
-        "popularity": 159.9202,
-        "genreIds": [
-          27,
-          10749
         ],
         "lang": "en"
       },
@@ -1722,9 +1703,48 @@
         "backdrop": "/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
         "date": "2026-07-31",
         "year": "2026",
-        "rating": 6.6,
-        "votes": 60,
-        "popularity": 158.734,
+        "rating": 6.5,
+        "votes": 72,
+        "popularity": 165.2872,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1564614,
+        "type": "movie",
+        "title": "Leviticus",
+        "originalTitle": "Leviticus",
+        "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other.",
+        "poster": "/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+        "backdrop": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 6.4,
+        "votes": 176,
+        "popularity": 159.2574,
+        "genreIds": [
+          27,
+          10749
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1284041,
+        "type": "movie",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 5.8,
+        "votes": 71,
+        "popularity": 143.8808,
         "genreIds": [
           27,
           878,
@@ -1743,32 +1763,14 @@
         "date": "2026-07-20",
         "year": "2026",
         "rating": 7.7,
-        "votes": 68,
-        "popularity": 139.9791,
+        "votes": 71,
+        "popularity": 131.4315,
         "genreIds": [
           28,
           53,
           80
         ],
         "lang": "th"
-      },
-      {
-        "id": 1727780,
-        "type": "movie",
-        "title": "Borderline",
-        "originalTitle": "Borderline",
-        "overview": "Convinced they are our secret saviors, rogue U.S. operatives abduct Mexican gang members and seed them across major American cities, unleashing criminal chaos, swaying voters by playing on nativist prejudices, and forcing law enforcement into a race to expose the plot as the escalating carnage threatens democracy itself.",
-        "poster": "/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
-        "backdrop": "/wPSOPYy2fV62GjeXpVdKyweZGZu.jpg",
-        "date": "2026-07-17",
-        "year": "2026",
-        "rating": 5.9,
-        "votes": 13,
-        "popularity": 130.4388,
-        "genreIds": [
-          53
-        ],
-        "lang": "en"
       }
     ],
     "upcoming": [
@@ -2567,8 +2569,8 @@
         "date": "2026-06-05",
         "year": "2026",
         "rating": 9.4,
-        "votes": 778,
-        "popularity": 72.9407,
+        "votes": 779,
+        "popularity": 73.9314,
         "genreIds": [
           10759,
           18,
@@ -2587,8 +2589,8 @@
         "date": "2026-05-15",
         "year": "2026",
         "rating": 9.2,
-        "votes": 504,
-        "popularity": 68.7826,
+        "votes": 505,
+        "popularity": 66.0074,
         "genreIds": [
           37,
           18
@@ -2606,8 +2608,8 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 8.9,
-        "votes": 18316,
-        "popularity": 191.6317,
+        "votes": 18320,
+        "popularity": 173.2887,
         "genreIds": [
           18,
           80
@@ -2625,8 +2627,8 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.9,
-        "votes": 765,
-        "popularity": 95.0632,
+        "votes": 767,
+        "popularity": 91.8801,
         "genreIds": [
           18
         ],
@@ -2644,7 +2646,7 @@
         "year": "2026",
         "rating": 8.9,
         "votes": 237,
-        "popularity": 25.6046,
+        "popularity": 25.6041,
         "genreIds": [
           10759,
           35,
@@ -2665,7 +2667,7 @@
         "year": "2023",
         "rating": 8.8,
         "votes": 916,
-        "popularity": 87.4491,
+        "popularity": 90.004,
         "genreIds": [
           16,
           10759,
@@ -2686,7 +2688,7 @@
         "year": "2019",
         "rating": 8.8,
         "votes": 939,
-        "popularity": 73.4995,
+        "popularity": 75.8032,
         "genreIds": [
           10759,
           10751,
@@ -2706,7 +2708,7 @@
         "year": "2005",
         "rating": 8.8,
         "votes": 5021,
-        "popularity": 33.0297,
+        "popularity": 33.64,
         "genreIds": [
           16,
           10759,
@@ -2726,7 +2728,7 @@
         "year": "2015",
         "rating": 8.8,
         "votes": 221,
-        "popularity": 15.3453,
+        "popularity": 15.4731,
         "genreIds": [
           35
         ],
@@ -2744,7 +2746,7 @@
         "year": "2025",
         "rating": 8.8,
         "votes": 563,
-        "popularity": 20.977,
+        "popularity": 25.3481,
         "genreIds": [
           18
         ],
@@ -2762,7 +2764,7 @@
         "year": "2021",
         "rating": 8.8,
         "votes": 6080,
-        "popularity": 35.3394,
+        "popularity": 36.1659,
         "genreIds": [
           16,
           10759,
@@ -2782,7 +2784,7 @@
         "year": "2025",
         "rating": 8.7,
         "votes": 566,
-        "popularity": 31.0277,
+        "popularity": 34.2464,
         "genreIds": [
           18
         ],
@@ -2800,7 +2802,7 @@
         "year": "1999",
         "rating": 8.8,
         "votes": 5464,
-        "popularity": 49.6201,
+        "popularity": 50.8802,
         "genreIds": [
           10759,
           35,
@@ -2819,8 +2821,8 @@
         "date": "2025-01-09",
         "year": "2025",
         "rating": 8.7,
-        "votes": 882,
-        "popularity": 87.1564,
+        "votes": 883,
+        "popularity": 92.7534,
         "genreIds": [
           18
         ],
@@ -2838,7 +2840,7 @@
         "year": "2019",
         "rating": 8.7,
         "votes": 8125,
-        "popularity": 36.6931,
+        "popularity": 37.2887,
         "genreIds": [
           18
         ],
@@ -2856,7 +2858,7 @@
         "year": "2009",
         "rating": 8.7,
         "votes": 2531,
-        "popularity": 46.316,
+        "popularity": 47.5699,
         "genreIds": [
           16,
           10759,
@@ -2876,8 +2878,8 @@
         "date": "2015-02-08",
         "year": "2015",
         "rating": 8.7,
-        "votes": 6723,
-        "popularity": 74.8063,
+        "votes": 6724,
+        "popularity": 75.4063,
         "genreIds": [
           80,
           18
@@ -2896,7 +2898,7 @@
         "year": "2022",
         "rating": 8.7,
         "votes": 500,
-        "popularity": 53.4389,
+        "popularity": 53.8919,
         "genreIds": [
           10759,
           18
@@ -2915,7 +2917,7 @@
         "year": "2013",
         "rating": 8.7,
         "votes": 7600,
-        "popularity": 29.3822,
+        "popularity": 29.8562,
         "genreIds": [
           16,
           10765,
@@ -2934,8 +2936,8 @@
         "date": "2013-12-02",
         "year": "2013",
         "rating": 8.7,
-        "votes": 11241,
-        "popularity": 216.1674,
+        "votes": 11242,
+        "popularity": 210.6103,
         "genreIds": [
           16,
           35,
