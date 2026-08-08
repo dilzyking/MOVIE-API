@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1270,
+        "votes": 1278,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2412,
+        "votes": 2413,
         "popularity": 886.9314,
         "genreIds": [
           12,
@@ -54,8 +54,8 @@
         "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
         "date": "2026-08-06",
         "year": "2026",
-        "rating": 6,
-        "votes": 103,
+        "rating": 6.1,
+        "votes": 107,
         "popularity": 143.8808,
         "genreIds": [
           27,
@@ -75,8 +75,8 @@
         "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
         "date": "2026-07-07",
         "year": "2026",
-        "rating": 7.8,
-        "votes": 736,
+        "rating": 7.9,
+        "votes": 737,
         "popularity": 203.6299,
         "genreIds": [
           27
@@ -95,7 +95,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4405,
+        "votes": 4406,
         "popularity": 314.1366,
         "genreIds": [
           27,
@@ -115,7 +115,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.8,
-        "votes": 1672,
+        "votes": 1673,
         "popularity": 469.1073,
         "genreIds": [
           28,
@@ -146,26 +146,24 @@
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1679730,
-        "type": "movie",
-        "title": "THE RIBBON HERO",
-        "originalTitle": "THE RIBBON HERO リボンヒーロー",
-        "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-        "poster": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-        "backdrop": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": 9,
-        "votes": 1,
-        "popularity": 2.4879,
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.3,
+        "votes": 2506,
+        "popularity": 140.322,
         "genreIds": [
-          16,
-          14,
           18,
-          28
+          35
         ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/movie/1679730?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -590,7 +588,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1227,
+        "votes": 1251,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -606,11 +604,11 @@
         "originalTitle": "The Odyssey",
         "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
         "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2372,
+        "votes": 2391,
         "popularity": 886.9314,
         "genreIds": [
           12,
@@ -630,7 +628,7 @@
         "date": "2021-12-15",
         "year": "2021",
         "rating": 7.9,
-        "votes": 22529,
+        "votes": 22536,
         "popularity": 565.3864,
         "genreIds": [
           28,
@@ -650,7 +648,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.8,
-        "votes": 1652,
+        "votes": 1660,
         "popularity": 469.1073,
         "genreIds": [
           28,
@@ -670,7 +668,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4390,
+        "votes": 4398,
         "popularity": 314.1366,
         "genreIds": [
           27,
@@ -689,7 +687,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2488,
+        "votes": 2498,
         "popularity": 316.3813,
         "genreIds": [
           878,
@@ -708,7 +706,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.4,
-        "votes": 781,
+        "votes": 782,
         "popularity": 303.9425,
         "genreIds": [
           16,
@@ -729,7 +727,7 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.5,
-        "votes": 170,
+        "votes": 171,
         "popularity": 295.4889,
         "genreIds": [
           12,
@@ -748,8 +746,8 @@
         "backdrop": "/yQIdU11DYQQp0neGtGtGxbGfRer.jpg",
         "date": "2026-06-03",
         "year": "2026",
-        "rating": 7.3,
-        "votes": 1639,
+        "rating": 7.2,
+        "votes": 1647,
         "popularity": 248.1535,
         "genreIds": [
           28,
@@ -769,7 +767,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 6,
-        "votes": 175,
+        "votes": 176,
         "popularity": 257.9071,
         "genreIds": [
           10751,
@@ -812,7 +810,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 6.5,
-        "votes": 496,
+        "votes": 498,
         "popularity": 238.6089,
         "genreIds": [
           27,
@@ -831,7 +829,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2581,
+        "votes": 2582,
         "popularity": 202.8408,
         "genreIds": [
           27,
@@ -851,7 +849,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 429,
+        "votes": 432,
         "popularity": 227.8266,
         "genreIds": [
           28,
@@ -871,12 +869,30 @@
         "date": "2017-07-05",
         "year": "2017",
         "rating": 7.3,
-        "votes": 23523,
+        "votes": 23526,
         "popularity": 215.6988,
         "genreIds": [
           28,
           12,
           878
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1212763,
+        "type": "movie",
+        "title": "Evil Dead Burn",
+        "originalTitle": "Evil Dead Burn",
+        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "date": "2026-07-07",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 723,
+        "popularity": 203.6299,
+        "genreIds": [
+          27
         ],
         "lang": "en"
       },
@@ -901,25 +917,6 @@
         "lang": "en"
       },
       {
-        "id": 557,
-        "type": "movie",
-        "title": "Spider-Man",
-        "originalTitle": "Spider-Man",
-        "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
-        "poster": "/nXdAh5vUwERL4WGVMaee8RoDEAS.jpg",
-        "backdrop": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
-        "date": "2002-05-01",
-        "year": "2002",
-        "rating": 7.3,
-        "votes": 21046,
-        "popularity": 190.5737,
-        "genreIds": [
-          28,
-          878
-        ],
-        "lang": "en"
-      },
-      {
         "id": 980431,
         "type": "movie",
         "title": "Avatar Aang: The Last Airbender",
@@ -930,32 +927,13 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 720,
+        "votes": 723,
         "popularity": 182.6629,
         "genreIds": [
           16,
           28,
           12,
           14
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1212763,
-        "type": "movie",
-        "title": "Evil Dead Burn",
-        "originalTitle": "Evil Dead Burn",
-        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
-        "date": "2026-07-07",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 711,
-        "popularity": 203.6299,
-        "genreIds": [
-          27,
-          53
         ],
         "lang": "en"
       },
@@ -970,10 +948,29 @@
         "date": "2026-06-03",
         "year": "2026",
         "rating": 6.5,
-        "votes": 1504,
+        "votes": 1506,
         "popularity": 186.436,
         "genreIds": [
           35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 557,
+        "type": "movie",
+        "title": "Spider-Man",
+        "originalTitle": "Spider-Man",
+        "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+        "poster": "/nXdAh5vUwERL4WGVMaee8RoDEAS.jpg",
+        "backdrop": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+        "date": "2002-05-01",
+        "year": "2002",
+        "rating": 7.3,
+        "votes": 21049,
+        "popularity": 190.5737,
+        "genreIds": [
+          28,
+          878
         ],
         "lang": "en"
       }
