@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1583,
+        "votes": 1591,
         "popularity": 1146.6141,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2652,
+        "votes": 2655,
         "popularity": 819.0049,
         "genreIds": [
           12,
@@ -43,6 +43,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3014,
+        "popularity": 189.0347,
+        "genreIds": [
+          10759,
+          18,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1284041,
@@ -55,7 +76,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.8,
-        "votes": 484,
+        "votes": 487,
         "popularity": 383.9155,
         "genreIds": [
           27,
@@ -76,7 +97,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6927,
+        "votes": 6929,
         "popularity": 469.4002,
         "genreIds": [
           10765,
@@ -86,6 +107,72 @@
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
+      {
+        "id": 1315772,
+        "type": "movie",
+        "title": "Minions & Monsters",
+        "originalTitle": "Minions & Monsters",
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "poster": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 426,
+        "popularity": 331.3084,
+        "genreIds": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 950028,
+        "type": "movie",
+        "title": "The Invite",
+        "originalTitle": "The Invite",
+        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "date": "2026-06-25",
+        "year": "2026",
+        "rating": 7.5,
+        "votes": 166,
+        "popularity": 99.1462,
+        "genreIds": [
+          35,
+          18,
+          10749
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4586,
+        "popularity": 262.6154,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      }
+    ],
+    "trending": [
       {
         "id": 108978,
         "type": "tv",
@@ -117,95 +204,8 @@
         "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
         "date": "2026-06-24",
         "year": "2026",
-        "rating": 7,
-        "votes": 420,
-        "popularity": 331.3084,
-        "genreIds": [
-          12,
-          16,
-          35,
-          10751,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4584,
-        "popularity": 262.6154,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 950028,
-        "type": "movie",
-        "title": "The Invite",
-        "originalTitle": "The Invite",
-        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-        "date": "2026-06-25",
-        "year": "2026",
-        "rating": 7.5,
-        "votes": 165,
-        "popularity": 99.1462,
-        "genreIds": [
-          35,
-          18,
-          10749
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
-      }
-    ],
-    "trending": [
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3013,
-        "popularity": 189.0347,
-        "genreIds": [
-          10759,
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1315772,
-        "type": "movie",
-        "title": "Minions & Monsters",
-        "originalTitle": "Minions & Monsters",
-        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-        "poster": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 7,
-        "votes": 420,
+        "rating": 7.1,
+        "votes": 425,
         "popularity": 331.3084,
         "genreIds": [
           12,
@@ -228,7 +228,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1582,
+        "votes": 1588,
         "popularity": 1146.6141,
         "genreIds": [
           878,
@@ -249,7 +249,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2651,
+        "votes": 2654,
         "popularity": 819.0049,
         "genreIds": [
           12,
@@ -302,6 +302,48 @@
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 138502,
+        "type": "tv",
+        "title": "X-Men '97",
+        "originalTitle": "X-Men '97",
+        "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+        "poster": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+        "backdrop": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+        "date": "2024-03-20",
+        "year": "2024",
+        "rating": 8.7,
+        "votes": 834,
+        "popularity": 88.8624,
+        "genreIds": [
+          16,
+          10759,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/138502?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 94997,
+        "type": "tv",
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 6928,
+        "popularity": 469.4002,
+        "genreIds": [
+          10765,
+          18,
+          10759
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 278624,
         "type": "tv",
         "title": "Lucky",
@@ -343,69 +385,6 @@
         "iframe": "https://peachify.top/embed/movie/1308767?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 94997,
-        "type": "tv",
-        "title": "House of the Dragon",
-        "originalTitle": "House of the Dragon",
-        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "date": "2022-08-21",
-        "year": "2022",
-        "rating": 8.4,
-        "votes": 6927,
-        "popularity": 469.4002,
-        "genreIds": [
-          10765,
-          18,
-          10759
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 138502,
-        "type": "tv",
-        "title": "X-Men '97",
-        "originalTitle": "X-Men '97",
-        "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-        "poster": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-        "backdrop": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-        "date": "2024-03-20",
-        "year": "2024",
-        "rating": 8.7,
-        "votes": 833,
-        "popularity": 88.8624,
-        "genreIds": [
-          16,
-          10759,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/138502?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 484,
-        "popularity": 383.9155,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1487864,
         "type": "movie",
         "title": "Nando Between Two Worlds - A Sintonia Film",
@@ -424,6 +403,47 @@
         ],
         "lang": "pt",
         "iframe": "https://peachify.top/embed/movie/1487864?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1284041,
+        "type": "movie",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 487,
+        "popularity": 383.9155,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.3,
+        "votes": 2524,
+        "popularity": 138.5577,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 215072,
@@ -447,26 +467,6 @@
         "iframe": "https://peachify.top/embed/tv/215072?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 97546,
-        "type": "tv",
-        "title": "Ted Lasso",
-        "originalTitle": "Ted Lasso",
-        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
-        "date": "2020-08-14",
-        "year": "2020",
-        "rating": 8.3,
-        "votes": 2523,
-        "popularity": 138.5577,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1339713,
         "type": "movie",
         "title": "Obsession",
@@ -477,7 +477,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4584,
+        "votes": 4586,
         "popularity": 262.6154,
         "genreIds": [
           27,
@@ -485,6 +485,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 253983,
+        "type": "tv",
+        "title": "Women in Blue",
+        "originalTitle": "Las azules",
+        "overview": "In 1971, four women defy ultraconservative norms and join Mexico's first female police force—only to discover that it's a publicity stunt to distract the media from a serial killer. As the body count grows, they make a pact to bring the killer to justice.",
+        "poster": "/7x7ONogOLYypFzRsoMcTINGABPD.jpg",
+        "backdrop": "/v713kGiwYw2amhk6v9lfxvAYncv.jpg",
+        "date": "2024-07-30",
+        "year": "2024",
+        "rating": 7.2,
+        "votes": 56,
+        "popularity": 23.0056,
+        "genreIds": [
+          80,
+          18
+        ],
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/tv/253983?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1081003,
@@ -497,7 +517,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1786,
+        "votes": 1787,
         "popularity": 287.6622,
         "genreIds": [
           28,
@@ -506,26 +526,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 253983,
-        "type": "tv",
-        "title": "Women in Blue",
-        "originalTitle": "Las azules",
-        "overview": "In 1971, four women defy ultraconservative norms and join Mexico's first female police force—only to discover that it's a publicity stunt to distract the media from a serial killer. As the body count grows, they make a pact to bring the killer to justice.",
-        "poster": "/yyFmTJYoeMfeF16EXBEj5HYn2Xj.jpg",
-        "backdrop": "/v713kGiwYw2amhk6v9lfxvAYncv.jpg",
-        "date": "2024-07-30",
-        "year": "2024",
-        "rating": 7.3,
-        "votes": 56,
-        "popularity": 23.0056,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/tv/253983?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1612018,
@@ -538,7 +538,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.5,
-        "votes": 89,
+        "votes": 92,
         "popularity": 50.8339,
         "genreIds": [
           28,
@@ -547,6 +547,25 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1612018?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 329274,
+        "type": "tv",
+        "title": "MOURINHO",
+        "originalTitle": "MOURINHO",
+        "overview": "This trophy-packed, insider-fuelled documentary charts José Mourinho's iconic rise as one of the world's top footballing managers of the most elite clubs.",
+        "poster": "/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
+        "backdrop": "/tUd9QHKQJG2vZUfyPtelZqgBIq1.jpg",
+        "date": "2026-08-11",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 3,
+        "popularity": 14.1378,
+        "genreIds": [
+          99
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/329274?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 125988,
@@ -567,26 +586,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 687163,
-        "type": "movie",
-        "title": "Project Hail Mary",
-        "originalTitle": "Project Hail Mary",
-        "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-        "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "backdrop": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-        "date": "2026-03-15",
-        "year": "2026",
-        "rating": 8.7,
-        "votes": 6965,
-        "popularity": 144.5472,
-        "genreIds": [
-          878,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -2172,6 +2171,25 @@
     ],
     "popularTv": [
       {
+        "id": 50821,
+        "type": "tv",
+        "title": "Among Friends",
+        "originalTitle": "Barátok közt",
+        "overview": "Miklós introduces viewers into the world of Money and Charm.",
+        "poster": "/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+        "backdrop": "/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
+        "date": "1998-10-26",
+        "year": "1998",
+        "rating": 3.8,
+        "votes": 20,
+        "popularity": 502.8992,
+        "genreIds": [
+          18,
+          10751
+        ],
+        "lang": "hu"
+      },
+      {
         "id": 51025,
         "type": "tv",
         "title": "Paradise Hotel",
@@ -2188,26 +2206,6 @@
           10764
         ],
         "lang": "da"
-      },
-      {
-        "id": 94997,
-        "type": "tv",
-        "title": "House of the Dragon",
-        "originalTitle": "House of the Dragon",
-        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "date": "2022-08-21",
-        "year": "2022",
-        "rating": 8.4,
-        "votes": 6920,
-        "popularity": 469.4002,
-        "genreIds": [
-          10765,
-          18,
-          10759
-        ],
-        "lang": "en"
       },
       {
         "id": 67707,
@@ -2228,21 +2226,22 @@
         "lang": "sv"
       },
       {
-        "id": 113962,
+        "id": 94997,
         "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8,
-        "votes": 1326,
-        "popularity": 327.7482,
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 6929,
+        "popularity": 469.4002,
         "genreIds": [
+          10765,
           18,
-          10768
+          10759
         ],
         "lang": "en"
       },
@@ -2265,6 +2264,25 @@
         "lang": "no"
       },
       {
+        "id": 113962,
+        "type": "tv",
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "date": "2023-07-23",
+        "year": "2023",
+        "rating": 8,
+        "votes": 1328,
+        "popularity": 327.7482,
+        "genreIds": [
+          18,
+          10768
+        ],
+        "lang": "en"
+      },
+      {
         "id": 5920,
         "type": "tv",
         "title": "The Mentalist",
@@ -2285,6 +2303,42 @@
         "lang": "en"
       },
       {
+        "id": 46271,
+        "type": "tv",
+        "title": "Secret Story",
+        "originalTitle": "Secret Story",
+        "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
+        "poster": "/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
+        "backdrop": "/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
+        "date": "2007-06-23",
+        "year": "2007",
+        "rating": 4.5,
+        "votes": 12,
+        "popularity": 284.2257,
+        "genreIds": [
+          10764
+        ],
+        "lang": "fr"
+      },
+      {
+        "id": 94722,
+        "type": "tv",
+        "title": "Tagesschau",
+        "originalTitle": "Tagesschau",
+        "overview": "German daily news program, the oldest still existing program on German television.",
+        "poster": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "backdrop": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+        "date": "1952-12-26",
+        "year": "1952",
+        "rating": 6.8,
+        "votes": 256,
+        "popularity": 281.0225,
+        "genreIds": [
+          10763
+        ],
+        "lang": "de"
+      },
+      {
         "id": 233643,
         "type": "tv",
         "title": "Secret Mission - Undercover Agents Never Back Down!",
@@ -2301,6 +2355,40 @@
           16
         ],
         "lang": "ja"
+      },
+      {
+        "id": 310518,
+        "type": "tv",
+        "title": "Hockey Psychology",
+        "originalTitle": "Hockey Psychology",
+        "overview": "Breaking down the game within the game for the best sport on earth.",
+        "poster": null,
+        "backdrop": null,
+        "date": "2021-04-10",
+        "year": "2021",
+        "rating": null,
+        "votes": 0,
+        "popularity": 258.4097,
+        "genreIds": [],
+        "lang": "en"
+      },
+      {
+        "id": 37528,
+        "type": "tv",
+        "title": "Gran hermano",
+        "originalTitle": "Gran hermano",
+        "overview": "Argentina's version of the Big Brother franchise.",
+        "poster": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+        "backdrop": "/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
+        "date": "2001-03-10",
+        "year": "2001",
+        "rating": 4.5,
+        "votes": 4,
+        "popularity": 253.6162,
+        "genreIds": [
+          10764
+        ],
+        "lang": "es"
       },
       {
         "id": 2734,
@@ -2323,22 +2411,23 @@
         "lang": "en"
       },
       {
-        "id": 37528,
+        "id": 291496,
         "type": "tv",
-        "title": "Gran hermano",
-        "originalTitle": "Gran hermano",
-        "overview": "Argentina's version of the Big Brother franchise.",
-        "poster": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-        "backdrop": "/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
-        "date": "2001-03-10",
-        "year": "2001",
-        "rating": 4.5,
-        "votes": 4,
-        "popularity": 253.6162,
+        "title": "Our Sticky Love",
+        "originalTitle": "이런 엿같은 사랑",
+        "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+        "poster": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+        "backdrop": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+        "date": "2026-08-07",
+        "year": "2026",
+        "rating": 8.1,
+        "votes": 24,
+        "popularity": 247.1807,
         "genreIds": [
-          10764
+          18,
+          35
         ],
-        "lang": "es"
+        "lang": "ko"
       },
       {
         "id": 1416,
@@ -2351,12 +2440,30 @@
         "date": "2005-03-27",
         "year": "2005",
         "rating": 8.2,
-        "votes": 11000,
+        "votes": 11001,
         "popularity": 246.0777,
         "genreIds": [
           18
         ],
         "lang": "en"
+      },
+      {
+        "id": 6836,
+        "type": "tv",
+        "title": "Kangxi Coming",
+        "originalTitle": "康熙來了",
+        "overview": "Kang Xi Lai Le is a Taiwanese variety-comedy talk show hosted by variety show veterans Dee Hsu and Kevin Tsai. It was produced by Chungta Production from 2004 to 2009, and currently produced by Gold Star Production along with the writing and production staff of GUESS. It was first broadcast on 5 January 2004 and currently airs Monday to Friday at 22:00-23:00 on cable TV CTi Variety. In most episodes, the hosts interview a panel of celebrities in various and controversial topics while employing their signature comedic bantering. It is broadcast in Hong Kong on ATV Home under the name of Variety Show of Mr Con and Ms Csi.\n\nAlthough it is broadcast in Taiwan, the show is very successful and popular among Chinese speaking audiences across the world who watch uploaded re-runs over the internet or through bootleg DVDs. The show has been mentioned in other Taiwanese variety and talk shows, mainly from presenters who appeared on the show.",
+        "poster": "/bVWEPDZHRSdd7voVled6CLLq1zB.jpg",
+        "backdrop": "/390GKeZ6GLJNEbazLq7SFIYLvxW.jpg",
+        "date": "2004-01-05",
+        "year": "2004",
+        "rating": 7.7,
+        "votes": 3,
+        "popularity": 245.7854,
+        "genreIds": [
+          10767
+        ],
+        "lang": "zh"
       },
       {
         "id": 79744,
@@ -2379,43 +2486,6 @@
         "lang": "en"
       },
       {
-        "id": 291496,
-        "type": "tv",
-        "title": "Our Sticky Love",
-        "originalTitle": "이런 엿같은 사랑",
-        "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-        "poster": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-        "backdrop": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": 7.8,
-        "votes": 23,
-        "popularity": 247.1807,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "ko"
-      },
-      {
-        "id": 46271,
-        "type": "tv",
-        "title": "Secret Story",
-        "originalTitle": "Secret Story",
-        "overview": "The game contestants are cut off from the rest of the world during ten to fifteen weeks in a house called “house of secrets”, where every room is fitted with video cameras, except the restroom. The goal is to keep a secret while trying to discover the other contestants' secret.",
-        "poster": "/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
-        "backdrop": "/go422YL6ytCPCZsrTCBmAJYaI72.jpg",
-        "date": "2007-06-23",
-        "year": "2007",
-        "rating": 4.5,
-        "votes": 12,
-        "popularity": 284.2257,
-        "genreIds": [
-          10764
-        ],
-        "lang": "fr"
-      },
-      {
         "id": 22980,
         "type": "tv",
         "title": "Watch What Happens Live with Andy Cohen",
@@ -2432,22 +2502,6 @@
           10767,
           35
         ],
-        "lang": "en"
-      },
-      {
-        "id": 310518,
-        "type": "tv",
-        "title": "Hockey Psychology",
-        "originalTitle": "Hockey Psychology",
-        "overview": "Breaking down the game within the game for the best sport on earth.",
-        "poster": null,
-        "backdrop": null,
-        "date": "2021-04-10",
-        "year": "2021",
-        "rating": null,
-        "votes": 0,
-        "popularity": 258.4097,
-        "genreIds": [],
         "lang": "en"
       },
       {
@@ -2481,69 +2535,11 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2407,
+        "votes": 2408,
         "popularity": 215.7666,
         "genreIds": [
           10765,
           18
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 549,
-        "type": "tv",
-        "title": "Law & Order",
-        "originalTitle": "Law & Order",
-        "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-        "poster": "/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
-        "backdrop": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-        "date": "1990-09-13",
-        "year": "1990",
-        "rating": 7.3,
-        "votes": 704,
-        "popularity": 201.7392,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 456,
-        "type": "tv",
-        "title": "The Simpsons",
-        "originalTitle": "The Simpsons",
-        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-        "poster": "/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "backdrop": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-        "date": "1989-12-17",
-        "year": "1989",
-        "rating": 8,
-        "votes": 10927,
-        "popularity": 211.4554,
-        "genreIds": [
-          16,
-          35
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 4614,
-        "type": "tv",
-        "title": "NCIS",
-        "originalTitle": "NCIS",
-        "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-        "poster": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-        "backdrop": "/nn3SuLTO4hum8yAxaY4ql8h6kRk.jpg",
-        "date": "2003-09-23",
-        "year": "2003",
-        "rating": 7.6,
-        "votes": 2545,
-        "popularity": 201.6035,
-        "genreIds": [
-          80,
-          18,
-          10759
         ],
         "lang": "en"
       }
@@ -3727,7 +3723,7 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.7,
-        "votes": 1787,
+        "votes": 1792,
         "popularity": 133.4124,
         "genreIds": [
           16,
@@ -3746,34 +3742,14 @@
         "backdrop": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
         "date": "2026-08-07",
         "year": "2026",
-        "rating": 7.1,
-        "votes": 10,
+        "rating": 7.4,
+        "votes": 11,
         "popularity": 40.5794,
         "genreIds": [
           16,
           14,
           18,
           28
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 129,
-        "type": "movie",
-        "title": "Spirited Away",
-        "originalTitle": "千と千尋の神隠し",
-        "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
-        "poster": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
-        "backdrop": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
-        "date": "2001-07-20",
-        "year": "2001",
-        "rating": 8.5,
-        "votes": 18670,
-        "popularity": 35.7355,
-        "genreIds": [
-          16,
-          10751,
-          14
         ],
         "lang": "ja"
       },
@@ -3788,7 +3764,7 @@
         "date": "2025-09-19",
         "year": "2025",
         "rating": 8.5,
-        "votes": 1100,
+        "votes": 1101,
         "popularity": 35.8703,
         "genreIds": [
           16,
@@ -3799,42 +3775,22 @@
         "lang": "ja"
       },
       {
-        "id": 372058,
+        "id": 129,
         "type": "movie",
-        "title": "Your Name.",
-        "originalTitle": "君の名は。",
-        "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
-        "poster": "/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
-        "backdrop": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
-        "date": "2016-07-01",
-        "year": "2016",
+        "title": "Spirited Away",
+        "originalTitle": "千と千尋の神隠し",
+        "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+        "poster": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "backdrop": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+        "date": "2001-07-20",
+        "year": "2001",
         "rating": 8.5,
-        "votes": 12824,
-        "popularity": 29.2281,
+        "votes": 18672,
+        "popularity": 35.7355,
         "genreIds": [
           16,
-          10749,
-          18
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 4935,
-        "type": "movie",
-        "title": "Howl's Moving Castle",
-        "originalTitle": "ハウルの動く城",
-        "overview": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
-        "poster": "/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
-        "backdrop": "/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
-        "date": "2004-09-09",
-        "year": "2004",
-        "rating": 8.4,
-        "votes": 11285,
-        "popularity": 27.188,
-        "genreIds": [
-          14,
-          16,
-          12
+          10751,
+          14
         ],
         "lang": "ja"
       },
@@ -3855,6 +3811,46 @@
           12,
           16,
           35
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 372058,
+        "type": "movie",
+        "title": "Your Name.",
+        "originalTitle": "君の名は。",
+        "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+        "poster": "/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
+        "backdrop": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+        "date": "2016-07-01",
+        "year": "2016",
+        "rating": 8.5,
+        "votes": 12826,
+        "popularity": 29.2281,
+        "genreIds": [
+          16,
+          10749,
+          18
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 4935,
+        "type": "movie",
+        "title": "Howl's Moving Castle",
+        "originalTitle": "ハウルの動く城",
+        "overview": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
+        "poster": "/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+        "backdrop": "/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
+        "date": "2004-09-09",
+        "year": "2004",
+        "rating": 8.4,
+        "votes": 11286,
+        "popularity": 27.188,
+        "genreIds": [
+          14,
+          16,
+          12
         ],
         "lang": "ja"
       },
@@ -3910,7 +3906,7 @@
         "date": "1998-02-28",
         "year": "1998",
         "rating": 8.3,
-        "votes": 3287,
+        "votes": 3288,
         "popularity": 19.3507,
         "genreIds": [
           16,
@@ -3929,30 +3925,9 @@
         "date": "1997-07-12",
         "year": "1997",
         "rating": 8.3,
-        "votes": 9164,
+        "votes": 9165,
         "popularity": 19.2154,
         "genreIds": [
-          12,
-          14,
-          16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 1357633,
-        "type": "movie",
-        "title": "Solo Leveling -ReAwakening-",
-        "originalTitle": "俺だけレベルアップな件 -ReAwakening-",
-        "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
-        "poster": "/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg",
-        "backdrop": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
-        "date": "2024-11-26",
-        "year": "2024",
-        "rating": 7.2,
-        "votes": 278,
-        "popularity": 17.7936,
-        "genreIds": [
-          28,
           12,
           14,
           16
@@ -3981,6 +3956,27 @@
         "lang": "ja"
       },
       {
+        "id": 1357633,
+        "type": "movie",
+        "title": "Solo Leveling -ReAwakening-",
+        "originalTitle": "俺だけレベルアップな件 -ReAwakening-",
+        "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
+        "poster": "/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg",
+        "backdrop": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+        "date": "2024-11-26",
+        "year": "2024",
+        "rating": 7.2,
+        "votes": 278,
+        "popularity": 17.7936,
+        "genreIds": [
+          28,
+          12,
+          14,
+          16
+        ],
+        "lang": "ja"
+      },
+      {
         "id": 18491,
         "type": "movie",
         "title": "Neon Genesis Evangelion: The End of Evangelion",
@@ -3991,7 +3987,7 @@
         "date": "1997-07-19",
         "year": "1997",
         "rating": 8.3,
-        "votes": 1907,
+        "votes": 1908,
         "popularity": 16.5473,
         "genreIds": [
           16,
@@ -4074,7 +4070,7 @@
         "date": "2016-09-17",
         "year": "2016",
         "rating": 8.4,
-        "votes": 4611,
+        "votes": 4613,
         "popularity": 15.4852,
         "genreIds": [
           16,
@@ -4115,7 +4111,7 @@
         "date": "1995-11-18",
         "year": "1995",
         "rating": 7.9,
-        "votes": 3981,
+        "votes": 3983,
         "popularity": 13.5816,
         "genreIds": [
           28,
