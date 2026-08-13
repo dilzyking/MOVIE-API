@@ -1791,8 +1791,8 @@
         "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
         "date": "2026-06-24",
         "year": "2026",
-        "rating": 7.2,
-        "votes": 485,
+        "rating": 7.3,
+        "votes": 502,
         "popularity": 344.0984,
         "genreIds": [
           12,
@@ -1814,7 +1814,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 473,
+        "votes": 474,
         "popularity": 299.3411,
         "genreIds": [
           28,
@@ -1834,7 +1834,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4603,
+        "votes": 4613,
         "popularity": 293.7814,
         "genreIds": [
           27,
@@ -1853,7 +1853,7 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.3,
-        "votes": 203,
+        "votes": 206,
         "popularity": 261.4544,
         "genreIds": [
           12,
@@ -1894,12 +1894,31 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2709,
+        "votes": 2719,
         "popularity": 162.347,
         "genreIds": [
           27,
           9648,
           878
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1594914,
+        "type": "movie",
+        "title": "Lucky Strike",
+        "originalTitle": "Lucky Strike",
+        "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
+        "poster": "/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
+        "backdrop": "/1ebY06Gc1eUZcCoO7IoD4tWCFxm.jpg",
+        "date": "2026-06-26",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 26,
+        "popularity": 131.5011,
+        "genreIds": [
+          28,
+          10752
         ],
         "lang": "en"
       },
@@ -1914,7 +1933,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 6.7,
-        "votes": 286,
+        "votes": 291,
         "popularity": 126.6507,
         "genreIds": [
           27,
@@ -1923,21 +1942,22 @@
         "lang": "en"
       },
       {
-        "id": 1594914,
+        "id": 1101383,
         "type": "movie",
-        "title": "Lucky Strike",
-        "originalTitle": "Lucky Strike",
-        "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
-        "poster": "/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
-        "backdrop": "/1ebY06Gc1eUZcCoO7IoD4tWCFxm.jpg",
-        "date": "2026-06-26",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 25,
-        "popularity": 131.5011,
+        "rating": 7,
+        "votes": 50,
+        "popularity": 112.6153,
         "genreIds": [
-          28,
-          10752
+          878,
+          9648,
+          53
         ],
         "lang": "en"
       },
@@ -1952,7 +1972,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.5,
-        "votes": 171,
+        "votes": 178,
         "popularity": 100.8765,
         "genreIds": [
           35,
@@ -1972,7 +1992,7 @@
         "date": "2026-04-22",
         "year": "2026",
         "rating": 8.7,
-        "votes": 3983,
+        "votes": 3987,
         "popularity": 92.8659,
         "genreIds": [
           10402,
@@ -2009,30 +2029,10 @@
         "date": "2026-04-30",
         "year": "2026",
         "rating": 7.2,
-        "votes": 381,
+        "votes": 382,
         "popularity": 85.5693,
         "genreIds": [
           27,
-          53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 7,
-        "votes": 43,
-        "popularity": 112.6153,
-        "genreIds": [
-          878,
-          9648,
           53
         ],
         "lang": "en"
@@ -2048,7 +2048,7 @@
         "date": "2026-01-28",
         "year": "2026",
         "rating": 7.8,
-        "votes": 1670,
+        "votes": 1673,
         "popularity": 65.5346,
         "genreIds": [
           28,
@@ -2068,7 +2068,7 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 31007,
+        "votes": 31010,
         "popularity": 58.1371,
         "genreIds": [
           18,
@@ -2077,21 +2077,22 @@
         "lang": "en"
       },
       {
-        "id": 1430698,
+        "id": 1308767,
         "type": "movie",
-        "title": "The Bay",
-        "originalTitle": "The Bay",
-        "overview": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.",
-        "poster": "/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
-        "backdrop": "/qaMQOtAZ6K4RneNDa1yDlJv1V6J.jpg",
+        "title": "Young Washington",
+        "originalTitle": "Young Washington",
+        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+        "poster": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+        "backdrop": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
         "date": "2026-07-02",
         "year": "2026",
-        "rating": 6,
-        "votes": 20,
-        "popularity": 46.9641,
+        "rating": 7.7,
+        "votes": 51,
+        "popularity": 49.7929,
         "genreIds": [
-          53,
-          27
+          36,
+          10752,
+          18
         ],
         "lang": "en"
       },
@@ -2106,31 +2107,11 @@
         "date": "2001-11-16",
         "year": "2001",
         "rating": 7.9,
-        "votes": 29981,
+        "votes": 29984,
         "popularity": 48.3473,
         "genreIds": [
           12,
           14
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1308767,
-        "type": "movie",
-        "title": "Young Washington",
-        "originalTitle": "Young Washington",
-        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-        "poster": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
-        "backdrop": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
-        "date": "2026-07-02",
-        "year": "2026",
-        "rating": 7.8,
-        "votes": 50,
-        "popularity": 49.7929,
-        "genreIds": [
-          36,
-          10752,
-          18
         ],
         "lang": "en"
       },
@@ -2154,22 +2135,39 @@
         "lang": "ko"
       },
       {
-        "id": 1325734,
+        "id": 1430698,
         "type": "movie",
-        "title": "The Drama",
-        "originalTitle": "The Drama",
-        "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-        "poster": "/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
-        "backdrop": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
-        "date": "2026-04-01",
+        "title": "The Bay",
+        "originalTitle": "The Bay",
+        "overview": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.",
+        "poster": "/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
+        "backdrop": "/qaMQOtAZ6K4RneNDa1yDlJv1V6J.jpg",
+        "date": "2026-07-02",
         "year": "2026",
-        "rating": 6.9,
-        "votes": 1544,
-        "popularity": 45.0601,
+        "rating": 5.8,
+        "votes": 21,
+        "popularity": 46.9641,
         "genreIds": [
-          10749,
-          35,
-          18
+          53,
+          27
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1477712,
+        "type": "movie",
+        "title": "Ice Cream Man",
+        "originalTitle": "Ice Cream Man",
+        "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+        "poster": "/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg",
+        "backdrop": "/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
+        "date": "2026-08-03",
+        "year": "2026",
+        "rating": 5.1,
+        "votes": 38,
+        "popularity": 45.6916,
+        "genreIds": [
+          27
         ],
         "lang": "en"
       }
