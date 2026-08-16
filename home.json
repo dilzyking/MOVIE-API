@@ -1789,12 +1789,12 @@
         "title": "Minions & Monsters",
         "originalTitle": "Minions & Monsters",
         "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-        "poster": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "poster": "/sO3O1szSYuXLwtkobU5TExQ6Wfa.jpg",
         "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.4,
-        "votes": 635,
+        "votes": 639,
         "popularity": 329.1045,
         "genreIds": [
           12,
@@ -1816,7 +1816,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 506,
+        "votes": 507,
         "popularity": 308.5454,
         "genreIds": [
           28,
@@ -1836,7 +1836,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4709,
+        "votes": 4720,
         "popularity": 248.4086,
         "genreIds": [
           27,
@@ -1875,7 +1875,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 6.8,
-        "votes": 128,
+        "votes": 137,
         "popularity": 212.4078,
         "genreIds": [
           878,
@@ -1895,7 +1895,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 6,
-        "votes": 194,
+        "votes": 195,
         "popularity": 194.0393,
         "genreIds": [
           10751,
@@ -1916,7 +1916,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2777,
+        "votes": 2785,
         "popularity": 146.318,
         "genreIds": [
           27,
@@ -1951,11 +1951,11 @@
         "originalTitle": "The Invite",
         "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
         "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "backdrop": "/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.4,
-        "votes": 228,
+        "votes": 233,
         "popularity": 120.005,
         "genreIds": [
           35,
@@ -2002,25 +2002,6 @@
         "lang": "ru"
       },
       {
-        "id": 936075,
-        "type": "movie",
-        "title": "Michael",
-        "originalTitle": "Michael",
-        "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-        "poster": "/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-        "backdrop": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
-        "date": "2026-04-22",
-        "year": "2026",
-        "rating": 8.7,
-        "votes": 4032,
-        "popularity": 70.3095,
-        "genreIds": [
-          10402,
-          18
-        ],
-        "lang": "en"
-      },
-      {
         "id": 1127384,
         "type": "movie",
         "title": "Deep Water",
@@ -2031,30 +2012,10 @@
         "date": "2026-04-30",
         "year": "2026",
         "rating": 7.1,
-        "votes": 396,
+        "votes": 397,
         "popularity": 78.9443,
         "genreIds": [
           27,
-          53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1290821,
-        "type": "movie",
-        "title": "Shelter",
-        "originalTitle": "Shelter",
-        "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-        "poster": "/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
-        "backdrop": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
-        "date": "2026-01-28",
-        "year": "2026",
-        "rating": 7.8,
-        "votes": 1690,
-        "popularity": 59.7126,
-        "genreIds": [
-          28,
-          80,
           53
         ],
         "lang": "en"
@@ -2070,11 +2031,50 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 31038,
+        "votes": 31041,
         "popularity": 75.9207,
         "genreIds": [
           18,
           80
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 936075,
+        "type": "movie",
+        "title": "Michael",
+        "originalTitle": "Michael",
+        "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+        "poster": "/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+        "backdrop": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+        "date": "2026-04-22",
+        "year": "2026",
+        "rating": 8.7,
+        "votes": 4033,
+        "popularity": 70.3095,
+        "genreIds": [
+          10402,
+          18
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1290821,
+        "type": "movie",
+        "title": "Shelter",
+        "originalTitle": "Shelter",
+        "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+        "poster": "/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+        "backdrop": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+        "date": "2026-01-28",
+        "year": "2026",
+        "rating": 7.8,
+        "votes": 1694,
+        "popularity": 59.7126,
+        "genreIds": [
+          28,
+          80,
+          53
         ],
         "lang": "en"
       },
@@ -2109,11 +2109,31 @@
         "date": "2001-11-16",
         "year": "2001",
         "rating": 7.9,
-        "votes": 30013,
+        "votes": 30015,
         "popularity": 46.1624,
         "genreIds": [
           12,
           14
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1325734,
+        "type": "movie",
+        "title": "The Drama",
+        "originalTitle": "The Drama",
+        "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+        "poster": "/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+        "backdrop": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+        "date": "2026-04-01",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 1571,
+        "popularity": 43.8467,
+        "genreIds": [
+          10749,
+          35,
+          18
         ],
         "lang": "en"
       },
@@ -2137,41 +2157,24 @@
         "lang": "en"
       },
       {
-        "id": 1325734,
+        "id": 1185806,
         "type": "movie",
-        "title": "The Drama",
-        "originalTitle": "The Drama",
-        "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-        "poster": "/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
-        "backdrop": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
-        "date": "2026-04-01",
+        "title": "PAW Patrol: The Dino Movie",
+        "originalTitle": "PAW Patrol: The Dino Movie",
+        "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+        "poster": "/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+        "backdrop": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+        "date": "2026-07-23",
         "year": "2026",
-        "rating": 6.9,
-        "votes": 1569,
-        "popularity": 43.8467,
+        "rating": 7,
+        "votes": 29,
+        "popularity": 41.2238,
         "genreIds": [
-          10749,
-          35,
-          18
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1430698,
-        "type": "movie",
-        "title": "The Bay",
-        "originalTitle": "The Bay",
-        "overview": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.",
-        "poster": "/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
-        "backdrop": "/qaMQOtAZ6K4RneNDa1yDlJv1V6J.jpg",
-        "date": "2026-07-02",
-        "year": "2026",
-        "rating": 5.8,
-        "votes": 22,
-        "popularity": 39.2575,
-        "genreIds": [
-          53,
-          27
+          16,
+          12,
+          10751,
+          14,
+          35
         ],
         "lang": "en"
       }
