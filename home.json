@@ -185,7 +185,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2783,
+        "votes": 2785,
         "popularity": 814.1546,
         "genreIds": [
           12,
@@ -206,7 +206,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1783,
+        "votes": 1784,
         "popularity": 1407.5009,
         "genreIds": [
           878,
@@ -215,6 +215,50 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1315772,
+        "type": "movie",
+        "title": "Minions & Monsters",
+        "originalTitle": "Minions & Monsters",
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "poster": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 628,
+        "popularity": 329.1045,
+        "genreIds": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 126,
+        "popularity": 212.4078,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -227,7 +271,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3055,
+        "votes": 3058,
         "popularity": 522.0746,
         "genreIds": [
           10759,
@@ -236,6 +280,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4698,
+        "popularity": 248.4086,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1003596,
@@ -259,70 +323,6 @@
         "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1315772,
-        "type": "movie",
-        "title": "Minions & Monsters",
-        "originalTitle": "Minions & Monsters",
-        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-        "poster": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 7.4,
-        "votes": 622,
-        "popularity": 329.1045,
-        "genreIds": [
-          12,
-          16,
-          35,
-          10751,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4689,
-        "popularity": 248.4086,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1504358,
-        "type": "movie",
-        "title": "Don't Say Good Luck",
-        "originalTitle": "Don't Say Good Luck",
-        "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-        "poster": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-        "backdrop": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
-        "date": "2026-08-13",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 14,
-        "popularity": 69.0318,
-        "genreIds": [
-          35,
-          10402,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1504358?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1493400,
         "type": "movie",
         "title": "Camp Rock 3",
@@ -332,8 +332,8 @@
         "backdrop": "/7tt3K3xEOBRODnigWpNGF53cKrd.jpg",
         "date": "2026-08-13",
         "year": "2026",
-        "rating": 5.8,
-        "votes": 34,
+        "rating": 5.6,
+        "votes": 35,
         "popularity": 77.0286,
         "genreIds": [
           10402,
@@ -349,9 +349,9 @@
         "type": "tv",
         "title": "VisionQuest",
         "originalTitle": "VisionQuest",
-        "overview": "Vision, rebooted and having escaped from those who sought to weaponize him, has been in hiding. Searching for new meaning, he consults the AI personas embedded in his programming, including F.R.I.D.A.Y., E.D.I.T.H., J.A.R.V.I.S., and the infamous Ultron. His discreet existence ends when a bounty placed on his head thrusts him on the run with Thomas Shepard, a mysterious boy who may be Vision's son, reincarnate. As Vision evades capture, he must confront his nature, resist Ultron's influence, and unravel the enigma that is his young companion if he's to survive.",
+        "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
         "poster": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-        "backdrop": "/c9HLx0asqLdMrfmooOvW7N3suJq.jpg",
+        "backdrop": "/pMgAiQYQpVHNrcQBJNgWxAqMt2c.jpg",
         "date": "2026-10-14",
         "year": "2026",
         "rating": null,
@@ -362,6 +362,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/213375?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1504358,
+        "type": "movie",
+        "title": "Don't Say Good Luck",
+        "originalTitle": "Don't Say Good Luck",
+        "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+        "poster": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+        "backdrop": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+        "date": "2026-08-13",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 18,
+        "popularity": 69.0318,
+        "genreIds": [
+          35,
+          10402,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1504358?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 125988,
@@ -384,27 +405,6 @@
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 125,
-        "popularity": 212.4078,
-        "genreIds": [
-          878,
-          9648,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 950028,
         "type": "movie",
         "title": "The Invite",
@@ -415,7 +415,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.4,
-        "votes": 224,
+        "votes": 226,
         "popularity": 120.005,
         "genreIds": [
           35,
@@ -432,11 +432,11 @@
         "originalTitle": "The Last House",
         "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
         "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "backdrop": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 682,
+        "votes": 687,
         "popularity": 330.6493,
         "genreIds": [
           27,
@@ -445,25 +445,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1589248,
-        "type": "movie",
-        "title": "My Best Friend, His Girlfriend and Me",
-        "originalTitle": "Mein bester Freund, seine Freundin und ich",
-        "overview": "Olli and Matze are best friends living, working and planning to travel the world together — until Matze's romance with Rebecca turns it all upside down.",
-        "poster": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-        "backdrop": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
-        "date": "2026-08-14",
-        "year": "2026",
-        "rating": 2.8,
-        "votes": 5,
-        "popularity": 44.8045,
-        "genreIds": [
-          35
-        ],
-        "lang": "de",
-        "iframe": "https://peachify.top/embed/movie/1589248?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -476,7 +457,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6961,
+        "votes": 6962,
         "popularity": 366.2314,
         "genreIds": [
           10765,
@@ -497,7 +478,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2779,
+        "votes": 2784,
         "popularity": 197.8506,
         "genreIds": [
           878,
@@ -505,6 +486,25 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1275779?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1589248,
+        "type": "movie",
+        "title": "My Best Friend, His Girlfriend and Me",
+        "originalTitle": "Mein bester Freund, seine Freundin und ich",
+        "overview": "Olli and Matze are best friends living, working and planning to travel the world together — until Matze's romance with Rebecca turns it all upside down.",
+        "poster": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+        "backdrop": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
+        "date": "2026-08-14",
+        "year": "2026",
+        "rating": 2.8,
+        "votes": 5,
+        "popularity": 44.8045,
+        "genreIds": [
+          35
+        ],
+        "lang": "de",
+        "iframe": "https://peachify.top/embed/movie/1589248?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 30984,
@@ -528,27 +528,6 @@
         "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 138502,
-        "type": "tv",
-        "title": "X-Men '97",
-        "originalTitle": "X-Men '97",
-        "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-        "poster": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-        "backdrop": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-        "date": "2024-03-20",
-        "year": "2024",
-        "rating": 8.7,
-        "votes": 847,
-        "popularity": 95.4466,
-        "genreIds": [
-          16,
-          10759,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/138502?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 95350,
         "type": "tv",
         "title": "Lanterns",
@@ -570,24 +549,45 @@
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1588838,
+        "id": 1081003,
         "type": "movie",
-        "title": "To the Max",
-        "originalTitle": "La fiera",
-        "overview": "A group of friends bonded by their love for extreme sports discovers BASE jumping in wingsuits — but feeling like flying carries the highest risks.",
-        "poster": "/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
-        "backdrop": "/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg",
-        "date": "2026-02-06",
+        "title": "Supergirl",
+        "originalTitle": "Supergirl",
+        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "backdrop": "/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+        "date": "2026-06-24",
         "year": "2026",
-        "rating": 5.2,
-        "votes": 10,
-        "popularity": 24.5892,
+        "rating": 6.7,
+        "votes": 1868,
+        "popularity": 164.8544,
         "genreIds": [
-          18,
+          28,
+          12,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 687163,
+        "type": "movie",
+        "title": "Project Hail Mary",
+        "originalTitle": "Project Hail Mary",
+        "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+        "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "backdrop": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+        "date": "2026-03-15",
+        "year": "2026",
+        "rating": 8.7,
+        "votes": 7076,
+        "popularity": 133.7139,
+        "genreIds": [
+          878,
           12
         ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/movie/1588838?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
