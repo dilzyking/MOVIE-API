@@ -9,7 +9,7 @@
         "originalTitle": "Lanterns",
         "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
         "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+        "backdrop": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.1,
@@ -34,7 +34,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1895,
+        "votes": 1896,
         "popularity": 1872.4338,
         "genreIds": [
           878,
@@ -76,7 +76,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.7,
-        "votes": 979,
+        "votes": 1002,
         "popularity": 388.1231,
         "genreIds": [
           16,
@@ -98,7 +98,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 735,
+        "votes": 738,
         "popularity": 288.8608,
         "genreIds": [
           12,
@@ -121,7 +121,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3085,
+        "votes": 3087,
         "popularity": 611.4489,
         "genreIds": [
           10759,
@@ -141,8 +141,8 @@
         "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
         "date": "2026-08-12",
         "year": "2026",
-        "rating": 6.7,
-        "votes": 227,
+        "rating": 6.6,
+        "votes": 228,
         "popularity": 217.1636,
         "genreIds": [
           878,
@@ -185,8 +185,8 @@
         "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
         "date": "2026-06-17",
         "year": "2026",
-        "rating": 7.7,
-        "votes": 995,
+        "rating": 7.8,
+        "votes": 1015,
         "popularity": 388.1231,
         "genreIds": [
           16,
@@ -204,11 +204,11 @@
         "originalTitle": "Lanterns",
         "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
         "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+        "backdrop": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
         "date": "2026-08-16",
         "year": "2026",
-        "rating": 8.1,
-        "votes": 95,
+        "rating": 8.2,
+        "votes": 97,
         "popularity": 275.8696,
         "genreIds": [
           18,
@@ -229,7 +229,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1895,
+        "votes": 1896,
         "popularity": 1872.4338,
         "genreIds": [
           878,
@@ -292,7 +292,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 6.6,
-        "votes": 228,
+        "votes": 229,
         "popularity": 217.1636,
         "genreIds": [
           878,
@@ -301,6 +301,29 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1315772,
+        "type": "movie",
+        "title": "Minions & Monsters",
+        "originalTitle": "Minions & Monsters",
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "poster": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 7.5,
+        "votes": 739,
+        "popularity": 288.8608,
+        "genreIds": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -313,7 +336,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3086,
+        "votes": 3087,
         "popularity": 611.4489,
         "genreIds": [
           10759,
@@ -334,7 +357,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4819,
+        "votes": 4820,
         "popularity": 238.3554,
         "genreIds": [
           27,
@@ -364,27 +387,45 @@
         "iframe": "https://peachify.top/embed/movie/1291595?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1315772,
-        "type": "movie",
-        "title": "Minions & Monsters",
-        "originalTitle": "Minions & Monsters",
-        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-        "poster": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-        "date": "2026-06-24",
+        "id": 278624,
+        "type": "tv",
+        "title": "Lucky",
+        "originalTitle": "Lucky",
+        "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+        "poster": "/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+        "backdrop": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "date": "2026-07-14",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 737,
-        "popularity": 288.8608,
+        "rating": 7.3,
+        "votes": 149,
+        "popularity": 98.9976,
         "genreIds": [
-          12,
-          16,
-          35,
-          10751,
-          14
+          18,
+          80
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 94997,
+        "type": "tv",
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 6989,
+        "popularity": 288.0769,
+        "genreIds": [
+          10765,
+          18,
+          10759
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 2710,
@@ -416,7 +457,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.4,
-        "votes": 267,
+        "votes": 268,
         "popularity": 100.7257,
         "genreIds": [
           35,
@@ -427,65 +468,24 @@
         "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 278624,
+        "id": 113962,
         "type": "tv",
-        "title": "Lucky",
-        "originalTitle": "Lucky",
-        "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-        "poster": "/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-        "backdrop": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-        "date": "2026-07-14",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 148,
-        "popularity": 98.9976,
-        "genreIds": [
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 94997,
-        "type": "tv",
-        "title": "House of the Dragon",
-        "originalTitle": "House of the Dragon",
-        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "date": "2022-08-21",
-        "year": "2022",
-        "rating": 8.4,
-        "votes": 6988,
-        "popularity": 288.0769,
-        "genreIds": [
-          10765,
-          18,
-          10759
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "date": "2023-07-23",
         "year": "2023",
-        "rating": 8.2,
-        "votes": 2450,
-        "popularity": 237.0394,
+        "rating": 8.1,
+        "votes": 1372,
+        "popularity": 366.6888,
         "genreIds": [
-          10765,
-          18
+          18,
+          10768
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1275779,
@@ -498,7 +498,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.5,
-        "votes": 2875,
+        "votes": 2877,
         "popularity": 175.2468,
         "genreIds": [
           878,
@@ -506,27 +506,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1275779?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1083381,
-        "type": "movie",
-        "title": "Backrooms",
-        "originalTitle": "Backrooms",
-        "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-        "date": "2026-05-27",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 2835,
-        "popularity": 131.2784,
-        "genreIds": [
-          27,
-          9648,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 37854,
@@ -550,25 +529,24 @@
         "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 615,
+        "id": 125988,
         "type": "tv",
-        "title": "Futurama",
-        "originalTitle": "Futurama",
-        "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-        "poster": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-        "backdrop": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-        "date": "1999-03-28",
-        "year": "1999",
-        "rating": 8.4,
-        "votes": 3855,
-        "popularity": 112.7418,
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2452,
+        "popularity": 237.0394,
         "genreIds": [
-          16,
-          35,
-          10765
+          10765,
+          18
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 97546,
@@ -589,6 +567,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1083381,
+        "type": "movie",
+        "title": "Backrooms",
+        "originalTitle": "Backrooms",
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "date": "2026-05-27",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 2835,
+        "popularity": 131.2784,
+        "genreIds": [
+          27,
+          9648,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -1398,8 +1397,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1870,
-        "popularity": 1911.7361,
+        "votes": 1895,
+        "popularity": 1872.4338,
         "genreIds": [
           878,
           28,
@@ -1418,12 +1417,32 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2878,
-        "popularity": 850.2382,
+        "votes": 2908,
+        "popularity": 778.47,
         "genreIds": [
           12,
           28,
           14
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1323244,
+        "type": "movie",
+        "title": "Rage of Stars",
+        "originalTitle": "Rage of Stars",
+        "overview": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
+        "poster": "/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+        "backdrop": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 5.4,
+        "votes": 5,
+        "popularity": 339.1926,
+        "genreIds": [
+          28,
+          878,
+          53
         ],
         "lang": "en"
       },
@@ -1438,94 +1457,14 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 719,
-        "popularity": 319.7902,
+        "votes": 737,
+        "popularity": 288.8608,
         "genreIds": [
           12,
           16,
           35,
           10751,
           14
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 830,
-        "popularity": 259.0706,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1323244,
-        "type": "movie",
-        "title": "Rage of Stars",
-        "originalTitle": "Rage of Stars",
-        "overview": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
-        "poster": "/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
-        "backdrop": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 2.3,
-        "votes": 3,
-        "popularity": 321.2596,
-        "genreIds": [
-          28,
-          878,
-          53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1084244,
-        "type": "movie",
-        "title": "Toy Story 5",
-        "originalTitle": "Toy Story 5",
-        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-        "date": "2026-06-17",
-        "year": "2026",
-        "rating": 7.5,
-        "votes": 857,
-        "popularity": 266.4324,
-        "genreIds": [
-          16,
-          10751,
-          35,
-          12
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4801,
-        "popularity": 248.7667,
-        "genreIds": [
-          27,
-          53
         ],
         "lang": "en"
       },
@@ -1540,14 +1479,74 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 529,
-        "popularity": 319.5228,
+        "votes": 533,
+        "popularity": 300.1541,
         "genreIds": [
           28,
           27,
           878
         ],
         "lang": "ko"
+      },
+      {
+        "id": 1084244,
+        "type": "movie",
+        "title": "Toy Story 5",
+        "originalTitle": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 7.7,
+        "votes": 996,
+        "popularity": 388.1231,
+        "genreIds": [
+          16,
+          10751,
+          35,
+          12
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1284041,
+        "type": "movie",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 858,
+        "popularity": 243.5797,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4819,
+        "popularity": 238.3554,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en"
       },
       {
         "id": 1284465,
@@ -1560,8 +1559,8 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.3,
-        "votes": 225,
-        "popularity": 231.8508,
+        "votes": 227,
+        "popularity": 212.8565,
         "genreIds": [
           12,
           18,
@@ -1579,34 +1578,13 @@
         "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
         "date": "2026-08-12",
         "year": "2026",
-        "rating": 6.7,
-        "votes": 206,
-        "popularity": 230.9838,
+        "rating": 6.6,
+        "votes": 228,
+        "popularity": 217.1636,
         "genreIds": [
           878,
           9648,
           53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1108427,
-        "type": "movie",
-        "title": "Moana",
-        "originalTitle": "Moana",
-        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-        "poster": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-        "date": "2026-07-08",
-        "year": "2026",
-        "rating": 6,
-        "votes": 198,
-        "popularity": 191.637,
-        "genreIds": [
-          10751,
-          14,
-          35,
-          12
         ],
         "lang": "en"
       },
@@ -1621,10 +1599,31 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1156,
-        "popularity": 197.2357,
+        "votes": 1169,
+        "popularity": 169.309,
         "genreIds": [
           27
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1108427,
+        "type": "movie",
+        "title": "Moana",
+        "originalTitle": "Moana",
+        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "poster": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "date": "2026-07-08",
+        "year": "2026",
+        "rating": 6,
+        "votes": 199,
+        "popularity": 178.6083,
+        "genreIds": [
+          10751,
+          14,
+          35,
+          12
         ],
         "lang": "en"
       },
@@ -1639,8 +1638,8 @@
         "date": "2026-07-31",
         "year": "2026",
         "rating": 7.2,
-        "votes": 189,
-        "popularity": 140.1761,
+        "votes": 198,
+        "popularity": 132.0729,
         "genreIds": [
           27,
           878,
@@ -1659,8 +1658,8 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2830,
-        "popularity": 138.8061,
+        "votes": 2835,
+        "popularity": 131.2784,
         "genreIds": [
           27,
           9648,
@@ -1679,31 +1678,11 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 6.6,
-        "votes": 640,
-        "popularity": 121.8589,
+        "votes": 646,
+        "popularity": 111.0638,
         "genreIds": [
           27,
           53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 950028,
-        "type": "movie",
-        "title": "The Invite",
-        "originalTitle": "The Invite",
-        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "backdrop": "/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
-        "date": "2026-06-25",
-        "year": "2026",
-        "rating": 7.4,
-        "votes": 260,
-        "popularity": 114.565,
-        "genreIds": [
-          35,
-          18,
-          10749
         ],
         "lang": "en"
       },
@@ -1718,8 +1697,8 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.2,
-        "votes": 887,
-        "popularity": 119.6582,
+        "votes": 896,
+        "popularity": 110.9348,
         "genreIds": [
           16,
           28,
@@ -1729,21 +1708,42 @@
         "lang": "en"
       },
       {
-        "id": 1594914,
+        "id": 950028,
         "type": "movie",
-        "title": "Lucky Strike",
-        "originalTitle": "Lucky Strike",
-        "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
-        "poster": "/7AEBdyGYXumXWmMFeynE8227KeZ.jpg",
-        "backdrop": "/1ebY06Gc1eUZcCoO7IoD4tWCFxm.jpg",
-        "date": "2026-06-26",
+        "title": "The Invite",
+        "originalTitle": "The Invite",
+        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "date": "2026-06-25",
         "year": "2026",
-        "rating": 7.3,
-        "votes": 30,
-        "popularity": 103.914,
+        "rating": 7.4,
+        "votes": 267,
+        "popularity": 100.7257,
+        "genreIds": [
+          35,
+          18,
+          10749
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1612018,
+        "type": "movie",
+        "title": "Jackass: Best and Last",
+        "originalTitle": "Jackass: Best and Last",
+        "overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
+        "poster": "/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+        "backdrop": "/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+        "date": "2026-06-25",
+        "year": "2026",
+        "rating": 7.5,
+        "votes": 159,
+        "popularity": 106.6404,
         "genreIds": [
           28,
-          10752
+          35,
+          99
         ],
         "lang": "en"
       },
@@ -1759,29 +1759,28 @@
         "year": "2026",
         "rating": 7.1,
         "votes": 121,
-        "popularity": 107.9143,
+        "popularity": 103.2321,
         "genreIds": [
           10749
         ],
         "lang": "ru"
       },
       {
-        "id": 1612018,
+        "id": 1594914,
         "type": "movie",
-        "title": "Jackass: Best and Last",
-        "originalTitle": "Jackass: Best and Last",
-        "overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
-        "poster": "/tfgccePxnswMqhmtxafliLlcCVR.jpg",
-        "backdrop": "/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
-        "date": "2026-06-25",
+        "title": "Lucky Strike",
+        "originalTitle": "Lucky Strike",
+        "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
+        "poster": "/7AEBdyGYXumXWmMFeynE8227KeZ.jpg",
+        "backdrop": "/1ebY06Gc1eUZcCoO7IoD4tWCFxm.jpg",
+        "date": "2026-06-26",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 157,
-        "popularity": 112.7685,
+        "rating": 7.3,
+        "votes": 30,
+        "popularity": 108.8539,
         "genreIds": [
           28,
-          35,
-          99
+          10752
         ],
         "lang": "en"
       }
