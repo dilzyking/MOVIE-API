@@ -3,26 +3,6 @@
   "data": {
     "spotlight": [
       {
-        "id": 1288445,
-        "type": "movie",
-        "title": "Mutiny",
-        "originalTitle": "Mutiny",
-        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-        "poster": "/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
-        "backdrop": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
-        "date": "2026-08-19",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 45,
-        "popularity": 229.9234,
-        "genreIds": [
-          28,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 95350,
         "type": "tv",
         "title": "Lanterns",
@@ -44,25 +24,26 @@
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 969681,
+        "id": 1084244,
         "type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "originalTitle": "Spider-Man: Brand New Day",
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-        "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
-        "date": "2026-07-29",
+        "title": "Toy Story 5",
+        "originalTitle": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "date": "2026-06-17",
         "year": "2026",
-        "rating": 7.9,
-        "votes": 1987,
-        "popularity": 1819.537,
+        "rating": 8,
+        "votes": 1259,
+        "popularity": 373.2636,
         "genreIds": [
-          878,
-          28,
+          16,
+          10751,
+          35,
           12
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -75,7 +56,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3005,
+        "votes": 3007,
         "popularity": 684.2902,
         "genreIds": [
           12,
@@ -86,66 +67,45 @@
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1084244,
+        "id": 1288445,
         "type": "movie",
-        "title": "Toy Story 5",
-        "originalTitle": "Toy Story 5",
-        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-        "date": "2026-06-17",
+        "title": "Mutiny",
+        "originalTitle": "Mutiny",
+        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+        "poster": "/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
+        "backdrop": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
+        "date": "2026-08-19",
         "year": "2026",
-        "rating": 8,
-        "votes": 1257,
-        "popularity": 373.2636,
+        "rating": 7,
+        "votes": 46,
+        "popularity": 229.9234,
         "genreIds": [
-          16,
-          10751,
-          35,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2464,
-        "popularity": 232.4461,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4878,
-        "popularity": 235.136,
-        "genreIds": [
-          27,
+          28,
           53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 969681,
+        "type": "movie",
+        "title": "Spider-Man: Brand New Day",
+        "originalTitle": "Spider-Man: Brand New Day",
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+        "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 1990,
+        "popularity": 1819.537,
+        "genreIds": [
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -166,6 +126,49 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2465,
+        "popularity": 232.4461,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1315772,
+        "type": "movie",
+        "title": "Minions & Monsters",
+        "originalTitle": "Minions & Monsters",
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "poster": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 7.5,
+        "votes": 773,
+        "popularity": 251.4252,
+        "genreIds": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -591,8 +594,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1981,
-        "popularity": 1875.3748,
+        "votes": 1986,
+        "popularity": 1819.537,
         "genreIds": [
           878,
           28,
@@ -611,8 +614,8 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2996,
-        "popularity": 728.3957,
+        "votes": 3005,
+        "popularity": 684.2902,
         "genreIds": [
           12,
           28,
@@ -631,8 +634,8 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8,
-        "votes": 1210,
-        "popularity": 404.7642,
+        "votes": 1252,
+        "popularity": 373.2636,
         "genreIds": [
           16,
           10751,
@@ -652,8 +655,8 @@
         "date": "2021-12-15",
         "year": "2021",
         "rating": 7.9,
-        "votes": 22767,
-        "popularity": 386.8832,
+        "votes": 22771,
+        "popularity": 335.8263,
         "genreIds": [
           28,
           12,
@@ -673,7 +676,7 @@
         "year": "2026",
         "rating": 5,
         "votes": 7,
-        "popularity": 370.7603,
+        "popularity": 375.8889,
         "genreIds": [
           28,
           878,
@@ -692,8 +695,8 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 555,
-        "popularity": 292.2132,
+        "votes": 559,
+        "popularity": 282.3326,
         "genreIds": [
           28,
           27,
@@ -712,8 +715,8 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 769,
-        "popularity": 264.2694,
+        "votes": 773,
+        "popularity": 251.4252,
         "genreIds": [
           12,
           16,
@@ -734,10 +737,29 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4870,
-        "popularity": 232.9651,
+        "votes": 4878,
+        "popularity": 235.136,
         "genreIds": [
           27,
+          53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1288445,
+        "type": "movie",
+        "title": "Mutiny",
+        "originalTitle": "Mutiny",
+        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+        "poster": "/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+        "backdrop": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
+        "date": "2026-08-19",
+        "year": "2026",
+        "rating": 7,
+        "votes": 44,
+        "popularity": 229.9234,
+        "genreIds": [
+          28,
           53
         ],
         "lang": "en"
@@ -753,8 +775,8 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 909,
-        "popularity": 218.8879,
+        "votes": 914,
+        "popularity": 196.9512,
         "genreIds": [
           27,
           878,
@@ -774,7 +796,7 @@
         "year": "2026",
         "rating": 6.3,
         "votes": 233,
-        "popularity": 204.5826,
+        "popularity": 190.2787,
         "genreIds": [
           12,
           18,
@@ -793,8 +815,8 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 6.5,
-        "votes": 272,
-        "popularity": 202.1509,
+        "votes": 275,
+        "popularity": 183.4236,
         "genreIds": [
           878,
           9648,
@@ -812,9 +834,9 @@
         "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
         "date": "2026-07-08",
         "year": "2026",
-        "rating": 6,
-        "votes": 209,
-        "popularity": 194.8449,
+        "rating": 6.1,
+        "votes": 210,
+        "popularity": 209.9615,
         "genreIds": [
           10751,
           14,
@@ -834,8 +856,8 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.5,
-        "votes": 2913,
-        "popularity": 167.6166,
+        "votes": 2921,
+        "popularity": 160.9101,
         "genreIds": [
           878,
           53
@@ -854,7 +876,7 @@
         "year": "2026",
         "rating": 7.9,
         "votes": 1189,
-        "popularity": 153.2715,
+        "popularity": 149.3819,
         "genreIds": [
           27
         ],
@@ -872,32 +894,12 @@
         "year": "2011",
         "rating": 6.2,
         "votes": 155,
-        "popularity": 138.4892,
+        "popularity": 141.7296,
         "genreIds": [
           18,
           10749
         ],
         "lang": "de"
-      },
-      {
-        "id": 1081003,
-        "type": "movie",
-        "title": "Supergirl",
-        "originalTitle": "Supergirl",
-        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "backdrop": "/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 1961,
-        "popularity": 131.9168,
-        "genreIds": [
-          28,
-          12,
-          878
-        ],
-        "lang": "en"
       },
       {
         "id": 1083381,
@@ -910,8 +912,8 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2862,
-        "popularity": 131.004,
+        "votes": 2866,
+        "popularity": 129.2423,
         "genreIds": [
           27,
           9648,
@@ -931,11 +933,31 @@
         "year": "2026",
         "rating": null,
         "votes": 0,
-        "popularity": 129.3192,
+        "popularity": 121.9952,
         "genreIds": [
           878,
           28,
           12
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1081003,
+        "type": "movie",
+        "title": "Supergirl",
+        "originalTitle": "Supergirl",
+        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "backdrop": "/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 1966,
+        "popularity": 125.9382,
+        "genreIds": [
+          28,
+          12,
+          878
         ],
         "lang": "en"
       },
@@ -950,29 +972,11 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.7,
-        "votes": 7203,
-        "popularity": 125.0677,
+        "votes": 7207,
+        "popularity": 121.372,
         "genreIds": [
           878,
           12
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1273221,
-        "type": "movie",
-        "title": "Scary Movie",
-        "originalTitle": "Scary Movie",
-        "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
-        "poster": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
-        "backdrop": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-        "date": "2026-06-03",
-        "year": "2026",
-        "rating": 6.4,
-        "votes": 1676,
-        "popularity": 121.2712,
-        "genreIds": [
-          35
         ],
         "lang": "en"
       }
@@ -1784,8 +1788,8 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2996,
-        "popularity": 728.3957,
+        "votes": 3005,
+        "popularity": 684.2902,
         "genreIds": [
           12,
           28,
@@ -1804,8 +1808,8 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 555,
-        "popularity": 292.2132,
+        "votes": 558,
+        "popularity": 282.3326,
         "genreIds": [
           28,
           27,
@@ -1824,10 +1828,29 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4869,
-        "popularity": 232.9651,
+        "votes": 4878,
+        "popularity": 235.136,
         "genreIds": [
           27,
+          53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1288445,
+        "type": "movie",
+        "title": "Mutiny",
+        "originalTitle": "Mutiny",
+        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+        "poster": "/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+        "backdrop": "/xYro90dW4z7es4JG1vo1bmZ0lUN.jpg",
+        "date": "2026-08-19",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 45,
+        "popularity": 229.9234,
+        "genreIds": [
+          28,
           53
         ],
         "lang": "en"
@@ -1844,7 +1867,7 @@
         "year": "2026",
         "rating": 6.3,
         "votes": 233,
-        "popularity": 204.5826,
+        "popularity": 190.2787,
         "genreIds": [
           12,
           18,
@@ -1863,8 +1886,8 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 6.5,
-        "votes": 272,
-        "popularity": 202.1509,
+        "votes": 275,
+        "popularity": 183.4236,
         "genreIds": [
           878,
           9648,
@@ -1883,8 +1906,8 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2862,
-        "popularity": 131.004,
+        "votes": 2866,
+        "popularity": 129.2423,
         "genreIds": [
           27,
           9648,
@@ -1904,7 +1927,7 @@
         "year": "2026",
         "rating": 7.3,
         "votes": 31,
-        "popularity": 103.2092,
+        "popularity": 97.5143,
         "genreIds": [
           28,
           10752
@@ -1922,8 +1945,8 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.4,
-        "votes": 282,
-        "popularity": 91.2691,
+        "votes": 283,
+        "popularity": 80.8835,
         "genreIds": [
           35,
           18,
@@ -1943,7 +1966,7 @@
         "year": "1994",
         "rating": 8.7,
         "votes": 31092,
-        "popularity": 87.6812,
+        "popularity": 91.02,
         "genreIds": [
           18,
           80
@@ -1962,29 +1985,10 @@
         "year": "2026",
         "rating": 6.7,
         "votes": 394,
-        "popularity": 87.491,
+        "popularity": 86.6611,
         "genreIds": [
           27,
           10749
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1288445,
-        "type": "movie",
-        "title": "Mutiny",
-        "originalTitle": "Mutiny",
-        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-        "poster": "/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
-        "backdrop": "/xYro90dW4z7es4JG1vo1bmZ0lUN.jpg",
-        "date": "2026-08-19",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 38,
-        "popularity": 84.6787,
-        "genreIds": [
-          28,
-          53
         ],
         "lang": "en"
       },
@@ -1999,8 +2003,8 @@
         "date": "2026-04-22",
         "year": "2026",
         "rating": 8.7,
-        "votes": 4091,
-        "popularity": 78.3949,
+        "votes": 4094,
+        "popularity": 76.575,
         "genreIds": [
           10402,
           18
@@ -2018,8 +2022,8 @@
         "date": "2026-04-30",
         "year": "2026",
         "rating": 7.1,
-        "votes": 406,
-        "popularity": 68.7426,
+        "votes": 407,
+        "popularity": 67.4001,
         "genreIds": [
           27,
           53
@@ -2037,8 +2041,8 @@
         "date": "2026-01-28",
         "year": "2026",
         "rating": 7.8,
-        "votes": 1723,
-        "popularity": 55.3851,
+        "votes": 1725,
+        "popularity": 59.2755,
         "genreIds": [
           28,
           80,
@@ -2056,9 +2060,9 @@
         "backdrop": "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
         "date": "2026-08-19",
         "year": "2026",
-        "rating": 6.3,
-        "votes": 10,
-        "popularity": 46.5651,
+        "rating": 6.5,
+        "votes": 14,
+        "popularity": 59.0625,
         "genreIds": [
           27,
           53
@@ -2076,8 +2080,8 @@
         "date": "2001-11-16",
         "year": "2001",
         "rating": 7.9,
-        "votes": 30046,
-        "popularity": 44.1782,
+        "votes": 30048,
+        "popularity": 42.8907,
         "genreIds": [
           12,
           14
@@ -2095,8 +2099,8 @@
         "date": "2026-06-19",
         "year": "2026",
         "rating": 6.4,
-        "votes": 332,
-        "popularity": 42.7451,
+        "votes": 336,
+        "popularity": 43.435,
         "genreIds": [
           53,
           28,
@@ -2115,8 +2119,8 @@
         "date": "2026-04-01",
         "year": "2026",
         "rating": 6.9,
-        "votes": 1603,
-        "popularity": 36.8144,
+        "votes": 1604,
+        "popularity": 34.2169,
         "genreIds": [
           10749,
           35,
@@ -2135,8 +2139,8 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 7.6,
-        "votes": 739,
-        "popularity": 36.4656,
+        "votes": 740,
+        "popularity": 35.9147,
         "genreIds": [
           28,
           53
@@ -2155,7 +2159,7 @@
         "year": "2026",
         "rating": 7.7,
         "votes": 87,
-        "popularity": 36.1376,
+        "popularity": 31.769,
         "genreIds": [
           36,
           10752,
