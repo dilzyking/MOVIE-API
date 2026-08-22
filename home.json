@@ -597,7 +597,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2022,
+        "votes": 2030,
         "popularity": 1763.3254,
         "genreIds": [
           878,
@@ -617,7 +617,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3042,
+        "votes": 3049,
         "popularity": 661.9219,
         "genreIds": [
           12,
@@ -636,8 +636,8 @@
         "backdrop": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
         "date": "2026-08-06",
         "year": "2026",
-        "rating": 5.3,
-        "votes": 14,
+        "rating": 5.1,
+        "votes": 15,
         "popularity": 366.1535,
         "genreIds": [
           28,
@@ -657,7 +657,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.1,
-        "votes": 1335,
+        "votes": 1344,
         "popularity": 371.1166,
         "genreIds": [
           16,
@@ -678,7 +678,7 @@
         "date": "2021-12-15",
         "year": "2021",
         "rating": 7.9,
-        "votes": 22787,
+        "votes": 22786,
         "popularity": 295.5838,
         "genreIds": [
           28,
@@ -718,7 +718,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 781,
+        "votes": 784,
         "popularity": 209.8525,
         "genreIds": [
           12,
@@ -740,7 +740,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4905,
+        "votes": 4907,
         "popularity": 236.7035,
         "genreIds": [
           27,
@@ -758,8 +758,8 @@
         "backdrop": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
         "date": "2026-08-19",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 71,
+        "rating": 6.6,
+        "votes": 80,
         "popularity": 356.4024,
         "genreIds": [
           28,
@@ -799,7 +799,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 952,
+        "votes": 953,
         "popularity": 180.446,
         "genreIds": [
           27,
@@ -839,7 +839,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 6.4,
-        "votes": 298,
+        "votes": 299,
         "popularity": 170.315,
         "genreIds": [
           878,
@@ -859,7 +859,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.5,
-        "votes": 2935,
+        "votes": 2936,
         "popularity": 155.5979,
         "genreIds": [
           878,
@@ -878,7 +878,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1214,
+        "votes": 1216,
         "popularity": 142.7107,
         "genreIds": [
           27
@@ -915,31 +915,11 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2883,
+        "votes": 2887,
         "popularity": 136.1145,
         "genreIds": [
           27,
           9648,
-          878
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1081003,
-        "type": "movie",
-        "title": "Supergirl",
-        "originalTitle": "Supergirl",
-        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "backdrop": "/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 1984,
-        "popularity": 121.9704,
-        "genreIds": [
-          28,
-          12,
           878
         ],
         "lang": "en"
@@ -955,11 +935,31 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.6,
-        "votes": 7232,
+        "votes": 7237,
         "popularity": 124.3476,
         "genreIds": [
           878,
           12
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1081003,
+        "type": "movie",
+        "title": "Supergirl",
+        "originalTitle": "Supergirl",
+        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "backdrop": "/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 6.7,
+        "votes": 1990,
+        "popularity": 121.9704,
+        "genreIds": [
+          28,
+          12,
+          878
         ],
         "lang": "en"
       },
