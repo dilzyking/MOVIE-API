@@ -34,7 +34,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.1,
-        "votes": 1412,
+        "votes": 1423,
         "popularity": 373.5784,
         "genreIds": [
           16,
@@ -76,7 +76,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2062,
+        "votes": 2063,
         "popularity": 1453.6083,
         "genreIds": [
           878,
@@ -128,6 +128,26 @@
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4943,
+        "popularity": 253.0483,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 125988,
         "type": "tv",
         "title": "Silo",
@@ -146,26 +166,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4939,
-        "popularity": 253.0483,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -179,8 +179,8 @@
         "backdrop": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
         "date": "2026-08-19",
         "year": "2026",
-        "rating": 6.7,
-        "votes": 101,
+        "rating": 6.8,
+        "votes": 102,
         "popularity": 444.6252,
         "genreIds": [
           28,
@@ -188,28 +188,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1084244,
-        "type": "movie",
-        "title": "Toy Story 5",
-        "originalTitle": "Toy Story 5",
-        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-        "date": "2026-06-17",
-        "year": "2026",
-        "rating": 8.1,
-        "votes": 1412,
-        "popularity": 373.5784,
-        "genreIds": [
-          16,
-          10751,
-          35,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1621552,
@@ -233,6 +211,28 @@
         "iframe": "https://peachify.top/embed/movie/1621552?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1084244,
+        "type": "movie",
+        "title": "Toy Story 5",
+        "originalTitle": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 8.1,
+        "votes": 1423,
+        "popularity": 373.5784,
+        "genreIds": [
+          16,
+          10751,
+          35,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 969681,
         "type": "movie",
         "title": "Spider-Man: Brand New Day",
@@ -243,7 +243,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2061,
+        "votes": 2063,
         "popularity": 1453.6083,
         "genreIds": [
           878,
@@ -264,7 +264,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3077,
+        "votes": 3078,
         "popularity": 655.2789,
         "genreIds": [
           12,
@@ -285,7 +285,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.2,
-        "votes": 139,
+        "votes": 140,
         "popularity": 276.1732,
         "genreIds": [
           18,
@@ -294,26 +294,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2479,
-        "popularity": 328.9215,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1291595,
@@ -336,6 +316,27 @@
         "iframe": "https://peachify.top/embed/movie/1291595?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 30984,
+        "type": "tv",
+        "title": "Bleach",
+        "originalTitle": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "date": "2004-10-05",
+        "year": "2004",
+        "rating": 8.4,
+        "votes": 2229,
+        "popularity": 113.2234,
+        "genreIds": [
+          10759,
+          16,
+          10765
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1339713,
         "type": "movie",
         "title": "Obsession",
@@ -346,7 +347,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4937,
+        "votes": 4943,
         "popularity": 253.0483,
         "genreIds": [
           27,
@@ -354,6 +355,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2479,
+        "popularity": 328.9215,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -396,27 +417,6 @@
         "iframe": "https://peachify.top/embed/tv/100757?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 30984,
-        "type": "tv",
-        "title": "Bleach",
-        "originalTitle": "BLEACH",
-        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-        "date": "2004-10-05",
-        "year": "2004",
-        "rating": 8.4,
-        "votes": 2227,
-        "popularity": 113.2234,
-        "genreIds": [
-          10759,
-          16,
-          10765
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1315772,
         "type": "movie",
         "title": "Minions & Monsters",
@@ -427,7 +427,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 801,
+        "votes": 803,
         "popularity": 230.1696,
         "genreIds": [
           12,
@@ -522,26 +522,6 @@
         "iframe": "https://peachify.top/embed/tv/303351?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1676318,
-        "type": "movie",
-        "title": "Back to the 90s",
-        "originalTitle": "Back to the 90s",
-        "overview": "When a mysterious glitch sends a rising boyband back to 1995 - just days before the biggest showcase of their lives - the five friends race to reverse the time slip. But as unexpected connections form and the past pulls them in deeper, getting home means confronting what they're willing to leave behind - and who they truly are to each other.",
-        "poster": "/kYlupcri0UZ2MjZ5m8QeVWP00rh.jpg",
-        "backdrop": "/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg",
-        "date": "2026-08-18",
-        "year": "2026",
-        "rating": 6,
-        "votes": 2,
-        "popularity": 33.6998,
-        "genreIds": [
-          35,
-          10402
-        ],
-        "lang": "de",
-        "iframe": "https://peachify.top/embed/movie/1676318?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1101383,
         "type": "movie",
         "title": "The End of Oak Street",
@@ -563,6 +543,26 @@
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1676318,
+        "type": "movie",
+        "title": "Back to the 90s",
+        "originalTitle": "Back to the 90s",
+        "overview": "When a mysterious glitch sends a rising boyband back to 1995 - just days before the biggest showcase of their lives - the five friends race to reverse the time slip. But as unexpected connections form and the past pulls them in deeper, getting home means confronting what they're willing to leave behind - and who they truly are to each other.",
+        "poster": "/kYlupcri0UZ2MjZ5m8QeVWP00rh.jpg",
+        "backdrop": "/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg",
+        "date": "2026-08-18",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 3,
+        "popularity": 33.6998,
+        "genreIds": [
+          35,
+          10402
+        ],
+        "lang": "de",
+        "iframe": "https://peachify.top/embed/movie/1676318?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 950028,
         "type": "movie",
         "title": "The Invite",
@@ -573,7 +573,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.4,
-        "votes": 305,
+        "votes": 306,
         "popularity": 72.1692,
         "genreIds": [
           35,
