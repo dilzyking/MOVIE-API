@@ -24,6 +24,26 @@
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4957,
+        "popularity": 253.0483,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1288445,
         "type": "movie",
         "title": "Mutiny",
@@ -34,7 +54,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 6.7,
-        "votes": 108,
+        "votes": 110,
         "popularity": 444.6252,
         "genreIds": [
           28,
@@ -54,7 +74,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.1,
-        "votes": 1441,
+        "votes": 1443,
         "popularity": 373.5784,
         "genreIds": [
           16,
@@ -76,7 +96,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2078,
+        "votes": 2079,
         "popularity": 1453.6083,
         "genreIds": [
           878,
@@ -97,7 +117,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3090,
+        "votes": 3096,
         "popularity": 655.2789,
         "genreIds": [
           12,
@@ -108,24 +128,25 @@
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 125988,
+        "id": 94997,
         "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2482,
-        "popularity": 328.9215,
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 7020,
+        "popularity": 239.5803,
         "genreIds": [
           10765,
-          18
+          18,
+          10759
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -146,26 +167,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4956,
-        "popularity": 253.0483,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -2182,7 +2183,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3112,
+        "votes": 3115,
         "popularity": 639.0961,
         "genreIds": [
           10759,
@@ -2201,7 +2202,7 @@
         "date": "2008-09-23",
         "year": "2008",
         "rating": 8.4,
-        "votes": 4596,
+        "votes": 4597,
         "popularity": 385.8036,
         "genreIds": [
           80,
@@ -2239,7 +2240,7 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8.1,
-        "votes": 1390,
+        "votes": 1391,
         "popularity": 324.8951,
         "genreIds": [
           18,
@@ -2258,7 +2259,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.2,
-        "votes": 140,
+        "votes": 141,
         "popularity": 276.1732,
         "genreIds": [
           18,
@@ -2278,7 +2279,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2479,
+        "votes": 2482,
         "popularity": 328.9215,
         "genreIds": [
           10765,
@@ -2344,24 +2345,6 @@
         "lang": "en"
       },
       {
-        "id": 1416,
-        "type": "tv",
-        "title": "Grey's Anatomy",
-        "originalTitle": "Grey's Anatomy",
-        "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-        "poster": "/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
-        "backdrop": "/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
-        "date": "2005-03-27",
-        "year": "2005",
-        "rating": 8.2,
-        "votes": 11019,
-        "popularity": 238.3035,
-        "genreIds": [
-          18
-        ],
-        "lang": "en"
-      },
-      {
         "id": 94997,
         "type": "tv",
         "title": "House of the Dragon",
@@ -2372,7 +2355,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 7019,
+        "votes": 7020,
         "popularity": 239.5803,
         "genreIds": [
           10765,
@@ -2435,6 +2418,24 @@
           80,
           18,
           35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1416,
+        "type": "tv",
+        "title": "Grey's Anatomy",
+        "originalTitle": "Grey's Anatomy",
+        "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+        "poster": "/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+        "backdrop": "/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+        "date": "2005-03-27",
+        "year": "2005",
+        "rating": 8.2,
+        "votes": 11020,
+        "popularity": 238.3035,
+        "genreIds": [
+          18
         ],
         "lang": "en"
       },
