@@ -33,7 +33,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.2,
-        "votes": 168,
+        "votes": 169,
         "popularity": 320.4384,
         "genreIds": [
           18,
@@ -42,27 +42,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 969681,
-        "type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "originalTitle": "Spider-Man: Brand New Day",
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 2137,
-        "popularity": 1380.7869,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1084244,
@@ -75,7 +54,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.2,
-        "votes": 1597,
+        "votes": 1598,
         "popularity": 328.4932,
         "genreIds": [
           16,
@@ -85,6 +64,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 969681,
+        "type": "movie",
+        "title": "Spider-Man: Brand New Day",
+        "originalTitle": "Spider-Man: Brand New Day",
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 2138,
+        "popularity": 1380.7869,
+        "genreIds": [
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -97,7 +97,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3178,
+        "votes": 3179,
         "popularity": 614.2746,
         "genreIds": [
           12,
@@ -106,6 +106,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 87513,
+        "type": "movie",
+        "title": "Motor City",
+        "originalTitle": "Motor City",
+        "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+        "poster": "/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
+        "backdrop": "/cYEu96qXUFilbHPw7yP3qi0SQle.jpg",
+        "date": "2026-07-23",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 21,
+        "popularity": 12.4431,
+        "genreIds": [
+          28,
+          53,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/87513?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1291595,
@@ -128,27 +149,6 @@
         "iframe": "https://peachify.top/embed/movie/1291595?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 87513,
-        "type": "movie",
-        "title": "Motor City",
-        "originalTitle": "Motor City",
-        "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
-        "poster": "/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
-        "backdrop": "/cYEu96qXUFilbHPw7yP3qi0SQle.jpg",
-        "date": "2026-07-23",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 20,
-        "popularity": 12.4431,
-        "genreIds": [
-          28,
-          53,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/87513?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1339713,
         "type": "movie",
         "title": "Obsession",
@@ -159,7 +159,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5030,
+        "votes": 5031,
         "popularity": 278.924,
         "genreIds": [
           27,
@@ -1391,7 +1391,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2133,
+        "votes": 2138,
         "popularity": 1380.7869,
         "genreIds": [
           878,
@@ -1411,7 +1411,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3168,
+        "votes": 3179,
         "popularity": 614.2746,
         "genreIds": [
           12,
@@ -1431,7 +1431,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 6.6,
-        "votes": 159,
+        "votes": 164,
         "popularity": 502.0551,
         "genreIds": [
           28,
@@ -1449,8 +1449,8 @@
         "backdrop": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
         "date": "2026-08-06",
         "year": "2026",
-        "rating": 5.4,
-        "votes": 40,
+        "rating": 5.5,
+        "votes": 41,
         "popularity": 334.5477,
         "genreIds": [
           28,
@@ -1470,7 +1470,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.2,
-        "votes": 1592,
+        "votes": 1598,
         "popularity": 328.4932,
         "genreIds": [
           16,
@@ -1491,7 +1491,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5027,
+        "votes": 5030,
         "popularity": 278.924,
         "genreIds": [
           27,
@@ -1510,7 +1510,7 @@
         "date": "2026-08-21",
         "year": "2026",
         "rating": 8,
-        "votes": 82,
+        "votes": 96,
         "popularity": 259.4866,
         "genreIds": [
           80,
@@ -1530,7 +1530,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 6.1,
-        "votes": 225,
+        "votes": 227,
         "popularity": 233.6042,
         "genreIds": [
           10751,
@@ -1539,26 +1539,6 @@
           12
         ],
         "lang": "en"
-      },
-      {
-        "id": 1375646,
-        "type": "movie",
-        "title": "Colony",
-        "originalTitle": "군체",
-        "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-        "poster": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-        "backdrop": "/84FEpVVbSKYvKXDZJDZXOKBxCEm.jpg",
-        "date": "2026-05-21",
-        "year": "2026",
-        "rating": 8.1,
-        "votes": 600,
-        "popularity": 181.3185,
-        "genreIds": [
-          28,
-          27,
-          878
-        ],
-        "lang": "ko"
       },
       {
         "id": 1315772,
@@ -1583,6 +1563,26 @@
         "lang": "en"
       },
       {
+        "id": 1375646,
+        "type": "movie",
+        "title": "Colony",
+        "originalTitle": "군체",
+        "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+        "poster": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+        "backdrop": "/84FEpVVbSKYvKXDZJDZXOKBxCEm.jpg",
+        "date": "2026-05-21",
+        "year": "2026",
+        "rating": 8.1,
+        "votes": 601,
+        "popularity": 181.3185,
+        "genreIds": [
+          28,
+          27,
+          878
+        ],
+        "lang": "ko"
+      },
+      {
         "id": 1284465,
         "type": "movie",
         "title": "The Death of Robin Hood",
@@ -1603,26 +1603,6 @@
         "lang": "en"
       },
       {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 1026,
-        "popularity": 131.5105,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en"
-      },
-      {
         "id": 1083381,
         "type": "movie",
         "title": "Backrooms",
@@ -1633,7 +1613,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2946,
+        "votes": 2947,
         "popularity": 133.9161,
         "genreIds": [
           27,
@@ -1643,21 +1623,21 @@
         "lang": "en"
       },
       {
-        "id": 1101383,
+        "id": 1284041,
         "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
+        "date": "2026-08-06",
         "year": "2026",
-        "rating": 6.4,
-        "votes": 350,
-        "popularity": 111.229,
+        "rating": 6.9,
+        "votes": 1030,
+        "popularity": 131.5105,
         "genreIds": [
+          27,
           878,
-          9648,
           53
         ],
         "lang": "en"
@@ -1673,10 +1653,30 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.8,
-        "votes": 1264,
+        "votes": 1269,
         "popularity": 124.2903,
         "genreIds": [
           27
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.4,
+        "votes": 352,
+        "popularity": 111.229,
+        "genreIds": [
+          878,
+          9648,
+          53
         ],
         "lang": "en"
       },
@@ -1701,6 +1701,25 @@
         "lang": "en"
       },
       {
+        "id": 1291595,
+        "type": "movie",
+        "title": "Insidious: Out of the Further",
+        "originalTitle": "Insidious: Out of the Further",
+        "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+        "poster": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+        "backdrop": "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+        "date": "2026-08-19",
+        "year": "2026",
+        "rating": 6.6,
+        "votes": 58,
+        "popularity": 106.5301,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en"
+      },
+      {
         "id": 1523145,
         "type": "movie",
         "title": "Your Heart Will Be Broken",
@@ -1719,43 +1738,24 @@
         "lang": "ru"
       },
       {
-        "id": 1307118,
+        "id": 1538273,
         "type": "movie",
-        "title": "Soulm8te",
-        "originalTitle": "Soulm8te",
-        "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-        "poster": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-        "backdrop": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-        "date": "2026-07-31",
+        "title": "Pyaar Prema Kalyanam",
+        "originalTitle": "ப்யார் ப்ரேமா கல்யாணம்",
+        "overview": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
+        "poster": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+        "backdrop": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
+        "date": "2026-08-21",
         "year": "2026",
-        "rating": 7.4,
-        "votes": 259,
-        "popularity": 91.048,
+        "rating": 7,
+        "votes": 1,
+        "popularity": 99.0138,
         "genreIds": [
-          27,
-          878,
-          53
+          10749,
+          35,
+          18
         ],
-        "lang": "en"
-      },
-      {
-        "id": 1291595,
-        "type": "movie",
-        "title": "Insidious: Out of the Further",
-        "originalTitle": "Insidious: Out of the Further",
-        "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-        "poster": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-        "backdrop": "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
-        "date": "2026-08-19",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 55,
-        "popularity": 106.5301,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en"
+        "lang": "ta"
       },
       {
         "id": 1594914,
@@ -1789,7 +1789,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3170,
+        "votes": 3171,
         "popularity": 614.2746,
         "genreIds": [
           12,
@@ -1809,7 +1809,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 6.6,
-        "votes": 159,
+        "votes": 162,
         "popularity": 502.0551,
         "genreIds": [
           28,
@@ -1887,7 +1887,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2946,
+        "votes": 2947,
         "popularity": 133.9161,
         "genreIds": [
           27,
