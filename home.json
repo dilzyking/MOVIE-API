@@ -3,27 +3,6 @@
   "data": {
     "spotlight": [
       {
-        "id": 860508,
-        "type": "movie",
-        "title": "The Whisper Man",
-        "originalTitle": "The Whisper Man",
-        "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-        "poster": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "backdrop": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
-        "date": "2026-08-27",
-        "year": "2026",
-        "rating": 6.4,
-        "votes": 217,
-        "popularity": 227.7433,
-        "genreIds": [
-          80,
-          18,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/860508?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1368337,
         "type": "movie",
         "title": "The Odyssey",
@@ -34,7 +13,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3372,
+        "votes": 3376,
         "popularity": 585.8749,
         "genreIds": [
           12,
@@ -45,46 +24,25 @@
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 969681,
+        "id": 860508,
         "type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "originalTitle": "Spider-Man: Brand New Day",
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
-        "date": "2026-07-29",
+        "title": "The Whisper Man",
+        "originalTitle": "The Whisper Man",
+        "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+        "poster": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "backdrop": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
+        "date": "2026-08-27",
         "year": "2026",
-        "rating": 7.9,
-        "votes": 2323,
-        "popularity": 1027.966,
+        "rating": 6.4,
+        "votes": 223,
+        "popularity": 227.7433,
         "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 95350,
-        "type": "tv",
-        "title": "Lanterns",
-        "originalTitle": "Lanterns",
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-        "date": "2026-08-16",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 229,
-        "popularity": 309.0675,
-        "genreIds": [
+          80,
           18,
-          9648,
-          10765
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/860508?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1516698,
@@ -97,7 +55,7 @@
         "date": "2026-08-26",
         "year": "2026",
         "rating": 6.7,
-        "votes": 77,
+        "votes": 79,
         "popularity": 341.9864,
         "genreIds": [
           10749,
@@ -105,234 +63,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1516698?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1204680,
-        "type": "movie",
-        "title": "Coyote vs. Acme",
-        "originalTitle": "Coyote vs. Acme",
-        "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-        "poster": "/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
-        "backdrop": "/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-        "date": "2026-08-20",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 64,
-        "popularity": 173.4976,
-        "genreIds": [
-          35,
-          12,
-          10751
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1204680?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1288445,
-        "type": "movie",
-        "title": "Mutiny",
-        "originalTitle": "Mutiny",
-        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-        "poster": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-        "backdrop": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
-        "date": "2026-08-19",
-        "year": "2026",
-        "rating": 6.3,
-        "votes": 244,
-        "popularity": 413.216,
-        "genreIds": [
-          28,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2533,
-        "popularity": 306.9606,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
-      }
-    ],
-    "trending": [
-      {
-        "id": 95350,
-        "type": "tv",
-        "title": "Lanterns",
-        "originalTitle": "Lanterns",
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-        "date": "2026-08-16",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 229,
-        "popularity": 309.0675,
-        "genreIds": [
-          18,
-          9648,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 860508,
-        "type": "movie",
-        "title": "The Whisper Man",
-        "originalTitle": "The Whisper Man",
-        "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-        "poster": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "backdrop": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
-        "date": "2026-08-27",
-        "year": "2026",
-        "rating": 6.4,
-        "votes": 217,
-        "popularity": 227.7433,
-        "genreIds": [
-          80,
-          18,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/860508?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1204680,
-        "type": "movie",
-        "title": "Coyote vs. Acme",
-        "originalTitle": "Coyote vs. Acme",
-        "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-        "poster": "/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
-        "backdrop": "/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-        "date": "2026-08-20",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 64,
-        "popularity": 173.4976,
-        "genreIds": [
-          35,
-          12,
-          10751
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1204680?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 3372,
-        "popularity": 585.8749,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 969681,
-        "type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "originalTitle": "Spider-Man: Brand New Day",
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 2323,
-        "popularity": 1027.966,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1294189,
-        "type": "movie",
-        "title": "The Mongoose",
-        "originalTitle": "The Mongoose",
-        "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
-        "poster": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-        "backdrop": "/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
-        "date": "2026-10-30",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 32.7024,
-        "genreIds": [
-          28,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1294189?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 287238,
-        "type": "tv",
-        "title": "Furious",
-        "originalTitle": "Furious",
-        "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-        "poster": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-        "backdrop": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-        "date": "2026-07-27",
-        "year": "2026",
-        "rating": 7,
-        "votes": 73,
-        "popularity": 79.8363,
-        "genreIds": [
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/287238?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 5210,
-        "popularity": 232.1632,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1384216,
@@ -345,7 +75,7 @@
         "date": "2026-08-26",
         "year": "2026",
         "rating": 6.8,
-        "votes": 135,
+        "votes": 138,
         "popularity": 120.46,
         "genreIds": [
           878,
@@ -354,6 +84,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1384216?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2537,
+        "popularity": 306.9606,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 30984,
@@ -377,6 +127,316 @@
         "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1083381,
+        "type": "movie",
+        "title": "Backrooms",
+        "originalTitle": "Backrooms",
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "date": "2026-05-27",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 3068,
+        "popularity": 132.2215,
+        "genreIds": [
+          27,
+          9648,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 969681,
+        "type": "movie",
+        "title": "Spider-Man: Brand New Day",
+        "originalTitle": "Spider-Man: Brand New Day",
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 2332,
+        "popularity": 1027.966,
+        "genreIds": [
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      }
+    ],
+    "trending": [
+      {
+        "id": 860508,
+        "type": "movie",
+        "title": "The Whisper Man",
+        "originalTitle": "The Whisper Man",
+        "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+        "poster": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "backdrop": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
+        "date": "2026-08-27",
+        "year": "2026",
+        "rating": 6.3,
+        "votes": 224,
+        "popularity": 227.7433,
+        "genreIds": [
+          80,
+          18,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/860508?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1204680,
+        "type": "movie",
+        "title": "Coyote vs. Acme",
+        "originalTitle": "Coyote vs. Acme",
+        "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+        "poster": "/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "backdrop": "/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+        "date": "2026-08-20",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 66,
+        "popularity": 173.4976,
+        "genreIds": [
+          35,
+          12,
+          10751
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1204680?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+        "date": "2026-08-16",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 232,
+        "popularity": 309.0675,
+        "genreIds": [
+          18,
+          9648,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 3377,
+        "popularity": 585.8749,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1294189,
+        "type": "movie",
+        "title": "The Mongoose",
+        "originalTitle": "The Mongoose",
+        "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+        "poster": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+        "backdrop": "/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+        "date": "2026-10-30",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 32.7024,
+        "genreIds": [
+          28,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1294189?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 969681,
+        "type": "movie",
+        "title": "Spider-Man: Brand New Day",
+        "originalTitle": "Spider-Man: Brand New Day",
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 2333,
+        "popularity": 1027.966,
+        "genreIds": [
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 287238,
+        "type": "tv",
+        "title": "Furious",
+        "originalTitle": "Furious",
+        "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+        "poster": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+        "backdrop": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+        "date": "2026-07-27",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 75,
+        "popularity": 79.8363,
+        "genreIds": [
+          18,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/287238?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2537,
+        "popularity": 306.9606,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1480574,
+        "type": "movie",
+        "title": "Just Play Dead",
+        "originalTitle": "Just Play Dead",
+        "overview": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
+        "poster": "/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
+        "backdrop": "/tieojVpH6eW44JQOQEWnf8t4khG.jpg",
+        "date": "2026-08-28",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 5,
+        "popularity": 5.0308,
+        "genreIds": [
+          53,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1480574?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 5216,
+        "popularity": 232.1632,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1083381,
+        "type": "movie",
+        "title": "Backrooms",
+        "originalTitle": "Backrooms",
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "date": "2026-05-27",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 3068,
+        "popularity": 132.2215,
+        "genreIds": [
+          27,
+          9648,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1288059,
+        "type": "movie",
+        "title": "I Want Your Sex",
+        "originalTitle": "I Want Your Sex",
+        "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
+        "poster": "/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
+        "backdrop": "/xKPKNJI93LO2QPlIMLM8mthlCPi.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 6.1,
+        "votes": 22,
+        "popularity": 14.7932,
+        "genreIds": [
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1288059?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1384216,
+        "type": "movie",
+        "title": "The Dog Stars",
+        "originalTitle": "The Dog Stars",
+        "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+        "poster": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
+        "backdrop": "/joVtII9prX3MC4a2LfoKsiMWET3.jpg",
+        "date": "2026-08-26",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 138,
+        "popularity": 120.46,
+        "genreIds": [
+          878,
+          12,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1384216?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1514026,
         "type": "movie",
         "title": "Buddy",
@@ -386,8 +446,8 @@
         "backdrop": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
         "date": "2026-08-27",
         "year": "2026",
-        "rating": 8.3,
-        "votes": 19,
+        "rating": 8.5,
+        "votes": 21,
         "popularity": 48.4212,
         "genreIds": [
           27,
@@ -395,6 +455,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1514026?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1288445,
+        "type": "movie",
+        "title": "Mutiny",
+        "originalTitle": "Mutiny",
+        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+        "poster": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+        "backdrop": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+        "date": "2026-08-19",
+        "year": "2026",
+        "rating": 6.3,
+        "votes": 245,
+        "popularity": 413.216,
+        "genreIds": [
+          28,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 615,
@@ -418,24 +498,47 @@
         "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1288445,
+        "id": 1226699,
         "type": "movie",
-        "title": "Mutiny",
-        "originalTitle": "Mutiny",
-        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-        "poster": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-        "backdrop": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
-        "date": "2026-08-19",
+        "title": "The Wrong Girls",
+        "originalTitle": "The Wrong Girls",
+        "overview": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+        "poster": "/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+        "backdrop": "/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
+        "date": "2026-08-14",
         "year": "2026",
-        "rating": 6.3,
-        "votes": 244,
-        "popularity": 413.216,
+        "rating": 4.8,
+        "votes": 6,
+        "popularity": 4.0388,
         "genreIds": [
-          28,
-          53
+          35,
+          80,
+          878
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1226699?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1084244,
+        "type": "movie",
+        "title": "Toy Story 5",
+        "originalTitle": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 1860,
+        "popularity": 213.4425,
+        "genreIds": [
+          16,
+          10751,
+          35,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 290193,
@@ -459,126 +562,27 @@
         "iframe": "https://peachify.top/embed/tv/290193?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 113962,
-        "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8.1,
-        "votes": 1445,
-        "popularity": 379.8473,
-        "genreIds": [
-          18,
-          10768
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 286988,
-        "type": "tv",
-        "title": "Blossom Through the Cloud",
-        "originalTitle": "飞到我心上",
-        "overview": "Once a flight attendant, Ruan Sixian pursues her piloting dream through flight school, later clashing and reconciling with aviation executive Fu Mingyu in a high-stakes race for industry innovation and mutual professional redemption.",
-        "poster": "/xX825RTjwGqkCiPiUCnJvT4mgxq.jpg",
-        "backdrop": "/aYtWVJ5mUkPRFghrCHbc3I2v4WE.jpg",
-        "date": "2026-08-31",
-        "year": "2026",
-        "rating": 8,
-        "votes": 1,
-        "popularity": 13.8812,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/tv/286988?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3185,
-        "popularity": 542.0665,
-        "genreIds": [
-          10759,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2533,
-        "popularity": 306.9606,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1083381,
+        "id": 1315772,
         "type": "movie",
-        "title": "Backrooms",
-        "originalTitle": "Backrooms",
-        "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-        "date": "2026-05-27",
+        "title": "Minions & Monsters",
+        "originalTitle": "Minions & Monsters",
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "poster": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+        "date": "2026-06-24",
         "year": "2026",
-        "rating": 7.1,
-        "votes": 3064,
-        "popularity": 132.2215,
+        "rating": 7.6,
+        "votes": 965,
+        "popularity": 176.3755,
         "genreIds": [
-          27,
-          9648,
-          878
+          12,
+          16,
+          35,
+          10751,
+          14
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 37854,
-        "type": "tv",
-        "title": "One Piece",
-        "originalTitle": "ワンピース",
-        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-        "date": "1999-10-20",
-        "year": "1999",
-        "rating": 8.7,
-        "votes": 5510,
-        "popularity": 67.7592,
-        "genreIds": [
-          10759,
-          35,
-          16
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -1394,7 +1398,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2321,
+        "votes": 2324,
         "popularity": 1027.966,
         "genreIds": [
           878,
@@ -1414,7 +1418,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3368,
+        "votes": 3372,
         "popularity": 585.8749,
         "genreIds": [
           12,
@@ -1433,7 +1437,7 @@
         "backdrop": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
         "date": "2026-08-19",
         "year": "2026",
-        "rating": 6.4,
+        "rating": 6.3,
         "votes": 244,
         "popularity": 413.216,
         "genreIds": [
@@ -1452,8 +1456,8 @@
         "backdrop": "/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
         "date": "2026-08-26",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 76,
+        "rating": 6.7,
+        "votes": 77,
         "popularity": 341.9864,
         "genreIds": [
           10749,
@@ -1467,12 +1471,12 @@
         "title": "Facing El Chapo",
         "originalTitle": "La captura",
         "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
-        "poster": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+        "poster": "/z8eF0ACFFKtIZ4pUeo02PCzxRVO.jpg",
         "backdrop": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
         "date": "2026-08-21",
         "year": "2026",
-        "rating": 8.8,
-        "votes": 422,
+        "rating": 8.9,
+        "votes": 431,
         "popularity": 306.3943,
         "genreIds": [
           80,
@@ -1532,11 +1536,32 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5204,
+        "votes": 5210,
         "popularity": 232.1632,
         "genreIds": [
           27,
           53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1084244,
+        "type": "movie",
+        "title": "Toy Story 5",
+        "originalTitle": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 1856,
+        "popularity": 213.4425,
+        "genreIds": [
+          16,
+          10751,
+          35,
+          12
         ],
         "lang": "en"
       },
@@ -1561,27 +1586,6 @@
         "lang": "en"
       },
       {
-        "id": 1084244,
-        "type": "movie",
-        "title": "Toy Story 5",
-        "originalTitle": "Toy Story 5",
-        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-        "date": "2026-06-17",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 1847,
-        "popularity": 213.4425,
-        "genreIds": [
-          16,
-          10751,
-          35,
-          12
-        ],
-        "lang": "en"
-      },
-      {
         "id": 860508,
         "type": "movie",
         "title": "The Whisper Man",
@@ -1591,8 +1595,8 @@
         "backdrop": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
         "date": "2026-08-27",
         "year": "2026",
-        "rating": 6.3,
-        "votes": 208,
+        "rating": 6.4,
+        "votes": 217,
         "popularity": 227.7433,
         "genreIds": [
           80,
@@ -1633,7 +1637,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.6,
-        "votes": 963,
+        "votes": 965,
         "popularity": 176.3755,
         "genreIds": [
           12,
@@ -1655,7 +1659,7 @@
         "date": "2026-08-20",
         "year": "2026",
         "rating": 7.9,
-        "votes": 61,
+        "votes": 64,
         "popularity": 173.4976,
         "genreIds": [
           35,
@@ -1675,7 +1679,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 654,
+        "votes": 657,
         "popularity": 176.5461,
         "genreIds": [
           28,
@@ -1755,8 +1759,8 @@
         "backdrop": "/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
         "date": "2026-04-23",
         "year": "2026",
-        "rating": 6.1,
-        "votes": 31,
+        "rating": 6,
+        "votes": 32,
         "popularity": 134.0285,
         "genreIds": [
           35,
@@ -2639,8 +2643,8 @@
         "backdrop": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
         "date": "2008-01-20",
         "year": "2008",
-        "rating": 9,
-        "votes": 18501,
+        "rating": 8.9,
+        "votes": 18504,
         "popularity": 169.872,
         "genreIds": [
           18,
@@ -2834,7 +2838,7 @@
         "date": "2021-11-06",
         "year": "2021",
         "rating": 8.7,
-        "votes": 6139,
+        "votes": 6141,
         "popularity": 47.4239,
         "genreIds": [
           16,
@@ -2854,7 +2858,7 @@
         "date": "1999-10-20",
         "year": "1999",
         "rating": 8.7,
-        "votes": 5509,
+        "votes": 5510,
         "popularity": 67.7592,
         "genreIds": [
           10759,
@@ -2910,7 +2914,7 @@
         "date": "2019-05-06",
         "year": "2019",
         "rating": 8.7,
-        "votes": 8234,
+        "votes": 8236,
         "popularity": 37.3475,
         "genreIds": [
           18
@@ -2949,7 +2953,7 @@
         "date": "2015-02-08",
         "year": "2015",
         "rating": 8.7,
-        "votes": 6807,
+        "votes": 6809,
         "popularity": 84.4563,
         "genreIds": [
           80,
@@ -2970,7 +2974,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3183,
+        "votes": 3185,
         "popularity": 542.0665,
         "genreIds": [
           10759,
@@ -3008,7 +3012,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2532,
+        "votes": 2533,
         "popularity": 306.9606,
         "genreIds": [
           10765,
@@ -3026,13 +3030,50 @@
         "backdrop": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
         "date": "2026-08-16",
         "year": "2026",
-        "rating": 8.4,
-        "votes": 225,
+        "rating": 8.3,
+        "votes": 229,
         "popularity": 309.0675,
         "genreIds": [
           18,
           9648,
           10765
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 37528,
+        "type": "tv",
+        "title": "Gran hermano",
+        "originalTitle": "Gran hermano",
+        "overview": "Argentina's version of the Big Brother franchise.",
+        "poster": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+        "backdrop": "/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
+        "date": "2001-03-10",
+        "year": "2001",
+        "rating": 4.5,
+        "votes": 4,
+        "popularity": 267.9155,
+        "genreIds": [
+          10764
+        ],
+        "lang": "es"
+      },
+      {
+        "id": 22980,
+        "type": "tv",
+        "title": "Watch What Happens Live with Andy Cohen",
+        "originalTitle": "Watch What Happens Live with Andy Cohen",
+        "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+        "poster": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+        "backdrop": "/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+        "date": "2009-07-16",
+        "year": "2009",
+        "rating": 4.9,
+        "votes": 88,
+        "popularity": 239.5067,
+        "genreIds": [
+          10767,
+          35
         ],
         "lang": "en"
       },
@@ -3047,13 +3088,31 @@
         "date": "2020-08-14",
         "year": "2020",
         "rating": 8.4,
-        "votes": 2605,
+        "votes": 2606,
         "popularity": 233.8462,
         "genreIds": [
           18,
           35
         ],
         "lang": "en"
+      },
+      {
+        "id": 299952,
+        "type": "tv",
+        "title": "The Early Spring",
+        "originalTitle": "早春晴朗",
+        "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+        "poster": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+        "backdrop": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+        "date": "2026-08-26",
+        "year": "2026",
+        "rating": 6.1,
+        "votes": 4,
+        "popularity": 209.9656,
+        "genreIds": [
+          18
+        ],
+        "lang": "zh"
       },
       {
         "id": 284825,
@@ -3140,7 +3199,7 @@
         "date": "2021-01-11",
         "year": "2021",
         "rating": 8.4,
-        "votes": 1691,
+        "votes": 1692,
         "popularity": 152.9132,
         "genreIds": [
           10759,
@@ -3169,20 +3228,21 @@
         "lang": "ko"
       },
       {
-        "id": 82873,
+        "id": 2224,
         "type": "tv",
-        "title": "The Kelly Clarkson Show",
-        "originalTitle": "The Kelly Clarkson Show",
-        "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
-        "poster": "/sBix25bie9UQFzbarN51DpFO5ky.jpg",
-        "backdrop": "/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
-        "date": "2019-09-09",
-        "year": "2019",
-        "rating": 6.3,
-        "votes": 72,
-        "popularity": 143.5987,
+        "title": "The Daily Show",
+        "originalTitle": "The Daily Show",
+        "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "poster": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "backdrop": "/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+        "date": "1996-07-22",
+        "year": "1996",
+        "rating": 6.4,
+        "votes": 654,
+        "popularity": 154.7642,
         "genreIds": [
-          10767
+          10763,
+          35
         ],
         "lang": "en"
       },
@@ -3219,7 +3279,7 @@
         "date": "2004-10-05",
         "year": "2004",
         "rating": 8.4,
-        "votes": 2251,
+        "votes": 2252,
         "popularity": 131.7346,
         "genreIds": [
           10759,
@@ -3245,24 +3305,6 @@
           10764
         ],
         "lang": "sv"
-      },
-      {
-        "id": 299952,
-        "type": "tv",
-        "title": "The Early Spring",
-        "originalTitle": "早春晴朗",
-        "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-        "poster": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-        "backdrop": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-        "date": "2026-08-26",
-        "year": "2026",
-        "rating": 6.1,
-        "votes": 4,
-        "popularity": 209.9656,
-        "genreIds": [
-          18
-        ],
-        "lang": "zh"
       },
       {
         "id": 91555,
@@ -3300,42 +3342,6 @@
           10766
         ],
         "lang": "nl"
-      },
-      {
-        "id": 206559,
-        "type": "tv",
-        "title": "Binnelanders",
-        "originalTitle": "Binnelanders",
-        "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-        "poster": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
-        "backdrop": "/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-        "date": "2005-10-13",
-        "year": "2005",
-        "rating": 5.5,
-        "votes": 112,
-        "popularity": 93.4171,
-        "genreIds": [
-          10766
-        ],
-        "lang": "af"
-      },
-      {
-        "id": 65282,
-        "type": "tv",
-        "title": "Home Alone",
-        "originalTitle": "나 혼자 산다",
-        "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
-        "poster": "/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
-        "backdrop": "/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
-        "date": "2013-03-22",
-        "year": "2013",
-        "rating": 7.5,
-        "votes": 18,
-        "popularity": 107.447,
-        "genreIds": [
-          10764
-        ],
-        "lang": "ko"
       }
     ],
     "animeTv": [
@@ -3373,7 +3379,7 @@
         "date": "2021-01-11",
         "year": "2021",
         "rating": 8.4,
-        "votes": 1691,
+        "votes": 1692,
         "popularity": 152.9132,
         "genreIds": [
           10759,
@@ -3412,7 +3418,7 @@
         "date": "2004-10-05",
         "year": "2004",
         "rating": 8.4,
-        "votes": 2251,
+        "votes": 2252,
         "popularity": 131.7346,
         "genreIds": [
           10759,
