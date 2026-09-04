@@ -3,25 +3,6 @@
   "data": {
     "spotlight": [
       {
-        "id": 1386315,
-        "type": "movie",
-        "title": "The Runner",
-        "originalTitle": "The Runner",
-        "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-        "poster": "/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-        "backdrop": "/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
-        "date": "2026-09-03",
-        "year": "2026",
-        "rating": 6.2,
-        "votes": 151,
-        "popularity": 248.5934,
-        "genreIds": [
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1386315?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 125988,
         "type": "tv",
         "title": "Silo",
@@ -32,7 +13,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2564,
+        "votes": 2568,
         "popularity": 292.4795,
         "genreIds": [
           10765,
@@ -40,6 +21,25 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1386315,
+        "type": "movie",
+        "title": "The Runner",
+        "originalTitle": "The Runner",
+        "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+        "poster": "/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+        "backdrop": "/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
+        "date": "2026-09-03",
+        "year": "2026",
+        "rating": 6.2,
+        "votes": 154,
+        "popularity": 248.5934,
+        "genreIds": [
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1386315?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 860508,
@@ -52,7 +52,7 @@
         "date": "2026-08-27",
         "year": "2026",
         "rating": 6.7,
-        "votes": 364,
+        "votes": 377,
         "popularity": 213.5041,
         "genreIds": [
           80,
@@ -61,27 +61,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/860508?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1204680,
-        "type": "movie",
-        "title": "Coyote vs. Acme",
-        "originalTitle": "Coyote vs. Acme",
-        "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-        "poster": "/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-        "backdrop": "/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
-        "date": "2026-08-20",
-        "year": "2026",
-        "rating": 7.7,
-        "votes": 126,
-        "popularity": 324.8273,
-        "genreIds": [
-          35,
-          12,
-          10751
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1204680?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 969681,
@@ -94,7 +73,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2414,
+        "votes": 2418,
         "popularity": 857.7444,
         "genreIds": [
           878,
@@ -103,6 +82,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1204680,
+        "type": "movie",
+        "title": "Coyote vs. Acme",
+        "originalTitle": "Coyote vs. Acme",
+        "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+        "poster": "/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "backdrop": "/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+        "date": "2026-08-20",
+        "year": "2026",
+        "rating": 7.7,
+        "votes": 128,
+        "popularity": 324.8273,
+        "genreIds": [
+          35,
+          12,
+          10751
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1204680?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -115,7 +115,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3459,
+        "votes": 3461,
         "popularity": 497.9764,
         "genreIds": [
           12,
@@ -136,7 +136,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.3,
-        "votes": 251,
+        "votes": 252,
         "popularity": 244.4863,
         "genreIds": [
           18,
@@ -147,24 +147,25 @@
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 108978,
+        "id": 236235,
         "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3210,
-        "popularity": 594.5021,
+        "title": "The Gentlemen",
+        "originalTitle": "The Gentlemen",
+        "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+        "poster": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+        "backdrop": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+        "date": "2024-03-07",
+        "year": "2024",
+        "rating": 7.8,
+        "votes": 864,
+        "popularity": 145.5079,
         "genreIds": [
-          10759,
+          35,
+          18,
           80
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/236235?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -179,7 +180,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2562,
+        "votes": 2567,
         "popularity": 292.4795,
         "genreIds": [
           10765,
@@ -199,7 +200,7 @@
         "date": "2026-09-03",
         "year": "2026",
         "rating": 6.2,
-        "votes": 147,
+        "votes": 154,
         "popularity": 248.5934,
         "genreIds": [
           53
@@ -218,7 +219,7 @@
         "date": "2024-03-07",
         "year": "2024",
         "rating": 7.8,
-        "votes": 862,
+        "votes": 864,
         "popularity": 145.5079,
         "genreIds": [
           35,
@@ -279,7 +280,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2414,
+        "votes": 2418,
         "popularity": 857.7444,
         "genreIds": [
           878,
@@ -300,7 +301,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3458,
+        "votes": 3461,
         "popularity": 497.9764,
         "genreIds": [
           12,
@@ -309,6 +310,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1204680,
+        "type": "movie",
+        "title": "Coyote vs. Acme",
+        "originalTitle": "Coyote vs. Acme",
+        "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+        "poster": "/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "backdrop": "/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+        "date": "2026-08-20",
+        "year": "2026",
+        "rating": 7.7,
+        "votes": 127,
+        "popularity": 324.8273,
+        "genreIds": [
+          35,
+          12,
+          10751
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1204680?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1506560,
@@ -320,8 +342,8 @@
         "backdrop": "/6yT5O0g8ZXNOm9I5IXLZonZRBgx.jpg",
         "date": "2026-09-03",
         "year": "2026",
-        "rating": 6.3,
-        "votes": 10,
+        "rating": 6.5,
+        "votes": 11,
         "popularity": 50.4302,
         "genreIds": [
           10770,
@@ -332,6 +354,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1506560?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3212,
+        "popularity": 594.5021,
+        "genreIds": [
+          10759,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 247168,
@@ -353,27 +395,6 @@
         "iframe": "https://peachify.top/embed/tv/247168?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1204680,
-        "type": "movie",
-        "title": "Coyote vs. Acme",
-        "originalTitle": "Coyote vs. Acme",
-        "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-        "poster": "/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-        "backdrop": "/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
-        "date": "2026-08-20",
-        "year": "2026",
-        "rating": 7.8,
-        "votes": 125,
-        "popularity": 324.8273,
-        "genreIds": [
-          35,
-          12,
-          10751
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1204680?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1339713,
         "type": "movie",
         "title": "Obsession",
@@ -384,7 +405,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5282,
+        "votes": 5285,
         "popularity": 210.2429,
         "genreIds": [
           27,
@@ -392,26 +413,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3210,
-        "popularity": 594.5021,
-        "genreIds": [
-          10759,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 196322,
@@ -463,7 +464,7 @@
         "date": "2026-08-27",
         "year": "2026",
         "rating": 6.7,
-        "votes": 362,
+        "votes": 375,
         "popularity": 213.5041,
         "genreIds": [
           80,
@@ -472,6 +473,28 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/860508?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1084244,
+        "type": "movie",
+        "title": "Toy Story 5",
+        "originalTitle": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 1937,
+        "popularity": 181.7712,
+        "genreIds": [
+          16,
+          10751,
+          35,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95350,
@@ -484,7 +507,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.3,
-        "votes": 251,
+        "votes": 252,
         "popularity": 244.4863,
         "genreIds": [
           18,
@@ -505,7 +528,7 @@
         "date": "2026-08-27",
         "year": "2026",
         "rating": 8.3,
-        "votes": 29,
+        "votes": 30,
         "popularity": 49.1548,
         "genreIds": [
           27,
@@ -515,68 +538,44 @@
         "iframe": "https://peachify.top/embed/movie/1514026?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 272938,
-        "type": "tv",
-        "title": "Pull Strings",
-        "originalTitle": "师兄太稳健",
-        "overview": "Li Changshou, a terminally ill patient in his previous life, is reborn into the Primordial World as a low-level Qi cultivator who cherishes life and avoids all karmic entanglements. Determined to dodge the great calamity foretold by the Heavenly Dao, he adopts the \"Way of Steady\" — his ultimate goal being to secure a humble post in the Heavenly Court and survive quietly. He operates with extreme caution: when still, he's as steady as an old dog; when he moves, he shakes the heavens. He firmly believes the era of bloodshed is over — better to trick than to kill, better to stay single than to fall in love. Yet enemies and beauties keep surging toward him like tides. Before he knows it, he becomes a mastermind pulling strings behind the scenes, entangled in power plays among multiple factions, orchestrating the \"Dragon Clan's ascent to Heaven\" — and even the great calamity itself accelerates toward him…",
-        "poster": "/vEqLoYu7mXlQ96Kk7oQbeXzdNK.jpg",
-        "backdrop": "/8zsKL8gDjv7NI7HHk4POIBMl2jE.jpg",
+        "id": 1288445,
+        "type": "movie",
+        "title": "Mutiny",
+        "originalTitle": "Mutiny",
+        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+        "poster": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+        "backdrop": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
         "date": "2026-08-19",
         "year": "2026",
-        "rating": 8.7,
-        "votes": 3,
-        "popularity": 25.3456,
+        "rating": 6.4,
+        "votes": 273,
+        "popularity": 392.0104,
         "genreIds": [
-          35,
-          10759,
-          10765
-        ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/tv/272938?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1315772,
-        "type": "movie",
-        "title": "Minions & Monsters",
-        "originalTitle": "Minions & Monsters",
-        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-        "poster": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 7.6,
-        "votes": 1004,
-        "popularity": 160.3543,
-        "genreIds": [
-          12,
-          16,
-          35,
-          10751,
-          14
+          28,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 287620,
+        "id": 103516,
         "type": "tv",
-        "title": "Stuart Fails to Save the Universe",
-        "originalTitle": "Stuart Fails to Save the Universe",
-        "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-        "poster": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-        "backdrop": "/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
-        "date": "2026-07-23",
-        "year": "2026",
-        "rating": 9,
-        "votes": 137,
-        "popularity": 57.6306,
+        "title": "Star Trek: Strange New Worlds",
+        "originalTitle": "Star Trek: Strange New Worlds",
+        "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+        "poster": "/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+        "backdrop": "/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+        "date": "2022-05-05",
+        "year": "2022",
+        "rating": 7.9,
+        "votes": 834,
+        "popularity": 71.9194,
         "genreIds": [
-          35,
-          10765
+          10765,
+          18
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/287620?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/103516?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
