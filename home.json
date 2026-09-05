@@ -13,7 +13,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2568,
+        "votes": 2569,
         "popularity": 292.4795,
         "genreIds": [
           10765,
@@ -33,7 +33,7 @@
         "date": "2026-09-03",
         "year": "2026",
         "rating": 6.2,
-        "votes": 154,
+        "votes": 160,
         "popularity": 248.5934,
         "genreIds": [
           53
@@ -52,7 +52,7 @@
         "date": "2026-08-27",
         "year": "2026",
         "rating": 6.7,
-        "votes": 377,
+        "votes": 379,
         "popularity": 213.5041,
         "genreIds": [
           80,
@@ -94,7 +94,7 @@
         "date": "2026-08-20",
         "year": "2026",
         "rating": 7.7,
-        "votes": 128,
+        "votes": 132,
         "popularity": 324.8273,
         "genreIds": [
           35,
@@ -115,7 +115,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3461,
+        "votes": 3464,
         "popularity": 497.9764,
         "genreIds": [
           12,
@@ -180,8 +180,8 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2567,
-        "popularity": 292.4795,
+        "votes": 2569,
+        "popularity": 362.9155,
         "genreIds": [
           10765,
           18
@@ -200,34 +200,13 @@
         "date": "2026-09-03",
         "year": "2026",
         "rating": 6.2,
-        "votes": 154,
+        "votes": 163,
         "popularity": 248.5934,
         "genreIds": [
           53
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1386315?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 236235,
-        "type": "tv",
-        "title": "The Gentlemen",
-        "originalTitle": "The Gentlemen",
-        "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-        "poster": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-        "backdrop": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-        "date": "2024-03-07",
-        "year": "2024",
-        "rating": 7.8,
-        "votes": 864,
-        "popularity": 145.5079,
-        "genreIds": [
-          35,
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/236235?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 329471,
@@ -241,12 +220,72 @@
         "year": "2026",
         "rating": 10,
         "votes": 1,
-        "popularity": 3.4956,
+        "popularity": 25.7606,
         "genreIds": [
           10764
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/329471?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 236235,
+        "type": "tv",
+        "title": "The Gentlemen",
+        "originalTitle": "The Gentlemen",
+        "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+        "poster": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+        "backdrop": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+        "date": "2024-03-07",
+        "year": "2024",
+        "rating": 7.8,
+        "votes": 864,
+        "popularity": 177.7235,
+        "genreIds": [
+          35,
+          18,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/236235?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 324824,
+        "type": "tv",
+        "title": "Mayday",
+        "originalTitle": "Mayday",
+        "overview": "",
+        "poster": null,
+        "backdrop": null,
+        "date": "2026-10-07",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 10.2277,
+        "genreIds": [
+          99
+        ],
+        "lang": "no",
+        "iframe": "https://peachify.top/embed/tv/324824?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 196322,
+        "type": "tv",
+        "title": "Dark Matter",
+        "originalTitle": "Dark Matter",
+        "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+        "poster": "/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+        "backdrop": "/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+        "date": "2024-05-07",
+        "year": "2024",
+        "rating": 7.8,
+        "votes": 754,
+        "popularity": 98.8197,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/196322?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1355228,
@@ -270,27 +309,6 @@
         "iframe": "https://peachify.top/embed/movie/1355228?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 969681,
-        "type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "originalTitle": "Spider-Man: Brand New Day",
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 2418,
-        "popularity": 857.7444,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1368337,
         "type": "movie",
         "title": "The Odyssey",
@@ -301,7 +319,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3461,
+        "votes": 3464,
         "popularity": 497.9764,
         "genreIds": [
           12,
@@ -310,6 +328,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 969681,
+        "type": "movie",
+        "title": "Spider-Man: Brand New Day",
+        "originalTitle": "Spider-Man: Brand New Day",
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 2419,
+        "popularity": 835.3899,
+        "genreIds": [
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1204680,
@@ -322,8 +361,8 @@
         "date": "2026-08-20",
         "year": "2026",
         "rating": 7.7,
-        "votes": 127,
-        "popularity": 324.8273,
+        "votes": 133,
+        "popularity": 378.5256,
         "genreIds": [
           35,
           12,
@@ -356,24 +395,24 @@
         "iframe": "https://peachify.top/embed/movie/1506560?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3212,
-        "popularity": 594.5021,
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 5287,
+        "popularity": 210.2429,
         "genreIds": [
-          10759,
-          80
+          27,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 247168,
@@ -387,7 +426,7 @@
         "year": "2025",
         "rating": 8,
         "votes": 113,
-        "popularity": 46.6196,
+        "popularity": 55.2459,
         "genreIds": [
           35
         ],
@@ -395,63 +434,88 @@
         "iframe": "https://peachify.top/embed/tv/247168?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1339713,
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3216,
+        "popularity": 588.2525,
+        "genreIds": [
+          10759,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1083381,
         "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
+        "title": "Backrooms",
+        "originalTitle": "Backrooms",
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "date": "2026-05-27",
         "year": "2026",
-        "rating": 8.2,
-        "votes": 5285,
-        "popularity": 210.2429,
+        "rating": 7.1,
+        "votes": 3115,
+        "popularity": 100.5641,
         "genreIds": [
           27,
-          53
+          9648,
+          878
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 196322,
-        "type": "tv",
-        "title": "Dark Matter",
-        "originalTitle": "Dark Matter",
-        "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-        "poster": "/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-        "backdrop": "/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-        "date": "2024-05-07",
-        "year": "2024",
+        "id": 1479832,
+        "type": "movie",
+        "title": "DC",
+        "originalTitle": "டிசி",
+        "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+        "poster": "/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg",
+        "backdrop": "/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
+        "date": "2026-08-07",
+        "year": "2026",
         "rating": 7.8,
-        "votes": 754,
-        "popularity": 99.4743,
+        "votes": 16,
+        "popularity": 8.4433,
         "genreIds": [
-          10765,
+          10749,
+          28,
           18
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/196322?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ta",
+        "iframe": "https://peachify.top/embed/movie/1479832?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 324824,
-        "type": "tv",
-        "title": "Mayday",
-        "originalTitle": "Mayday",
+        "id": 1509381,
+        "type": "movie",
+        "title": "Oradour, ne m'oublie pas",
+        "originalTitle": "Oradour, ne m'oublie pas",
         "overview": "",
-        "poster": null,
-        "backdrop": null,
-        "date": "2026-10-07",
+        "poster": "/bSI2RoKBKistmF2Cjdyhj5K35ee.jpg",
+        "backdrop": "/nogvEvi8sZ9Mx1R64VuwBC3SHCQ.jpg",
+        "date": "2026-08-30",
         "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 0.9958,
+        "rating": 5.8,
+        "votes": 3,
+        "popularity": 2.1666,
         "genreIds": [
-          99
+          18,
+          36,
+          10770,
+          10752
         ],
-        "lang": "no",
-        "iframe": "https://peachify.top/embed/tv/324824?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "fr",
+        "iframe": "https://peachify.top/embed/movie/1509381?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 860508,
@@ -464,8 +528,8 @@
         "date": "2026-08-27",
         "year": "2026",
         "rating": 6.7,
-        "votes": 375,
-        "popularity": 213.5041,
+        "votes": 380,
+        "popularity": 191.1413,
         "genreIds": [
           80,
           18,
@@ -475,26 +539,24 @@
         "iframe": "https://peachify.top/embed/movie/860508?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1084244,
+        "id": 1294189,
         "type": "movie",
-        "title": "Toy Story 5",
-        "originalTitle": "Toy Story 5",
-        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-        "date": "2026-06-17",
+        "title": "The Mongoose",
+        "originalTitle": "The Mongoose",
+        "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+        "poster": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+        "backdrop": "/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+        "date": "2026-10-30",
         "year": "2026",
-        "rating": 8.3,
-        "votes": 1937,
-        "popularity": 181.7712,
+        "rating": null,
+        "votes": 0,
+        "popularity": 35.1697,
         "genreIds": [
-          16,
-          10751,
-          35,
-          12
+          28,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1294189?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95350,
@@ -508,7 +570,7 @@
         "year": "2026",
         "rating": 8.3,
         "votes": 252,
-        "popularity": 244.4863,
+        "popularity": 226.251,
         "genreIds": [
           18,
           9648,
@@ -516,66 +578,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1514026,
-        "type": "movie",
-        "title": "Buddy",
-        "originalTitle": "Buddy",
-        "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
-        "poster": "/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
-        "backdrop": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-        "date": "2026-08-27",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 30,
-        "popularity": 49.1548,
-        "genreIds": [
-          27,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1514026?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1288445,
-        "type": "movie",
-        "title": "Mutiny",
-        "originalTitle": "Mutiny",
-        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-        "poster": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-        "backdrop": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
-        "date": "2026-08-19",
-        "year": "2026",
-        "rating": 6.4,
-        "votes": 273,
-        "popularity": 392.0104,
-        "genreIds": [
-          28,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 103516,
-        "type": "tv",
-        "title": "Star Trek: Strange New Worlds",
-        "originalTitle": "Star Trek: Strange New Worlds",
-        "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-        "poster": "/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-        "backdrop": "/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-        "date": "2022-05-05",
-        "year": "2022",
-        "rating": 7.9,
-        "votes": 834,
-        "popularity": 71.9194,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/103516?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -993,7 +995,7 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.2,
-        "votes": 1047,
+        "votes": 1049,
         "popularity": 85.1796,
         "genreIds": [
           16,
@@ -1054,7 +1056,7 @@
         "date": "2026-08-21",
         "year": "2026",
         "rating": 8.8,
-        "votes": 491,
+        "votes": 496,
         "popularity": 230.3441,
         "genreIds": [
           80,
@@ -1074,7 +1076,7 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.8,
-        "votes": 2051,
+        "votes": 2053,
         "popularity": 75.7018,
         "genreIds": [
           16,
@@ -1094,7 +1096,7 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 31227,
+        "votes": 31230,
         "popularity": 110.8935,
         "genreIds": [
           18,
@@ -1113,7 +1115,7 @@
         "date": "1972-03-14",
         "year": "1972",
         "rating": 8.7,
-        "votes": 23481,
+        "votes": 23484,
         "popularity": 62.5797,
         "genreIds": [
           18,
@@ -1151,7 +1153,7 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.6,
-        "votes": 7535,
+        "votes": 7542,
         "popularity": 110.0207,
         "genreIds": [
           878,
@@ -1170,7 +1172,7 @@
         "date": "1974-12-20",
         "year": "1974",
         "rating": 8.6,
-        "votes": 14278,
+        "votes": 14280,
         "popularity": 34.1106,
         "genreIds": [
           18,
@@ -1189,7 +1191,7 @@
         "date": "1957-04-10",
         "year": "1957",
         "rating": 8.6,
-        "votes": 10319,
+        "votes": 10320,
         "popularity": 30.7921,
         "genreIds": [
           18
@@ -1246,7 +1248,7 @@
         "date": "2008-07-16",
         "year": "2008",
         "rating": 8.5,
-        "votes": 36595,
+        "votes": 36598,
         "popularity": 62.0522,
         "genreIds": [
           28,
@@ -1266,7 +1268,7 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18824,
+        "votes": 18825,
         "popularity": 41.9982,
         "genreIds": [
           16,
@@ -1327,7 +1329,7 @@
         "date": "2003-12-17",
         "year": "2003",
         "rating": 8.5,
-        "votes": 27256,
+        "votes": 27258,
         "popularity": 48.1909,
         "genreIds": [
           12,
@@ -1367,7 +1369,7 @@
         "date": "2019-05-30",
         "year": "2019",
         "rating": 8.5,
-        "votes": 21234,
+        "votes": 21235,
         "popularity": 38.3006,
         "genreIds": [
           35,
@@ -1389,7 +1391,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2412,
+        "votes": 2418,
         "popularity": 857.7444,
         "genreIds": [
           878,
@@ -1409,7 +1411,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3455,
+        "votes": 3464,
         "popularity": 497.9764,
         "genreIds": [
           12,
@@ -1429,7 +1431,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 6.4,
-        "votes": 270,
+        "votes": 273,
         "popularity": 392.0104,
         "genreIds": [
           28,
@@ -1447,8 +1449,8 @@
         "backdrop": "/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
         "date": "2026-08-20",
         "year": "2026",
-        "rating": 7.8,
-        "votes": 122,
+        "rating": 7.7,
+        "votes": 130,
         "popularity": 324.8273,
         "genreIds": [
           35,
@@ -1468,7 +1470,7 @@
         "date": "2026-08-26",
         "year": "2026",
         "rating": 6.7,
-        "votes": 110,
+        "votes": 115,
         "popularity": 250.2477,
         "genreIds": [
           10749,
@@ -1487,7 +1489,7 @@
         "date": "2026-09-03",
         "year": "2026",
         "rating": 6.2,
-        "votes": 145,
+        "votes": 157,
         "popularity": 248.5934,
         "genreIds": [
           53
@@ -1505,7 +1507,7 @@
         "date": "2026-08-26",
         "year": "2026",
         "rating": 7.9,
-        "votes": 67,
+        "votes": 68,
         "popularity": 236.3746,
         "genreIds": [
           28,
@@ -1525,7 +1527,7 @@
         "date": "2026-08-21",
         "year": "2026",
         "rating": 8.8,
-        "votes": 494,
+        "votes": 498,
         "popularity": 230.3441,
         "genreIds": [
           80,
@@ -1545,7 +1547,7 @@
         "date": "2026-08-27",
         "year": "2026",
         "rating": 6.7,
-        "votes": 360,
+        "votes": 379,
         "popularity": 213.5041,
         "genreIds": [
           80,
@@ -1565,7 +1567,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5280,
+        "votes": 5286,
         "popularity": 210.2429,
         "genreIds": [
           27,
@@ -1584,7 +1586,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 680,
+        "votes": 683,
         "popularity": 204.1842,
         "genreIds": [
           28,
@@ -1644,7 +1646,7 @@
         "date": "2026-07-22",
         "year": "2026",
         "rating": 6.7,
-        "votes": 79,
+        "votes": 82,
         "popularity": 170.4168,
         "genreIds": [
           27,
@@ -1685,7 +1687,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.6,
-        "votes": 1002,
+        "votes": 1005,
         "popularity": 160.3543,
         "genreIds": [
           12,
@@ -1707,7 +1709,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 6.2,
-        "votes": 256,
+        "votes": 257,
         "popularity": 155.1311,
         "genreIds": [
           10751,
@@ -1728,7 +1730,7 @@
         "date": "2026-04-23",
         "year": "2026",
         "rating": 6,
-        "votes": 34,
+        "votes": 35,
         "popularity": 118.9504,
         "genreIds": [
           35,
@@ -1748,7 +1750,7 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 31227,
+        "votes": 31230,
         "popularity": 110.8935,
         "genreIds": [
           18,
@@ -1767,7 +1769,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 3111,
+        "votes": 3115,
         "popularity": 109.4872,
         "genreIds": [
           27,
