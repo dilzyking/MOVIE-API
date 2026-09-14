@@ -3,6 +3,27 @@
   "data": {
     "spotlight": [
       {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.4,
+        "votes": 488,
+        "popularity": 136.6446,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1108427,
         "type": "movie",
         "title": "Moana",
@@ -12,9 +33,9 @@
         "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
         "date": "2026-07-08",
         "year": "2026",
-        "rating": 7.1,
-        "votes": 579,
-        "popularity": 326.2097,
+        "rating": 7.2,
+        "votes": 597,
+        "popularity": 346.4058,
         "genreIds": [
           10751,
           14,
@@ -35,8 +56,8 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.3,
-        "votes": 320,
-        "popularity": 213.7486,
+        "votes": 324,
+        "popularity": 222.4813,
         "genreIds": [
           18,
           9648,
@@ -44,6 +65,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 3665,
+        "popularity": 433.1516,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1137844,
@@ -56,8 +98,8 @@
         "date": "2026-09-03",
         "year": "2026",
         "rating": 7.9,
-        "votes": 535,
-        "popularity": 205.8726,
+        "votes": 550,
+        "popularity": 202.6626,
         "genreIds": [
           28,
           35
@@ -76,8 +118,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.8,
-        "votes": 2651,
-        "popularity": 756.7679,
+        "votes": 2656,
+        "popularity": 766.2638,
         "genreIds": [
           878,
           28,
@@ -85,27 +127,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 3661,
-        "popularity": 408.5067,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -118,8 +139,8 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3289,
-        "popularity": 598.7406,
+        "votes": 3290,
+        "popularity": 650.433,
         "genreIds": [
           10759,
           80
@@ -128,88 +149,48 @@
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 125988,
+        "id": 30984,
         "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2653,
-        "popularity": 262.2487,
+        "title": "Bleach",
+        "originalTitle": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "date": "2004-10-05",
+        "year": "2004",
+        "rating": 8.4,
+        "votes": 2268,
+        "popularity": 157.0815,
         "genreIds": [
-          10765,
-          18
+          10759,
+          16,
+          10765
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 113962,
-        "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 1523,
-        "popularity": 360.0234,
-        "genreIds": [
-          18,
-          10768
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
       {
-        "id": 1108427,
+        "id": 1101383,
         "type": "movie",
-        "title": "Moana",
-        "originalTitle": "Moana",
-        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-        "poster": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-        "date": "2026-07-08",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
         "year": "2026",
-        "rating": 7.1,
-        "votes": 582,
-        "popularity": 326.2097,
+        "rating": 6.4,
+        "votes": 488,
+        "popularity": 136.6446,
         "genreIds": [
-          10751,
-          14,
-          35,
-          12
+          878,
+          9648,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1108427?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 113962,
-        "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 1523,
-        "popularity": 360.0234,
-        "genreIds": [
-          18,
-          10768
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95350,
@@ -222,8 +203,8 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.3,
-        "votes": 320,
-        "popularity": 213.7486,
+        "votes": 324,
+        "popularity": 222.4813,
         "genreIds": [
           18,
           9648,
@@ -231,27 +212,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1058424,
-        "type": "movie",
-        "title": "Hope",
-        "originalTitle": "호프",
-        "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-        "poster": "/h39KOfADZB5I7JzNh9ih9GbZdoK.jpg",
-        "backdrop": "/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 7.8,
-        "votes": 51,
-        "popularity": 75.8337,
-        "genreIds": [
-          878,
-          9648,
-          28
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/movie/1058424?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 314939,
@@ -265,7 +225,7 @@
         "year": "2026",
         "rating": 8,
         "votes": 1,
-        "popularity": 28.2529,
+        "popularity": 85.5507,
         "genreIds": [
           18,
           35
@@ -274,24 +234,26 @@
         "iframe": "https://peachify.top/embed/tv/314939?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1137844,
+        "id": 1108427,
         "type": "movie",
-        "title": "Mayday",
-        "originalTitle": "Mayday",
-        "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-        "poster": "/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-        "backdrop": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-        "date": "2026-09-03",
+        "title": "Moana",
+        "originalTitle": "Moana",
+        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "poster": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "date": "2026-07-08",
         "year": "2026",
-        "rating": 7.9,
-        "votes": 536,
-        "popularity": 205.8726,
+        "rating": 7.2,
+        "votes": 597,
+        "popularity": 346.4058,
         "genreIds": [
-          28,
-          35
+          10751,
+          14,
+          35,
+          12
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1137844?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1108427?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -304,8 +266,8 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3661,
-        "popularity": 408.5067,
+        "votes": 3665,
+        "popularity": 433.1516,
         "genreIds": [
           12,
           28,
@@ -313,6 +275,68 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 113962,
+        "type": "tv",
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "date": "2023-07-23",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 1525,
+        "popularity": 403.5216,
+        "genreIds": [
+          18,
+          10768
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1058424,
+        "type": "movie",
+        "title": "Hope",
+        "originalTitle": "호프",
+        "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+        "poster": "/h39KOfADZB5I7JzNh9ih9GbZdoK.jpg",
+        "backdrop": "/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 7.8,
+        "votes": 51,
+        "popularity": 92.0451,
+        "genreIds": [
+          878,
+          9648,
+          28
+        ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/movie/1058424?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 30984,
+        "type": "tv",
+        "title": "Bleach",
+        "originalTitle": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "date": "2004-10-05",
+        "year": "2004",
+        "rating": 8.4,
+        "votes": 2268,
+        "popularity": 157.0815,
+        "genreIds": [
+          10759,
+          16,
+          10765
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 969681,
@@ -325,8 +349,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.8,
-        "votes": 2651,
-        "popularity": 756.7679,
+        "votes": 2656,
+        "popularity": 766.2638,
         "genreIds": [
           878,
           28,
@@ -336,24 +360,24 @@
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2653,
-        "popularity": 262.2487,
+        "id": 1137844,
+        "type": "movie",
+        "title": "Mayday",
+        "originalTitle": "Mayday",
+        "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+        "poster": "/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+        "backdrop": "/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+        "date": "2026-09-03",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 551,
+        "popularity": 202.6626,
         "genreIds": [
-          10765,
-          18
+          28,
+          35
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1137844?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -366,8 +390,8 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3289,
-        "popularity": 598.7406,
+        "votes": 3290,
+        "popularity": 650.433,
         "genreIds": [
           10759,
           80
@@ -386,8 +410,8 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5482,
-        "popularity": 151.0084,
+        "votes": 5487,
+        "popularity": 153.3138,
         "genreIds": [
           27,
           53
@@ -396,46 +420,24 @@
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 30984,
+        "id": 125988,
         "type": "tv",
-        "title": "Bleach",
-        "originalTitle": "BLEACH",
-        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-        "date": "2004-10-05",
-        "year": "2004",
-        "rating": 8.4,
-        "votes": 2268,
-        "popularity": 161.7066,
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2656,
+        "popularity": 285.7699,
         "genreIds": [
-          10759,
-          16,
-          10765
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1377237,
-        "type": "movie",
-        "title": "Runner",
-        "originalTitle": "Runner",
-        "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
-        "poster": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-        "backdrop": "/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-        "date": "2026-09-07",
-        "year": "2026",
-        "rating": 8,
-        "votes": 15,
-        "popularity": 54.5519,
-        "genreIds": [
-          28,
-          35,
-          53
+          10765,
+          18
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1377237?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 37854,
@@ -448,8 +450,8 @@
         "date": "1999-10-20",
         "year": "1999",
         "rating": 8.7,
-        "votes": 5534,
-        "popularity": 56.8998,
+        "votes": 5535,
+        "popularity": 57.4846,
         "genreIds": [
           10759,
           35,
@@ -459,105 +461,25 @@
         "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 236235,
+        "id": 94664,
         "type": "tv",
-        "title": "The Gentlemen",
-        "originalTitle": "The Gentlemen",
-        "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-        "poster": "/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-        "backdrop": "/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-        "date": "2024-03-07",
-        "year": "2024",
-        "rating": 7.9,
-        "votes": 913,
-        "popularity": 200.195,
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "originalTitle": "無職転生 ～異世界行ったら本気だす～",
+        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+        "poster": "/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "backdrop": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+        "date": "2021-01-11",
+        "year": "2021",
+        "rating": 8.4,
+        "votes": 1710,
+        "popularity": 174.3456,
         "genreIds": [
-          35,
-          18,
-          80
+          10759,
+          16,
+          10765
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/236235?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1558568,
-        "type": "movie",
-        "title": "Go Team!",
-        "originalTitle": "Gracias, equipo",
-        "overview": "When their team-building event gets downgraded to a tiny village, a cheese company's staff think it can't get worse — then they learn about the layoffs.",
-        "poster": "/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
-        "backdrop": "/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
-        "date": "2026-09-11",
-        "year": "2026",
-        "rating": 6.2,
-        "votes": 10,
-        "popularity": 41.4259,
-        "genreIds": [
-          35
-        ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/movie/1558568?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1302904,
-        "type": "movie",
-        "title": "Practical Magic 2",
-        "originalTitle": "Practical Magic 2",
-        "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-        "poster": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-        "backdrop": "/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-        "date": "2026-09-09",
-        "year": "2026",
-        "rating": 6.1,
-        "votes": 41,
-        "popularity": 80.4382,
-        "genreIds": [
-          10749,
-          14,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1302904?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1386315,
-        "type": "movie",
-        "title": "The Runner",
-        "originalTitle": "The Runner",
-        "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-        "poster": "/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-        "backdrop": "/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
-        "date": "2026-09-03",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 434,
-        "popularity": 195.5425,
-        "genreIds": [
-          53,
-          28
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1386315?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1440098,
-        "type": "movie",
-        "title": "Drawn Together",
-        "originalTitle": "Enfrentados: Marfil",
-        "overview": "After a wealthy Spanish heiress is kidnapped, she falls into a dangerous attraction with the newly hired bodyguard assigned to protect her in a world full of deception.",
-        "poster": "/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-        "backdrop": "/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-        "date": "2026-09-09",
-        "year": "2026",
-        "rating": 6.5,
-        "votes": 62,
-        "popularity": 240.8506,
-        "genreIds": [
-          10749,
-          53
-        ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/movie/1440098?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/94664?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1423191,
@@ -571,7 +493,7 @@
         "year": "2026",
         "rating": 10,
         "votes": 2,
-        "popularity": 45.9347,
+        "popularity": 49.1529,
         "genreIds": [
           27,
           53,
@@ -579,6 +501,87 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1558568,
+        "type": "movie",
+        "title": "Go Team!",
+        "originalTitle": "Gracias, equipo",
+        "overview": "When their team-building event gets downgraded to a tiny village, a cheese company's staff think it can't get worse — then they learn about the layoffs.",
+        "poster": "/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
+        "backdrop": "/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
+        "date": "2026-09-11",
+        "year": "2026",
+        "rating": 6,
+        "votes": 12,
+        "popularity": 39.1642,
+        "genreIds": [
+          35
+        ],
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/movie/1558568?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 282326,
+        "type": "tv",
+        "title": "Against the Current",
+        "originalTitle": "兰香如故",
+        "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
+        "poster": "/euBlF64efQmsl2y54LeNmLQPNob.jpg",
+        "backdrop": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
+        "date": "2026-09-11",
+        "year": "2026",
+        "rating": 5,
+        "votes": 2,
+        "popularity": 38.0373,
+        "genreIds": [
+          18,
+          10751
+        ],
+        "lang": "zh",
+        "iframe": "https://peachify.top/embed/tv/282326?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1204680,
+        "type": "movie",
+        "title": "Coyote vs. Acme",
+        "originalTitle": "Coyote vs. Acme",
+        "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+        "poster": "/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "backdrop": "/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+        "date": "2026-08-20",
+        "year": "2026",
+        "rating": 7.6,
+        "votes": 359,
+        "popularity": 593.0284,
+        "genreIds": [
+          35,
+          12,
+          10751
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1204680?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1302904,
+        "type": "movie",
+        "title": "Practical Magic 2",
+        "originalTitle": "Practical Magic 2",
+        "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+        "poster": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+        "backdrop": "/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+        "date": "2026-09-09",
+        "year": "2026",
+        "rating": 6,
+        "votes": 42,
+        "popularity": 86.1043,
+        "genreIds": [
+          10749,
+          14,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1302904?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -988,8 +991,8 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.1,
-        "votes": 1114,
-        "popularity": 91.1521,
+        "votes": 1119,
+        "popularity": 95.7363,
         "genreIds": [
           16,
           12,
@@ -1009,8 +1012,8 @@
         "date": "2026-05-01",
         "year": "2026",
         "rating": 8.9,
-        "votes": 2175,
-        "popularity": 39.2574,
+        "votes": 2176,
+        "popularity": 41.527,
         "genreIds": [
           12,
           16,
@@ -1031,7 +1034,7 @@
         "year": "2026",
         "rating": 8.9,
         "votes": 378,
-        "popularity": 18.247,
+        "popularity": 18.3661,
         "genreIds": [
           35,
           10749
@@ -1049,8 +1052,8 @@
         "date": "2026-08-21",
         "year": "2026",
         "rating": 8.8,
-        "votes": 635,
-        "popularity": 125.4522,
+        "votes": 643,
+        "popularity": 128.4552,
         "genreIds": [
           80,
           28,
@@ -1069,8 +1072,8 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.8,
-        "votes": 2121,
-        "popularity": 68.2858,
+        "votes": 2123,
+        "popularity": 72.5086,
         "genreIds": [
           16,
           28,
@@ -1089,8 +1092,8 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 31311,
-        "popularity": 75.7909,
+        "votes": 31313,
+        "popularity": 64.5487,
         "genreIds": [
           18,
           80
@@ -1108,8 +1111,8 @@
         "date": "1972-03-14",
         "year": "1972",
         "rating": 8.7,
-        "votes": 23541,
-        "popularity": 54.2334,
+        "votes": 23544,
+        "popularity": 58.4855,
         "genreIds": [
           18,
           80
@@ -1127,8 +1130,8 @@
         "date": "2026-04-22",
         "year": "2026",
         "rating": 8.6,
-        "votes": 4323,
-        "popularity": 55.5532,
+        "votes": 4325,
+        "popularity": 56.3347,
         "genreIds": [
           10402,
           18
@@ -1146,8 +1149,8 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.6,
-        "votes": 7720,
-        "popularity": 89.6056,
+        "votes": 7732,
+        "popularity": 94.1575,
         "genreIds": [
           878,
           12
@@ -1165,8 +1168,8 @@
         "date": "1974-12-20",
         "year": "1974",
         "rating": 8.6,
-        "votes": 14315,
-        "popularity": 28.6025,
+        "votes": 14317,
+        "popularity": 28.3314,
         "genreIds": [
           18,
           80
@@ -1184,8 +1187,8 @@
         "date": "1957-04-10",
         "year": "1957",
         "rating": 8.6,
-        "votes": 10354,
-        "popularity": 28.5251,
+        "votes": 10356,
+        "popularity": 29.0345,
         "genreIds": [
           18
         ],
@@ -1202,8 +1205,8 @@
         "date": "1993-12-15",
         "year": "1993",
         "rating": 8.6,
-        "votes": 17894,
-        "popularity": 32.3559,
+        "votes": 17895,
+        "popularity": 30.6689,
         "genreIds": [
           18,
           36,
@@ -1223,7 +1226,7 @@
         "year": "2024",
         "rating": 8.6,
         "votes": 312,
-        "popularity": 14.8784,
+        "popularity": 15.1183,
         "genreIds": [
           18,
           10749
@@ -1242,7 +1245,7 @@
         "year": "2025",
         "rating": 8.5,
         "votes": 1175,
-        "popularity": 32.462,
+        "popularity": 30.6105,
         "genreIds": [
           16,
           28,
@@ -1262,8 +1265,8 @@
         "date": "2008-07-16",
         "year": "2008",
         "rating": 8.5,
-        "votes": 36681,
-        "popularity": 51.7256,
+        "votes": 36683,
+        "popularity": 43.8306,
         "genreIds": [
           28,
           53
@@ -1281,8 +1284,8 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18884,
-        "popularity": 37.3097,
+        "votes": 18887,
+        "popularity": 39.9507,
         "genreIds": [
           16,
           10751,
@@ -1302,7 +1305,7 @@
         "year": "1999",
         "rating": 8.5,
         "votes": 19795,
-        "popularity": 35.0176,
+        "popularity": 35.1433,
         "genreIds": [
           14,
           18,
@@ -1321,8 +1324,8 @@
         "date": "2003-12-17",
         "year": "2003",
         "rating": 8.5,
-        "votes": 27330,
-        "popularity": 40.1537,
+        "votes": 27333,
+        "popularity": 33.6316,
         "genreIds": [
           12,
           14,
@@ -1342,7 +1345,7 @@
         "year": "1995",
         "rating": 8.5,
         "votes": 4621,
-        "popularity": 15.7354,
+        "popularity": 15.4375,
         "genreIds": [
           35,
           18,
@@ -1361,8 +1364,8 @@
         "date": "2019-05-30",
         "year": "2019",
         "rating": 8.5,
-        "votes": 21291,
-        "popularity": 36.1736,
+        "votes": 21293,
+        "popularity": 38.6772,
         "genreIds": [
           35,
           53,
@@ -2179,7 +2182,7 @@
         "year": "2005",
         "rating": 5.6,
         "votes": 10,
-        "popularity": 1273.8198,
+        "popularity": 1107.4643,
         "genreIds": [
           10764
         ],
@@ -2197,7 +2200,7 @@
         "year": "2009",
         "rating": 5.7,
         "votes": 10,
-        "popularity": 783.4496,
+        "popularity": 532.2701,
         "genreIds": [
           10764
         ],
@@ -2215,7 +2218,7 @@
         "year": "2017",
         "rating": 5.4,
         "votes": 46,
-        "popularity": 650.5072,
+        "popularity": 750.4806,
         "genreIds": [
           10751,
           35,
@@ -2235,7 +2238,7 @@
         "year": "2007",
         "rating": 6.7,
         "votes": 30,
-        "popularity": 629.8237,
+        "popularity": 691.455,
         "genreIds": [
           35,
           10764
@@ -2254,7 +2257,7 @@
         "year": "2022",
         "rating": 8.1,
         "votes": 3289,
-        "popularity": 598.7406,
+        "popularity": 650.433,
         "genreIds": [
           10759,
           80
@@ -2273,7 +2276,7 @@
         "year": "2009",
         "rating": 4.9,
         "votes": 94,
-        "popularity": 515.7774,
+        "popularity": 584.0501,
         "genreIds": [
           10767,
           35
@@ -2291,8 +2294,8 @@
         "date": "2008-09-23",
         "year": "2008",
         "rating": 8.4,
-        "votes": 4704,
-        "popularity": 384.3676,
+        "votes": 4706,
+        "popularity": 393.3101,
         "genreIds": [
           80,
           18,
@@ -2312,7 +2315,7 @@
         "year": "1952",
         "rating": 6.8,
         "votes": 257,
-        "popularity": 373.9893,
+        "popularity": 307.9876,
         "genreIds": [
           10763
         ],
@@ -2330,7 +2333,7 @@
         "year": "2006",
         "rating": 8.1,
         "votes": 194,
-        "popularity": 371.6807,
+        "popularity": 330.5,
         "genreIds": [
           16,
           35,
@@ -2349,8 +2352,8 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8.2,
-        "votes": 1522,
-        "popularity": 360.0234,
+        "votes": 1523,
+        "popularity": 403.5216,
         "genreIds": [
           18,
           10768
@@ -2369,7 +2372,7 @@
         "year": "2017",
         "rating": 6.3,
         "votes": 72,
-        "popularity": 350.4234,
+        "popularity": 393.5255,
         "genreIds": [
           80,
           18,
@@ -2389,7 +2392,7 @@
         "year": "1998",
         "rating": 3.8,
         "votes": 20,
-        "popularity": 337.6916,
+        "popularity": 299.3568,
         "genreIds": [
           18,
           10751
@@ -2408,7 +2411,7 @@
         "year": "1969",
         "rating": 7.1,
         "votes": 292,
-        "popularity": 333.1743,
+        "popularity": 614.3406,
         "genreIds": [
           10762,
           35
@@ -2427,7 +2430,7 @@
         "year": "2007",
         "rating": 9,
         "votes": 1,
-        "popularity": 319.3174,
+        "popularity": 356.8789,
         "genreIds": [
           10764
         ],
@@ -2445,7 +2448,7 @@
         "year": "1962",
         "rating": 7.5,
         "votes": 96,
-        "popularity": 294.4683,
+        "popularity": 249.799,
         "genreIds": [
           10767
         ],
@@ -2463,9 +2466,28 @@
         "year": "1960",
         "rating": 5.4,
         "votes": 118,
-        "popularity": 285.1315,
+        "popularity": 321.2705,
         "genreIds": [
           10766
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 456,
+        "type": "tv",
+        "title": "The Simpsons",
+        "originalTitle": "The Simpsons",
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "poster": "/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "backdrop": "/ncQ8D4j8GSuL9CzncLEXnhHDxHy.jpg",
+        "date": "1989-12-17",
+        "year": "1989",
+        "rating": 8,
+        "votes": 11001,
+        "popularity": 274.9139,
+        "genreIds": [
+          16,
+          35
         ],
         "lang": "en"
       },
@@ -2481,7 +2503,7 @@
         "year": "2013",
         "rating": 7.2,
         "votes": 4,
-        "popularity": 273.8588,
+        "popularity": 293.2019,
         "genreIds": [
           10764
         ],
@@ -2499,7 +2521,7 @@
         "year": "2005",
         "rating": 5.7,
         "votes": 3,
-        "popularity": 273.5578,
+        "popularity": 226.8566,
         "genreIds": [
           10764
         ],
@@ -2516,31 +2538,11 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 9,
-        "votes": 18601,
-        "popularity": 266.4131,
+        "votes": 18603,
+        "popularity": 344.0272,
         "genreIds": [
           18,
           80
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 2734,
-        "type": "tv",
-        "title": "Law & Order: Special Victims Unit",
-        "originalTitle": "Law & Order: Special Victims Unit",
-        "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-        "poster": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-        "backdrop": "/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-        "date": "1999-09-20",
-        "year": "1999",
-        "rating": 8,
-        "votes": 4347,
-        "popularity": 264.219,
-        "genreIds": [
-          80,
-          18,
-          9648
         ],
         "lang": "en"
       }
@@ -3326,7 +3328,7 @@
         "year": "2006",
         "rating": 8.1,
         "votes": 194,
-        "popularity": 371.6807,
+        "popularity": 330.5,
         "genreIds": [
           16,
           35,
@@ -3346,7 +3348,7 @@
         "year": "2005",
         "rating": 8.1,
         "votes": 243,
-        "popularity": 237.6791,
+        "popularity": 269.0717,
         "genreIds": [
           10759,
           16,
@@ -3354,6 +3356,26 @@
           10765,
           10762,
           10751
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 94664,
+        "type": "tv",
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "originalTitle": "無職転生 ～異世界行ったら本気だす～",
+        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+        "poster": "/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "backdrop": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+        "date": "2021-01-11",
+        "year": "2021",
+        "rating": 8.4,
+        "votes": 1710,
+        "popularity": 174.3456,
+        "genreIds": [
+          10759,
+          16,
+          10765
         ],
         "lang": "ja"
       },
@@ -3369,7 +3391,7 @@
         "year": "2004",
         "rating": 8.4,
         "votes": 2268,
-        "popularity": 161.7066,
+        "popularity": 157.0815,
         "genreIds": [
           10759,
           16,
@@ -3389,30 +3411,10 @@
         "year": "2024",
         "rating": 8.4,
         "votes": 807,
-        "popularity": 154.5205,
+        "popularity": 133.3582,
         "genreIds": [
           16,
           10759,
-          10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 94664,
-        "type": "tv",
-        "title": "Mushoku Tensei: Jobless Reincarnation",
-        "originalTitle": "無職転生 ～異世界行ったら本気だす～",
-        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-        "poster": "/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "backdrop": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-        "date": "2021-01-11",
-        "year": "2021",
-        "rating": 8.4,
-        "votes": 1710,
-        "popularity": 140.8605,
-        "genreIds": [
-          10759,
-          16,
           10765
         ],
         "lang": "ja"
@@ -3429,7 +3431,7 @@
         "year": "2017",
         "rating": 5.5,
         "votes": 15,
-        "popularity": 130.4192,
+        "popularity": 129.4156,
         "genreIds": [
           16,
           18
@@ -3448,7 +3450,7 @@
         "year": "2020",
         "rating": 7.4,
         "votes": 92,
-        "popularity": 120.8312,
+        "popularity": 119.2619,
         "genreIds": [
           16
         ],
@@ -3466,7 +3468,7 @@
         "year": "2024",
         "rating": 6.9,
         "votes": 39,
-        "popularity": 101.4599,
+        "popularity": 97.0493,
         "genreIds": [
           16
         ],
@@ -3484,7 +3486,7 @@
         "year": "2023",
         "rating": 6.2,
         "votes": 26,
-        "popularity": 99.7445,
+        "popularity": 92.3317,
         "genreIds": [
           16
         ],
@@ -3502,9 +3504,30 @@
         "year": "2007",
         "rating": 8.5,
         "votes": 8769,
-        "popularity": 92.5716,
+        "popularity": 91.546,
         "genreIds": [
           16,
+          10759,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 65942,
+        "type": "tv",
+        "title": "Re:ZERO -Starting Life in Another World-",
+        "originalTitle": "Re:ゼロから始める異世界生活",
+        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+        "poster": "/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+        "backdrop": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+        "date": "2016-04-04",
+        "year": "2016",
+        "rating": 8.1,
+        "votes": 781,
+        "popularity": 89.5741,
+        "genreIds": [
+          16,
+          9648,
           10759,
           10765
         ],
@@ -3522,31 +3545,10 @@
         "year": "2019",
         "rating": 6.8,
         "votes": 64,
-        "popularity": 88.3339,
+        "popularity": 77.8873,
         "genreIds": [
           35,
           16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 65942,
-        "type": "tv",
-        "title": "Re:ZERO -Starting Life in Another World-",
-        "originalTitle": "Re:ゼロから始める異世界生活",
-        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-        "poster": "/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-        "backdrop": "/qrYep23cjwdlwgfvyoO51YD9JrI.jpg",
-        "date": "2016-04-04",
-        "year": "2016",
-        "rating": 8.1,
-        "votes": 780,
-        "popularity": 83.3533,
-        "genreIds": [
-          16,
-          9648,
-          10759,
-          10765
         ],
         "lang": "ja"
       },
@@ -3562,7 +3564,7 @@
         "year": "2011",
         "rating": 8.7,
         "votes": 2200,
-        "popularity": 79.9681,
+        "popularity": 90.0811,
         "genreIds": [
           16,
           10759,
@@ -3582,7 +3584,7 @@
         "year": "1996",
         "rating": 8,
         "votes": 787,
-        "popularity": 79.1832,
+        "popularity": 78.7392,
         "genreIds": [
           16,
           80,
@@ -3602,8 +3604,8 @@
         "date": "1997-04-01",
         "year": "1997",
         "rating": 8,
-        "votes": 2258,
-        "popularity": 74.2635,
+        "votes": 2259,
+        "popularity": 86.345,
         "genreIds": [
           16,
           10759,
@@ -3622,8 +3624,8 @@
         "date": "2020-10-03",
         "year": "2020",
         "rating": 8.6,
-        "votes": 4649,
-        "popularity": 71.0173,
+        "votes": 4650,
+        "popularity": 81.6337,
         "genreIds": [
           16,
           10765,
@@ -3643,7 +3645,7 @@
         "year": "2023",
         "rating": 8.8,
         "votes": 958,
-        "popularity": 70.312,
+        "popularity": 74.6055,
         "genreIds": [
           16,
           10759,
@@ -3664,7 +3666,7 @@
         "year": "1989",
         "rating": 8.4,
         "votes": 4998,
-        "popularity": 68.9651,
+        "popularity": 80.9291,
         "genreIds": [
           16,
           10765,
@@ -3684,7 +3686,7 @@
         "year": "2005",
         "rating": 8.6,
         "votes": 38,
-        "popularity": 68.79,
+        "popularity": 84.3513,
         "genreIds": [
           16,
           10765
@@ -3703,7 +3705,7 @@
         "year": "2016",
         "rating": 7.1,
         "votes": 227,
-        "popularity": 60.8266,
+        "popularity": 116.2877,
         "genreIds": [
           16,
           18,
