@@ -46,27 +46,6 @@
         "iframe": "https://peachify.top/embed/tv/123542?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 96677,
-        "type": "tv",
-        "title": "Lupin",
-        "originalTitle": "Lupin",
-        "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-        "poster": "/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-        "backdrop": "/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
-        "date": "2021-01-08",
-        "year": "2021",
-        "rating": 7.7,
-        "votes": 2707,
-        "popularity": 124.0241,
-        "genreIds": [
-          80,
-          18,
-          9648
-        ],
-        "lang": "fr",
-        "iframe": "https://peachify.top/embed/tv/96677?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1400940,
         "type": "movie",
         "title": "Clayface",
@@ -77,7 +56,7 @@
         "date": "2026-10-19",
         "year": "2026",
         "rating": 7.6,
-        "votes": 124,
+        "votes": 127,
         "popularity": 240.8093,
         "genreIds": [
           27,
@@ -98,7 +77,7 @@
         "date": "2022-09-13",
         "year": "2022",
         "rating": 8.5,
-        "votes": 2079,
+        "votes": 2080,
         "popularity": 170.2525,
         "genreIds": [
           16,
@@ -108,6 +87,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/105248?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 96677,
+        "type": "tv",
+        "title": "Lupin",
+        "originalTitle": "Lupin",
+        "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+        "poster": "/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+        "backdrop": "/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+        "date": "2021-01-08",
+        "year": "2021",
+        "rating": 7.7,
+        "votes": 2709,
+        "popularity": 124.0241,
+        "genreIds": [
+          80,
+          18,
+          9648
+        ],
+        "lang": "fr",
+        "iframe": "https://peachify.top/embed/tv/96677?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 120911,
@@ -150,24 +150,24 @@
         "iframe": "https://peachify.top/embed/tv/213562?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1561726,
-        "type": "movie",
-        "title": "Masterplan",
-        "originalTitle": "Masterplan",
-        "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
-        "poster": "/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-        "backdrop": "/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
-        "date": "2026-10-16",
+        "id": 213375,
+        "type": "tv",
+        "title": "VisionQuest",
+        "originalTitle": "VisionQuest",
+        "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+        "poster": "/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+        "backdrop": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+        "date": "2026-10-13",
         "year": "2026",
-        "rating": 7,
-        "votes": 151,
-        "popularity": 209.1518,
+        "rating": 8.7,
+        "votes": 171,
+        "popularity": 342.2431,
         "genreIds": [
-          28,
-          53
+          10765,
+          18
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1561726?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/213375?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -182,7 +182,7 @@
         "date": "2021-01-08",
         "year": "2021",
         "rating": 7.7,
-        "votes": 2707,
+        "votes": 2709,
         "popularity": 124.0241,
         "genreIds": [
           80,
@@ -203,7 +203,7 @@
         "date": "2026-10-19",
         "year": "2026",
         "rating": 7.6,
-        "votes": 123,
+        "votes": 129,
         "popularity": 240.8093,
         "genreIds": [
           27,
@@ -223,8 +223,8 @@
         "backdrop": "/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
         "date": "2026-10-23",
         "year": "2026",
-        "rating": 5.1,
-        "votes": 8,
+        "rating": 5.2,
+        "votes": 14,
         "popularity": 38.7524,
         "genreIds": [
           18
@@ -233,44 +233,25 @@
         "iframe": "https://peachify.top/embed/movie/1780005?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1453407,
+        "id": 1290418,
         "type": "movie",
-        "title": "Gajab Raat",
-        "originalTitle": "ग़ज़ब रात",
-        "overview": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
-        "poster": "/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
-        "backdrop": "/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
-        "date": "2026-10-23",
+        "title": "The Cycle",
+        "originalTitle": "The Cycle",
+        "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+        "poster": "/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+        "backdrop": "/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
+        "date": "2026-09-24",
         "year": "2026",
-        "rating": 3.2,
-        "votes": 2,
-        "popularity": 24.265,
-        "genreIds": [
-          53,
-          80
-        ],
-        "lang": "hi",
-        "iframe": "https://peachify.top/embed/movie/1453407?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 314360,
-        "type": "tv",
-        "title": "YAGA",
-        "originalTitle": "YAGA",
-        "overview": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
-        "poster": "/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
-        "backdrop": "/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
-        "date": "2026-10-23",
-        "year": "2026",
-        "rating": 6.6,
+        "rating": 7.8,
         "votes": 8,
-        "popularity": 51.9348,
+        "popularity": 13.064,
         "genreIds": [
-          18,
-          10765
+          80,
+          27,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/314360?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1290418?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1422041,
@@ -282,8 +263,8 @@
         "backdrop": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
         "date": "2026-09-25",
         "year": "2026",
-        "rating": 8.2,
-        "votes": 106,
+        "rating": 8.1,
+        "votes": 109,
         "popularity": 51.8507,
         "genreIds": [
           18,
@@ -291,6 +272,26 @@
         ],
         "lang": "es",
         "iframe": "https://peachify.top/embed/movie/1422041?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1453407,
+        "type": "movie",
+        "title": "Gajab Raat",
+        "originalTitle": "ग़ज़ब रात",
+        "overview": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
+        "poster": "/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+        "backdrop": "/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+        "date": "2026-10-23",
+        "year": "2026",
+        "rating": 4.5,
+        "votes": 3,
+        "popularity": 24.265,
+        "genreIds": [
+          53,
+          80
+        ],
+        "lang": "hi",
+        "iframe": "https://peachify.top/embed/movie/1453407?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 120911,
@@ -323,7 +324,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 8.5,
-        "votes": 6038,
+        "votes": 6053,
         "popularity": 1138.6936,
         "genreIds": [
           878,
@@ -334,67 +335,24 @@
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 105248,
+        "id": 314360,
         "type": "tv",
-        "title": "Cyberpunk: Edgerunners",
-        "originalTitle": "Cyberpunk: Edgerunners",
-        "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
-        "poster": "/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-        "backdrop": "/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
-        "date": "2022-09-13",
-        "year": "2022",
-        "rating": 8.5,
-        "votes": 2079,
-        "popularity": 170.2525,
-        "genreIds": [
-          16,
-          10759,
-          10765,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/105248?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1290418,
-        "type": "movie",
-        "title": "The Cycle",
-        "originalTitle": "The Cycle",
-        "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-        "poster": "/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-        "backdrop": "/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
-        "date": "2026-09-24",
+        "title": "YAGA",
+        "originalTitle": "YAGA",
+        "overview": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
+        "poster": "/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+        "backdrop": "/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
+        "date": "2026-10-23",
         "year": "2026",
-        "rating": 7.8,
-        "votes": 6,
-        "popularity": 13.064,
+        "rating": 6.6,
+        "votes": 8,
+        "popularity": 51.9348,
         "genreIds": [
-          80,
-          27,
-          53
+          18,
+          10765
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1290418?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 247718,
-        "type": "tv",
-        "title": "MobLand",
-        "originalTitle": "MobLand",
-        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-        "backdrop": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "date": "2025-03-30",
-        "year": "2025",
-        "rating": 8.6,
-        "votes": 1080,
-        "popularity": 289.7004,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/314360?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1058424,
@@ -407,7 +365,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 6.8,
-        "votes": 318,
+        "votes": 321,
         "popularity": 478.334,
         "genreIds": [
           878,
@@ -416,6 +374,48 @@
         ],
         "lang": "ko",
         "iframe": "https://peachify.top/embed/movie/1058424?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 247718,
+        "type": "tv",
+        "title": "MobLand",
+        "originalTitle": "MobLand",
+        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+        "backdrop": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+        "date": "2025-03-30",
+        "year": "2025",
+        "rating": 8.6,
+        "votes": 1081,
+        "popularity": 289.7004,
+        "genreIds": [
+          80,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 105248,
+        "type": "tv",
+        "title": "Cyberpunk: Edgerunners",
+        "originalTitle": "Cyberpunk: Edgerunners",
+        "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+        "poster": "/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+        "backdrop": "/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
+        "date": "2022-09-13",
+        "year": "2022",
+        "rating": 8.5,
+        "votes": 2080,
+        "popularity": 170.2525,
+        "genreIds": [
+          16,
+          10759,
+          10765,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/105248?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1477104,
@@ -428,7 +428,7 @@
         "date": "2026-09-17",
         "year": "2026",
         "rating": 7.4,
-        "votes": 31,
+        "votes": 32,
         "popularity": 27.8759,
         "genreIds": [
           16,
@@ -437,26 +437,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1477104?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1567937,
-        "type": "movie",
-        "title": "V",
-        "originalTitle": "空枪",
-        "overview": "In the early 1990s, this city of desire, once a land of opportunity, was plagued by rampant crime and a breakdown of order. Man Tsz-keung, a working-class man desperate to change his fate, meets flight attendant Lok Ka-yuen, and the two team up to rob a large sum of money. This success fuels Man Tsz-keung's madness, pushing him into a deeper power struggle with wealthy businessman Chan Fai-yin. Meanwhile, mainland police officer Qi Honggang and Hong Kong police officer Guan Suchen continue their investigation of Wan Ziqiang, leading to a joint operation between the two police forces, setting the stage for a clash between good and evil. This film is fictional.",
-        "poster": "/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
-        "backdrop": "/mm8VecTY7YxWevgS8F2ygqLMAiv.jpg",
-        "date": "2026-08-19",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 9,
-        "popularity": 12.9921,
-        "genreIds": [
-          18,
-          80
-        ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/movie/1567937?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1003596,
@@ -480,6 +460,28 @@
         "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1108427,
+        "type": "movie",
+        "title": "Moana",
+        "originalTitle": "Moana",
+        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "poster": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "date": "2026-07-08",
+        "year": "2026",
+        "rating": 7.5,
+        "votes": 965,
+        "popularity": 102.0144,
+        "genreIds": [
+          10751,
+          14,
+          35,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1108427?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 153312,
         "type": "tv",
         "title": "Tulsa King",
@@ -490,7 +492,7 @@
         "date": "2022-11-13",
         "year": "2022",
         "rating": 8.3,
-        "votes": 2857,
+        "votes": 2861,
         "popularity": 259.6778,
         "genreIds": [
           80,
@@ -501,24 +503,23 @@
         "iframe": "https://peachify.top/embed/tv/153312?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 335535,
+        "id": 316702,
         "type": "tv",
-        "title": "Fading Grandeur",
-        "originalTitle": "Grande de España",
-        "overview": "Desperate to sell his crumbling mansion, a fallen marquis tries to make a quick deal with a charming yet mysterious millionaire who has her own agenda.",
-        "poster": "/4AUgc7JhcLQHNzoa1l0jwxBdK0.jpg",
-        "backdrop": "/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
-        "date": "2026-10-23",
+        "title": "Final Table",
+        "originalTitle": "파이널 테이블",
+        "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+        "poster": "/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+        "backdrop": "/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+        "date": "2026-10-24",
         "year": "2026",
         "rating": null,
         "votes": 0,
-        "popularity": 16.1184,
+        "popularity": 6.9202,
         "genreIds": [
-          35,
           18
         ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/tv/335535?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/316702?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 213375,
@@ -531,7 +532,7 @@
         "date": "2026-10-13",
         "year": "2026",
         "rating": 8.7,
-        "votes": 171,
+        "votes": 172,
         "popularity": 342.2431,
         "genreIds": [
           10765,
@@ -541,45 +542,46 @@
         "iframe": "https://peachify.top/embed/tv/213375?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 286171,
-        "type": "tv",
-        "title": "Tigers Sniff the Rose",
-        "originalTitle": "尚公主",
-        "overview": "Princess Danyang, Mu Wanyao, a formidable and arrogant royal, is married to Yan Shang, a cunning scholar of humble origins. Amid court intrigues, they move from rivalry and mutual suspicion to reconciliation, becoming powerful allies who join forces to break political deadlocks and safeguard peace.",
-        "poster": "/5OuUPWLwr5JKLZBhzF7antNWdvY.jpg",
-        "backdrop": "/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
-        "date": "2026-10-23",
-        "year": "2026",
-        "rating": 8,
-        "votes": 1,
-        "popularity": 14.199,
-        "genreIds": [
-          18
-        ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/tv/286171?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1108427,
+        "id": 791523,
         "type": "movie",
-        "title": "Moana",
-        "originalTitle": "Moana",
-        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-        "poster": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-        "date": "2026-07-08",
+        "title": "Wildwood",
+        "originalTitle": "Wildwood",
+        "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+        "poster": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "backdrop": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+        "date": "2026-10-19",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 964,
-        "popularity": 102.0144,
+        "rating": 8.6,
+        "votes": 31,
+        "popularity": 75.5267,
         "genreIds": [
-          10751,
-          14,
-          35,
-          12
+          16,
+          12,
+          14
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1108427?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/791523?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 288673,
+        "type": "tv",
+        "title": "Carrie",
+        "originalTitle": "Carrie",
+        "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+        "poster": "/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+        "backdrop": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+        "date": "2026-10-07",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 444,
+        "popularity": 186.6257,
+        "genreIds": [
+          9648,
+          18,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/288673?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -2148,7 +2150,7 @@
         "date": "2005-03-27",
         "year": "2005",
         "rating": 8.2,
-        "votes": 11094,
+        "votes": 11095,
         "popularity": 9717.4016,
         "genreIds": [
           18
@@ -2166,7 +2168,7 @@
         "date": "2011-09-22",
         "year": "2011",
         "rating": 8.1,
-        "votes": 2201,
+        "votes": 2202,
         "popularity": 5730.6245,
         "genreIds": [
           10759,
@@ -2191,6 +2193,26 @@
         "genreIds": [
           35,
           10765
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1426,
+        "type": "tv",
+        "title": "Luther",
+        "originalTitle": "Luther",
+        "overview": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
+        "poster": "/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
+        "backdrop": "/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
+        "date": "2010-05-04",
+        "year": "2010",
+        "rating": 7.9,
+        "votes": 1270,
+        "popularity": 2360.6517,
+        "genreIds": [
+          80,
+          18,
+          9648
         ],
         "lang": "en"
       },
@@ -2226,7 +2248,7 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 9,
-        "votes": 18924,
+        "votes": 18933,
         "popularity": 1586.4702,
         "genreIds": [
           18,
@@ -2235,22 +2257,21 @@
         "lang": "en"
       },
       {
-        "id": 1426,
+        "id": 1480,
         "type": "tv",
-        "title": "Luther",
-        "originalTitle": "Luther",
-        "overview": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
-        "poster": "/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
-        "backdrop": "/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
-        "date": "2010-05-04",
-        "year": "2010",
-        "rating": 7.9,
-        "votes": 1270,
-        "popularity": 2360.6517,
+        "title": "Ally McBeal",
+        "originalTitle": "Ally McBeal",
+        "overview": "Ally McBeal is a young lawyer working at the Boston law firm Cage and Fish.  Ally's lives and loves are eccentric, humorous, dramatic with an incredibly overactive imagination that's working overtime!",
+        "poster": "/weS8htxS2j0EQ6jorK3WOR1dZpH.jpg",
+        "backdrop": "/xCMs3IxaGqKSc5cwngRUlhmjbwl.jpg",
+        "date": "1997-09-08",
+        "year": "1997",
+        "rating": 6.5,
+        "votes": 390,
+        "popularity": 1384.9736,
         "genreIds": [
-          80,
           18,
-          9648
+          35
         ],
         "lang": "en"
       },
@@ -2293,23 +2314,23 @@
         "lang": "en"
       },
       {
-        "id": 1480,
+        "id": 70528,
         "type": "tv",
-        "title": "Ally McBeal",
-        "originalTitle": "Ally McBeal",
-        "overview": "Ally McBeal is a young lawyer working at the Boston law firm Cage and Fish.  Ally's lives and loves are eccentric, humorous, dramatic with an incredibly overactive imagination that's working overtime!",
-        "poster": "/weS8htxS2j0EQ6jorK3WOR1dZpH.jpg",
-        "backdrop": "/xCMs3IxaGqKSc5cwngRUlhmjbwl.jpg",
-        "date": "1997-09-08",
-        "year": "1997",
-        "rating": 6.5,
-        "votes": 390,
-        "popularity": 1384.9736,
+        "title": "Chicago Typewriter",
+        "originalTitle": "시카고 타자기",
+        "overview": "Writers that lived under Japanese rule in the 1930's are reincarnated into a bestselling writer who is in a slump, a mysterious ghostwriter and an anti-fan of the bestselling writer.",
+        "poster": "/1FLgKAjoa4dY3z31nTjZj3Dgr6q.jpg",
+        "backdrop": "/f44Ykw0MnAcFvBeYhmdKekcX35J.jpg",
+        "date": "2017-04-07",
+        "year": "2017",
+        "rating": 7.9,
+        "votes": 49,
+        "popularity": 1019.3386,
         "genreIds": [
-          18,
-          35
+          10765,
+          18
         ],
-        "lang": "en"
+        "lang": "ko"
       },
       {
         "id": 136315,
@@ -2322,7 +2343,7 @@
         "date": "2022-06-23",
         "year": "2022",
         "rating": 8.2,
-        "votes": 1997,
+        "votes": 2000,
         "popularity": 905.985,
         "genreIds": [
           18,
@@ -2351,22 +2372,6 @@
         "lang": "cn"
       },
       {
-        "id": 15325,
-        "type": "tv",
-        "title": "Dagsrevyen",
-        "originalTitle": "Dagsrevyen",
-        "overview": "Dagsrevyen is the daily evening news programme for the Norwegian television channel NRK1, the main channel of the Norwegian Broadcasting Corporation, broadcast at 19:00. In 2007, the programme started airing simultaneously on NRK's dedicated news channel NRK2, but this arrangement ended that same year. Dagsrevyen's first newscast was broadcast in 1958 and it has kept its name since. It is Norway's most viewed programme, with daily ratings of around one million. Around 200 people are involved in its production, with headquarters at Marienlyst in Oslo.\n\nDagsrevyen aims at fewer, but longer and more extensive stories than its competitors. NRK hosts a tight network of domestic journalists in addition to international correspondence offices, though NRK also uses footage acquired through the European Broadcasting Union. There are always two anchors, one male and one female. The Saturday and Sunday broadcasts are dubbed Lørdagsrevyen and Søndagsrevyen, respectively.\n\nThe editor of television news is Solveig Tvedt and the lead news editor is Stein Bjøntegård.\n\nOther news-related broadcasts on NRK include Dagsrevyen 21, Kveldsnytt, Standpunkt, RedaksjonEN, Urix and Dagsnytt, plus the radio shows Ukeslutt, Dagsnytt 18 and Her og Nå. NRK also broadcasts daily newscasts from most regional offices.",
-        "poster": "/5wGSp6VaXG406ZbgQoJizPKUE79.jpg",
-        "backdrop": "/lBXXZJAUN1UbuoAXxjCMVPp6hSD.jpg",
-        "date": "1958-12-02",
-        "year": "1958",
-        "rating": 8,
-        "votes": 2,
-        "popularity": 506.8129,
-        "genreIds": [],
-        "lang": "no"
-      },
-      {
         "id": 22980,
         "type": "tv",
         "title": "Watch What Happens Live with Andy Cohen",
@@ -2386,20 +2391,36 @@
         "lang": "en"
       },
       {
-        "id": 70528,
+        "id": 15325,
         "type": "tv",
-        "title": "Chicago Typewriter",
-        "originalTitle": "시카고 타자기",
-        "overview": "Writers that lived under Japanese rule in the 1930's are reincarnated into a bestselling writer who is in a slump, a mysterious ghostwriter and an anti-fan of the bestselling writer.",
-        "poster": "/1FLgKAjoa4dY3z31nTjZj3Dgr6q.jpg",
-        "backdrop": "/f44Ykw0MnAcFvBeYhmdKekcX35J.jpg",
-        "date": "2017-04-07",
-        "year": "2017",
+        "title": "Dagsrevyen",
+        "originalTitle": "Dagsrevyen",
+        "overview": "Dagsrevyen is the daily evening news programme for the Norwegian television channel NRK1, the main channel of the Norwegian Broadcasting Corporation, broadcast at 19:00. In 2007, the programme started airing simultaneously on NRK's dedicated news channel NRK2, but this arrangement ended that same year. Dagsrevyen's first newscast was broadcast in 1958 and it has kept its name since. It is Norway's most viewed programme, with daily ratings of around one million. Around 200 people are involved in its production, with headquarters at Marienlyst in Oslo.\n\nDagsrevyen aims at fewer, but longer and more extensive stories than its competitors. NRK hosts a tight network of domestic journalists in addition to international correspondence offices, though NRK also uses footage acquired through the European Broadcasting Union. There are always two anchors, one male and one female. The Saturday and Sunday broadcasts are dubbed Lørdagsrevyen and Søndagsrevyen, respectively.\n\nThe editor of television news is Solveig Tvedt and the lead news editor is Stein Bjøntegård.\n\nOther news-related broadcasts on NRK include Dagsrevyen 21, Kveldsnytt, Standpunkt, RedaksjonEN, Urix and Dagsnytt, plus the radio shows Ukeslutt, Dagsnytt 18 and Her og Nå. NRK also broadcasts daily newscasts from most regional offices.",
+        "poster": "/5wGSp6VaXG406ZbgQoJizPKUE79.jpg",
+        "backdrop": "/lBXXZJAUN1UbuoAXxjCMVPp6hSD.jpg",
+        "date": "1958-12-02",
+        "year": "1958",
         "rating": 8,
-        "votes": 48,
-        "popularity": 1019.3386,
+        "votes": 2,
+        "popularity": 506.8129,
+        "genreIds": [],
+        "lang": "no"
+      },
+      {
+        "id": 62933,
+        "type": "tv",
+        "title": "Hello Monster",
+        "originalTitle": "너를 기억해",
+        "overview": "A top detective is reunited with a childhood friend who has since become a leading criminal profiler. Can they join forces to stop a serial killer?",
+        "poster": "/t1f0EKjQGCd5ip8TLJzDFOEDDdK.jpg",
+        "backdrop": "/2RyoO9g8UskEfl2J27Am7l8Nnjx.jpg",
+        "date": "2015-06-22",
+        "year": "2015",
+        "rating": 7.3,
+        "votes": 130,
+        "popularity": 463.346,
         "genreIds": [
-          10765,
+          9648,
           18
         ],
         "lang": "ko"
@@ -2481,41 +2502,27 @@
         "lang": "en"
       },
       {
-        "id": 94722,
+        "id": 65733,
         "type": "tv",
-        "title": "Tagesschau",
-        "originalTitle": "Tagesschau",
-        "overview": "German daily news program, the oldest still existing program on German television.",
-        "poster": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "backdrop": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
-        "date": "1952-12-26",
-        "year": "1952",
-        "rating": 6.8,
-        "votes": 256,
-        "popularity": 346.9982,
+        "title": "Doraemon",
+        "originalTitle": "ドラえもん",
+        "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+        "poster": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "backdrop": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
+        "date": "2005-04-22",
+        "year": "2005",
+        "rating": 8.1,
+        "votes": 254,
+        "popularity": 366.3917,
         "genreIds": [
-          10763
-        ],
-        "lang": "de"
-      },
-      {
-        "id": 213375,
-        "type": "tv",
-        "title": "VisionQuest",
-        "originalTitle": "VisionQuest",
-        "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-        "poster": "/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-        "backdrop": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-        "date": "2026-10-13",
-        "year": "2026",
-        "rating": 8.8,
-        "votes": 168,
-        "popularity": 342.2431,
-        "genreIds": [
+          10759,
+          16,
+          35,
           10765,
-          18
+          10762,
+          10751
         ],
-        "lang": "en"
+        "lang": "ja"
       }
     ],
     "topTv": [
@@ -3715,11 +3722,31 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.8,
-        "votes": 2330,
+        "votes": 2333,
         "popularity": 47.7303,
         "genreIds": [
           16,
           28,
+          14
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 129,
+        "type": "movie",
+        "title": "Spirited Away",
+        "originalTitle": "千と千尋の神隠し",
+        "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+        "poster": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "backdrop": "/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
+        "date": "2001-07-20",
+        "year": "2001",
+        "rating": 8.5,
+        "votes": 19107,
+        "popularity": 47.8657,
+        "genreIds": [
+          16,
+          10751,
           14
         ],
         "lang": "ja"
@@ -3735,32 +3762,12 @@
         "date": "2004-09-09",
         "year": "2004",
         "rating": 8.4,
-        "votes": 11599,
+        "votes": 11600,
         "popularity": 45.0256,
         "genreIds": [
           14,
           16,
           12
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 129,
-        "type": "movie",
-        "title": "Spirited Away",
-        "originalTitle": "千と千尋の神隠し",
-        "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
-        "poster": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
-        "backdrop": "/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
-        "date": "2001-07-20",
-        "year": "2001",
-        "rating": 8.5,
-        "votes": 19103,
-        "popularity": 47.8657,
-        "genreIds": [
-          16,
-          10751,
-          14
         ],
         "lang": "ja"
       },
@@ -3795,7 +3802,7 @@
         "date": "2025-09-19",
         "year": "2025",
         "rating": 8.5,
-        "votes": 1253,
+        "votes": 1255,
         "popularity": 32.7692,
         "genreIds": [
           16,
@@ -3816,7 +3823,7 @@
         "date": "1997-07-12",
         "year": "1997",
         "rating": 8.3,
-        "votes": 9404,
+        "votes": 9406,
         "popularity": 31.3642,
         "genreIds": [
           12,
@@ -3836,7 +3843,7 @@
         "date": "1995-11-18",
         "year": "1995",
         "rating": 7.9,
-        "votes": 4113,
+        "votes": 4114,
         "popularity": 25.3496,
         "genreIds": [
           28,
@@ -3856,7 +3863,7 @@
         "date": "1988-04-16",
         "year": "1988",
         "rating": 8.1,
-        "votes": 9188,
+        "votes": 9190,
         "popularity": 25.1345,
         "genreIds": [
           14,
@@ -3897,50 +3904,11 @@
         "date": "1989-07-29",
         "year": "1989",
         "rating": 7.8,
-        "votes": 4799,
+        "votes": 4800,
         "popularity": 20.6671,
         "genreIds": [
           16,
           10751,
-          14
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 10494,
-        "type": "movie",
-        "title": "Perfect Blue",
-        "originalTitle": "PERFECT BLUE",
-        "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
-        "poster": "/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
-        "backdrop": "/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-        "date": "1998-02-28",
-        "year": "1998",
-        "rating": 8.3,
-        "votes": 3412,
-        "popularity": 17.4278,
-        "genreIds": [
-          16,
-          53
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 81,
-        "type": "movie",
-        "title": "Warriors of the Wind",
-        "originalTitle": "風の谷のナウシカ",
-        "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
-        "poster": "/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
-        "backdrop": "/z2jsAbXWGdJvadhovznjGg33VND.jpg",
-        "date": "1984-03-11",
-        "year": "1984",
-        "rating": 7.9,
-        "votes": 4252,
-        "popularity": 16.9465,
-        "genreIds": [
-          12,
-          16,
           14
         ],
         "lang": "ja"
@@ -3966,6 +3934,65 @@
         "lang": "ja"
       },
       {
+        "id": 10494,
+        "type": "movie",
+        "title": "Perfect Blue",
+        "originalTitle": "PERFECT BLUE",
+        "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
+        "poster": "/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+        "backdrop": "/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+        "date": "1998-02-28",
+        "year": "1998",
+        "rating": 8.3,
+        "votes": 3413,
+        "popularity": 17.4278,
+        "genreIds": [
+          16,
+          53
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 149,
+        "type": "movie",
+        "title": "Akira",
+        "originalTitle": "AKIRA",
+        "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+        "poster": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+        "backdrop": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+        "date": "1988-07-16",
+        "year": "1988",
+        "rating": 7.9,
+        "votes": 5084,
+        "popularity": 17.0588,
+        "genreIds": [
+          16,
+          878,
+          28
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 81,
+        "type": "movie",
+        "title": "Warriors of the Wind",
+        "originalTitle": "風の谷のナウシカ",
+        "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+        "poster": "/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
+        "backdrop": "/z2jsAbXWGdJvadhovznjGg33VND.jpg",
+        "date": "1984-03-11",
+        "year": "1984",
+        "rating": 7.9,
+        "votes": 4253,
+        "popularity": 16.9465,
+        "genreIds": [
+          12,
+          16,
+          14
+        ],
+        "lang": "ja"
+      },
+      {
         "id": 378064,
         "type": "movie",
         "title": "A Silent Voice: The Movie",
@@ -3982,48 +4009,6 @@
           16,
           18,
           10749
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 10515,
-        "type": "movie",
-        "title": "Castle in the Sky",
-        "originalTitle": "天空の城ラピュタ",
-        "overview": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
-        "poster": "/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg",
-        "backdrop": "/3cyjYtLWCBE1uvWINHFsFnE8LUK.jpg",
-        "date": "1986-08-02",
-        "year": "1986",
-        "rating": 8,
-        "votes": 4853,
-        "popularity": 15.1749,
-        "genreIds": [
-          12,
-          14,
-          16,
-          28,
-          10751
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 37797,
-        "type": "movie",
-        "title": "Whisper of the Heart",
-        "originalTitle": "耳をすませば",
-        "overview": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: \"Seiji Amasawa.\"",
-        "poster": "/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg",
-        "backdrop": "/rphor0XQcYO4CQoQ6auaQm3UPap.jpg",
-        "date": "1995-07-15",
-        "year": "1995",
-        "rating": 7.9,
-        "votes": 2388,
-        "popularity": 15.772,
-        "genreIds": [
-          16,
-          18,
-          10751
         ],
         "lang": "ja"
       },
@@ -4047,44 +4032,22 @@
         "lang": "ja"
       },
       {
-        "id": 18491,
+        "id": 37797,
         "type": "movie",
-        "title": "Neon Genesis Evangelion: The End of Evangelion",
-        "originalTitle": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
-        "overview": "SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
-        "poster": "/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
-        "backdrop": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
-        "date": "1997-07-19",
-        "year": "1997",
-        "rating": 8.3,
-        "votes": 1989,
-        "popularity": 15.5145,
-        "genreIds": [
-          16,
-          878,
-          18,
-          14,
-          28
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 149,
-        "type": "movie",
-        "title": "Akira",
-        "originalTitle": "AKIRA",
-        "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
-        "poster": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
-        "backdrop": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
-        "date": "1988-07-16",
-        "year": "1988",
+        "title": "Whisper of the Heart",
+        "originalTitle": "耳をすませば",
+        "overview": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: \"Seiji Amasawa.\"",
+        "poster": "/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg",
+        "backdrop": "/rphor0XQcYO4CQoQ6auaQm3UPap.jpg",
+        "date": "1995-07-15",
+        "year": "1995",
         "rating": 7.9,
-        "votes": 5082,
-        "popularity": 17.0588,
+        "votes": 2389,
+        "popularity": 15.772,
         "genreIds": [
           16,
-          878,
-          28
+          18,
+          10751
         ],
         "lang": "ja"
       },
@@ -4099,12 +4062,55 @@
         "date": "2023-07-14",
         "year": "2023",
         "rating": 7.4,
-        "votes": 2874,
+        "votes": 2875,
         "popularity": 16.4205,
         "genreIds": [
           16,
           14,
           18
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 18491,
+        "type": "movie",
+        "title": "Neon Genesis Evangelion: The End of Evangelion",
+        "originalTitle": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
+        "overview": "SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
+        "poster": "/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
+        "backdrop": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+        "date": "1997-07-19",
+        "year": "1997",
+        "rating": 8.3,
+        "votes": 1990,
+        "popularity": 15.5145,
+        "genreIds": [
+          16,
+          878,
+          18,
+          14,
+          28
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 568160,
+        "type": "movie",
+        "title": "Weathering with You",
+        "originalTitle": "天気の子",
+        "overview": "The summer of his high school freshman year, Hodaka runs away from his remote island home to Tokyo, and quickly finds himself pushed to his financial and personal limits. The weather is unusually gloomy and rainy every day, as if taking its cue from his life. After many days of solitude, he finally finds work as a freelance writer for a mysterious occult magazine. Then, one day, Hodaka meets Hina on a busy street corner. This bright and strong-willed girl possesses a strange and wonderful ability: the power to stop the rain and clear the sky.",
+        "poster": "/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg",
+        "backdrop": "/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg",
+        "date": "2019-07-19",
+        "year": "2019",
+        "rating": 8,
+        "votes": 2749,
+        "popularity": 14.3362,
+        "genreIds": [
+          16,
+          18,
+          14,
+          10749
         ],
         "lang": "ja"
       }
